@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-08 17:49:51",
-            "number": "79858146799",
-            "cli": "ALISERVICE",
-            "message": "[HKTicketing]Verification code: 886552, valid for 10 minutes. Enter it as shown and keep it confidential."
+            "datetime": "2026-08-08 19:18:51",
+            "number": "59170717689",
+            "cli": "Microsoft",
+            "message": "Use verification code 829099 for Microsoft authentication."
         },
         {
-            "datetime": "2026-08-08 17:49:49",
-            "number": "79618036753",
-            "cli": "ALISERVICE",
-            "message": "[HKTicketing]Verification code: 366415, valid for 10 minutes. Enter it as shown and keep it confidential."
+            "datetime": "2026-08-08 19:18:47",
+            "number": "50249061382",
+            "cli": "PAYPAL",
+            "message": "&lt;#&gt; PayPal: Your security code is 124131. Your code expires in 10 minutes. Please don\\&#039;t reply. 3/3p3o0TedB"
         },
         {
-            "datetime": "2026-08-08 17:49:48",
-            "number": "33778404698",
+            "datetime": "2026-08-08 19:18:47",
+            "number": "50249061382",
+            "cli": "PAYPAL",
+            "message": "&lt;#&gt; PayPal: Your security code is 479035. Your code expires in 10 minutes. Please don\\&#039;t reply. 3/3p3o0TedB"
+        },
+        {
+            "datetime": "2026-08-08 19:18:25",
+            "number": "593979605237",
+            "cli": "80088",
+            "message": "Tu cÃ³digo de seguridad de Discord es: 916927 \\n\\ntzD9jY28Wrn"
+        },
+        {
+            "datetime": "2026-08-08 19:18:08",
+            "number": "33646536614",
             "cli": "Huawei",
-            "message": "130121 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
+            "message": "392173 - Huawei verification code."
         },
         {
-            "datetime": "2026-08-08 17:49:47",
-            "number": "79692837971",
-            "cli": "ALISERVICE",
-            "message": "[HKTicketing]Verification code: 162516, valid for 10 minutes. Enter it as shown and keep it confidential."
-        },
-        {
-            "datetime": "2026-08-08 17:49:44",
-            "number": "33778404698",
+            "datetime": "2026-08-08 19:18:04",
+            "number": "33646536614",
             "cli": "Huawei",
-            "message": "130121 - Codigo de verificacao da Huawei para redefinir a senha. STOP 36047"
+            "message": "392173 - Huawei verification code. STOP 36047"
         },
         {
-            "datetime": "2026-08-08 17:49:43",
-            "number": "79086322623",
-            "cli": "AUTHMSG",
-            "message": "TFOS: 317446 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-08 17:49:42",
-            "number": "79088522396",
-            "cli": "AUTHMSG",
-            "message": "TFOS: 390577 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-08 17:49:37",
-            "number": "33778404698",
+            "datetime": "2026-08-08 19:17:51",
+            "number": "33626222044",
             "cli": "Huawei",
-            "message": "130121 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
+            "message": "047128 - Huawei verification code to reset password."
         },
         {
-            "datetime": "2026-08-08 17:49:25",
-            "number": "33778404698",
+            "datetime": "2026-08-08 19:17:42",
+            "number": "33612051813",
             "cli": "Huawei",
-            "message": "130121 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
+            "message": "219100 - Huawei verification code to reset password."
         },
         {
-            "datetime": "2026-08-08 17:49:19",
-            "number": "33778404698",
+            "datetime": "2026-08-08 19:17:41",
+            "number": "33602738076",
             "cli": "Huawei",
-            "message": "130121 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
+            "message": "047437 - Huawei verification code to reset password."
+        },
+        {
+            "datetime": "2026-08-08 19:17:41",
+            "number": "50249061385",
+            "cli": "PAYPAL",
+            "message": "&lt;#&gt; PayPal: Your security code is 478059. Your code expires in 10 minutes. Please don\\&#039;t reply. 3/3p3o0TedB"
         }
     ]
 }
