@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-09 14:04:57",
-            "number": "79262745118",
-            "cli": "Ticketon",
-            "message": "Code: 8079. ÐÐ¸ÐºÐ¾Ð¼Ñ Ð½Ðµ ÑÐ¾Ð¾Ð±ÑÐ°Ð¹ÑÐµ Ð´Ð°Ð½Ð½ÑÐ¹ ÐºÐ¾Ð´!"
+            "datetime": "2026-08-09 15:52:08",
+            "number": "79058633467",
+            "cli": "huawei",
+            "message": "783280 - Huawei verification code to register HUAWEI ID."
         },
         {
-            "datetime": "2026-08-09 14:04:37",
-            "number": "79651509849",
-            "cli": "Ticketon",
-            "message": "Code: 2823. ÐÐ¸ÐºÐ¾Ð¼Ñ Ð½Ðµ ÑÐ¾Ð¾Ð±ÑÐ°Ð¹ÑÐµ Ð´Ð°Ð½Ð½ÑÐ¹ ÐºÐ¾Ð´!"
+            "datetime": "2026-08-09 15:52:05",
+            "number": "79033541969",
+            "cli": "AUTHMSG",
+            "message": "TFOS: 485006 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-09 14:04:35",
-            "number": "59170193429",
-            "cli": "TravelInfo",
-            "message": "Le informamos de que el asiento del vuelo OB600 ha cambiado de 020E a 022F. Atentamente,\\r\\n"
+            "datetime": "2026-08-09 15:51:23",
+            "number": "79875884645",
+            "cli": "huawei",
+            "message": "396653 - Huawei verification code to register HUAWEI ID."
         },
         {
-            "datetime": "2026-08-09 14:02:34",
-            "number": "33616324024",
+            "datetime": "2026-08-09 15:51:20",
+            "number": "79035619700",
+            "cli": "AUTHMSG",
+            "message": "TFOS: 866720 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-09 15:51:14",
+            "number": "33623752398",
             "cli": "Huawei",
-            "message": "146769 - Huawei verification code to reset password."
+            "message": "245385 - Huawei verification code to reset password."
         },
         {
-            "datetime": "2026-08-09 14:02:25",
-            "number": "33616324024",
+            "datetime": "2026-08-09 15:51:07",
+            "number": "79875884645",
             "cli": "Huawei",
-            "message": "146769 - Huawei verification code to reset password. STOP 36047"
+            "message": "396653 - Huawei verification code to register HUAWEI ID."
         },
         {
-            "datetime": "2026-08-09 14:02:02",
-            "number": "59170725150",
-            "cli": "Microsoft",
-            "message": "El cÃ³digo de verificaciÃ³n de la cuenta Microsoft es 952827."
+            "datetime": "2026-08-09 15:50:54",
+            "number": "79035619700",
+            "cli": "AUTHMSG",
+            "message": "TFOS: 700654 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-09 14:01:40",
-            "number": "33616324024",
-            "cli": "Huawei",
-            "message": "146769 - Huawei verification code to reset password."
+            "datetime": "2026-08-09 15:50:48",
+            "number": "79836109307",
+            "cli": "NXCOMM",
+            "message": "Haga clic aqu para inscribirse en Okta Verify : https://public.login.sabre.com/auth/push/link/ftI59Dsa9qk4DfY4tyIbC4_eXgWEgJWDpa/aut1varyz8wfLHZRf1d8"
         },
         {
-            "datetime": "2026-08-09 14:00:09",
-            "number": "79221296155",
-            "cli": "Facebook",
-            "message": "&lt;#&gt; 630745 is your Instagram code. Don\\&#039;t share it."
+            "datetime": "2026-08-09 15:50:30",
+            "number": "79035619700",
+            "cli": "AUTHMSG",
+            "message": "TFOS: 865680 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-09 13:57:00",
-            "number": "33603649208",
-            "cli": "Huawei",
-            "message": "222496 - Huawei verification code to reset password."
-        },
-        {
-            "datetime": "2026-08-09 13:57:00",
-            "number": "79035202051",
-            "cli": "NOTICE",
-            "message": "Payment unsuccessful: EUR60.65\\nReason: Insufficient funds\\nBalance: EUR54.90\\nCard:***2101\\nOPENAI *CHATGPT SUBSCR&gt;DUBLIN IE"
+            "datetime": "2026-08-09 15:50:07",
+            "number": "79035619700",
+            "cli": "AUTHMSG",
+            "message": "TFOS: 347276 - phone number confirmation code"
         }
     ]
 }
