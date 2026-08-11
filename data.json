@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-11 08:14:06",
-            "number": "6289603928109",
-            "cli": "Qsms",
-            "message": "178550"
+            "datetime": "2026-08-11 11:09:20",
+            "number": "79516435103",
+            "cli": "AUTHMSG",
+            "message": "TFOS: 723035 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-11 08:14:02",
-            "number": "79315071607",
-            "cli": "447873077777",
-            "message": "CW verification code: 295813. Do not share or disclose."
-        },
-        {
-            "datetime": "2026-08-11 08:13:46",
-            "number": "79273282012",
+            "datetime": "2026-08-11 11:09:01",
+            "number": "201195180909",
             "cli": "Huawei",
-            "message": "140301 - Huawei verification code to register HUAWEI ID."
+            "message": "362332 - Huawei verification code to register HUAWEI ID."
         },
         {
-            "datetime": "2026-08-11 08:13:39",
-            "number": "79273282012",
+            "datetime": "2026-08-11 11:09:00",
+            "number": "33614789259",
             "cli": "Huawei",
-            "message": "140301 - Huawei verification code to register HUAWEI ID."
+            "message": "799063 - Huawei verification code. STOP 36047"
         },
         {
-            "datetime": "2026-08-11 08:12:52",
-            "number": "79046961111",
-            "cli": "IQOS",
-            "message": "ÐÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ: 111111. Ð¡Ð»ÑÐ¶Ð±Ð° Ð·Ð°Ð±Ð¾ÑÑ: iqos.net.ru/zabota"
+            "datetime": "2026-08-11 11:08:54",
+            "number": "79516435103",
+            "cli": "AUTHMSG",
+            "message": "TFOS: 791152 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-11 08:10:40",
-            "number": "79117124750",
-            "cli": "OKTA",
-            "message": "ÑÐ¹ ÐºÐ¾Ð´: 581089."
+            "datetime": "2026-08-11 11:08:22",
+            "number": "79516435103",
+            "cli": "AUTHMSG",
+            "message": "TFOS: 346969 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-11 08:10:40",
-            "number": "79117124750",
-            "cli": "OKTA",
-            "message": "Ð¡Ð¸ÑÑÐµÐ¼Ð° ÐºÐ¾Ð½ÑÑÐ¾Ð»Ñ Ð±ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾ÑÑÐ¸ ÑÐ²ÑÐ·Ð¸ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸ PepsiCo: Ð²Ð°Ñ Ð¾Ð´Ð½Ð¾ÑÐ°Ð·Ð¾Ð²"
+            "datetime": "2026-08-11 11:07:47",
+            "number": "79181657130",
+            "cli": "AUTHMSG",
+            "message": "TFOS: 018548 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-11 08:08:21",
-            "number": "79654141226",
-            "cli": "447873077777",
-            "message": "CW verification code: 914827. Do not share or disclose."
+            "datetime": "2026-08-11 11:07:46",
+            "number": "79505861231",
+            "cli": "Huawei",
+            "message": "835266: ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Huawei Ð´Ð»Ñ ÑÐµÐ³Ð¸ÑÑÑÐ°ÑÐ¸Ð¸ Ð°ÐºÐºÐ°ÑÐ½ÑÐ° HUAWEI."
         },
         {
-            "datetime": "2026-08-11 08:08:15",
-            "number": "79045058010",
-            "cli": "447873077777",
-            "message": "CW verification code: 697805. Do not share or disclose."
+            "datetime": "2026-08-11 11:07:18",
+            "number": "79182590200",
+            "cli": "AUTHMSG",
+            "message": "TFOS: 846156 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-11 08:07:55",
-            "number": "79654141226",
-            "cli": "447873077777",
-            "message": "CW verification code: 521370. Do not share or disclose."
+            "datetime": "2026-08-11 11:07:03",
+            "number": "33614789259",
+            "cli": "Huawei",
+            "message": "276433 - Huawei verification code."
+        },
+        {
+            "datetime": "2026-08-11 11:06:43",
+            "number": "33601923257",
+            "cli": "Huawei",
+            "message": "127623 - Huawei verification code."
         }
     ]
 }
