@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-13 12:06:23",
-            "number": "79111337757",
-            "cli": "AUTHMSG",
-            "message": "TFOS: 338474 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-13 12:06:17",
-            "number": "33623887430",
+            "datetime": "2026-08-13 15:34:20",
+            "number": "33616324029",
             "cli": "Huawei",
-            "message": "753400 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
+            "message": "402694 - Huawei verification code to set security phone number."
         },
         {
-            "datetime": "2026-08-13 12:06:12",
-            "number": "79517297568",
+            "datetime": "2026-08-13 15:34:17",
+            "number": "584164440614",
             "cli": "Huawei",
-            "message": "Authorization code: 395512 Valid for 5 minutes."
+            "message": "054629 - Huawei verification code to reset password."
         },
         {
-            "datetime": "2026-08-13 12:06:11",
-            "number": "79651365507",
+            "datetime": "2026-08-13 15:34:12",
+            "number": "77078891951",
+            "cli": "Glovo",
+            "message": "Glovo ÐºÐ¾Ð´: 9309. ÐÐµÐ¹ÑÑÐ²Ð¸ÑÐµÐ»ÐµÐ½ ÑÐ»ÐµÐ´ÑÑÑÐ¸Ðµ 3 Ð¼Ð¸Ð½ÑÑ."
+        },
+        {
+            "datetime": "2026-08-13 15:33:28",
+            "number": "33780115608",
             "cli": "Huawei",
-            "message": "946100 - Huawei verification code to register HUAWEI ID."
+            "message": "908475 - Huawei verification code to set security phone number."
         },
         {
-            "datetime": "2026-08-13 12:06:00",
-            "number": "79651365507",
+            "datetime": "2026-08-13 15:33:28",
+            "number": "79089113366",
+            "cli": "FR.TRAVEL",
+            "message": "Your verification code: 8058. DO NOT SHARE THE CODE WITH ANYONE!"
+        },
+        {
+            "datetime": "2026-08-13 15:32:53",
+            "number": "77078891951",
+            "cli": "Glovo",
+            "message": "Glovo ÐºÐ¾Ð´: 9309. ÐÐµÐ¹ÑÑÐ²Ð¸ÑÐµÐ»ÐµÐ½ ÑÐ»ÐµÐ´ÑÑÑÐ¸Ðµ 3 Ð¼Ð¸Ð½ÑÑ."
+        },
+        {
+            "datetime": "2026-08-13 15:32:40",
+            "number": "33619294655",
             "cli": "Huawei",
-            "message": "946100 - Huawei verification code to register HUAWEI ID."
+            "message": "Huawei In-App Purchases verification code: 359750."
         },
         {
-            "datetime": "2026-08-13 12:05:58",
-            "number": "79782623068",
-            "cli": "MEXC",
-            "message": "[MEXC] ÐÐ¾Ð´: 776611. ÐÑ Ð·Ð°Ð¿ÑÐ¾ÑÐ¸Ð»Ð¸ Ð°Ð²ÑÐ¾ÑÐ¸Ð·Ð¾Ð²Ð°ÑÑÑÑ. ÐÐ¸ÐºÐ¾Ð³Ð´Ð° Ð½Ðµ Ð´ÐµÐ»Ð¸ÑÐµÑ"
+            "datetime": "2026-08-13 15:32:35",
+            "number": "584262275172",
+            "cli": "Huawei",
+            "message": "558949 - Huawei verification code to reset password."
         },
         {
-            "datetime": "2026-08-13 12:05:51",
-            "number": "79385279813",
-            "cli": "FREEDOM",
-            "message": "540805192855 - phone number confirmation code"
+            "datetime": "2026-08-13 15:32:35",
+            "number": "33619294655",
+            "cli": "Huawei",
+            "message": "Huawei In-App Purchases verification code: 359750. STOP 36047"
         },
         {
-            "datetime": "2026-08-13 12:05:49",
-            "number": "79539460126",
-            "cli": "AUTHMSG",
-            "message": "TFOS: 719697 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-13 12:05:42",
-            "number": "79505011121",
-            "cli": "AUTHMSG",
-            "message": "TFOS: 047603 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-13 12:05:26",
-            "number": "79385279813",
-            "cli": "FREEDOM",
-            "message": "302610224422 - phone number confirmation code"
+            "datetime": "2026-08-13 15:32:26",
+            "number": "33619294655",
+            "cli": "Huawei",
+            "message": "Huawei In-App Purchases verification code: 359750."
         }
     ]
 }
