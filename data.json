@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-13 09:43:25",
-            "number": "79233931221",
-            "cli": "FREEDOM",
-            "message": "858013198638 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-13 09:42:53",
-            "number": "213673351199",
-            "cli": "PayPal",
-            "message": "&lt;#&gt; PayPal: Your security code is 094364. Your code expires in 10 minutes. Please don\\&#039;t reply. 3/3p3o0TedB"
-        },
-        {
-            "datetime": "2026-08-13 09:42:45",
-            "number": "79280134064",
-            "cli": "Ding",
-            "message": "981705 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
-        },
-        {
-            "datetime": "2026-08-13 09:42:35",
-            "number": "79243163190",
-            "cli": "FREEDOM",
-            "message": "206294510681 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-13 09:42:24",
-            "number": "59160184290",
+            "datetime": "2026-08-13 12:06:23",
+            "number": "79111337757",
             "cli": "AUTHMSG",
-            "message": "Su codigo de verificacion para PedidosYa es: 514974"
+            "message": "TFOS: 338474 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-13 09:42:02",
-            "number": "79263840096",
-            "cli": "Apple",
-            "message": "ÐÐ¾Ð´ ÐÐºÐºÐ°ÑÐ½ÑÐ° Apple: 703468. ÐÐµ Ð´ÐµÐ»Ð¸ÑÐµÑÑ Ð¸Ð¼."
+            "datetime": "2026-08-13 12:06:17",
+            "number": "33623887430",
+            "cli": "Huawei",
+            "message": "753400 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
         },
         {
-            "datetime": "2026-08-13 09:41:54",
-            "number": "79244657986",
-            "cli": "FBROKER",
-            "message": "262399 - ÐºÐ¾Ð´ Ð´Ð»Ñ Ð²ÑÐ¾Ð´Ð° Ð² ÑÐ¸ÑÑÐµÐ¼Ñ"
+            "datetime": "2026-08-13 12:06:12",
+            "number": "79517297568",
+            "cli": "Huawei",
+            "message": "Authorization code: 395512 Valid for 5 minutes."
         },
         {
-            "datetime": "2026-08-13 09:41:54",
-            "number": "79284612148",
-            "cli": "Ding",
-            "message": "865839 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
+            "datetime": "2026-08-13 12:06:11",
+            "number": "79651365507",
+            "cli": "Huawei",
+            "message": "946100 - Huawei verification code to register HUAWEI ID."
         },
         {
-            "datetime": "2026-08-13 09:41:38",
-            "number": "79243163190",
+            "datetime": "2026-08-13 12:06:00",
+            "number": "79651365507",
+            "cli": "Huawei",
+            "message": "946100 - Huawei verification code to register HUAWEI ID."
+        },
+        {
+            "datetime": "2026-08-13 12:05:58",
+            "number": "79782623068",
+            "cli": "MEXC",
+            "message": "[MEXC] ÐÐ¾Ð´: 776611. ÐÑ Ð·Ð°Ð¿ÑÐ¾ÑÐ¸Ð»Ð¸ Ð°Ð²ÑÐ¾ÑÐ¸Ð·Ð¾Ð²Ð°ÑÑÑÑ. ÐÐ¸ÐºÐ¾Ð³Ð´Ð° Ð½Ðµ Ð´ÐµÐ»Ð¸ÑÐµÑ"
+        },
+        {
+            "datetime": "2026-08-13 12:05:51",
+            "number": "79385279813",
             "cli": "FREEDOM",
-            "message": "621908974209 - phone number confirmation code"
+            "message": "540805192855 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-13 09:41:14",
-            "number": "79282855652",
+            "datetime": "2026-08-13 12:05:49",
+            "number": "79539460126",
             "cli": "AUTHMSG",
-            "message": "662468 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
+            "message": "TFOS: 719697 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-13 12:05:42",
+            "number": "79505011121",
+            "cli": "AUTHMSG",
+            "message": "TFOS: 047603 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-13 12:05:26",
+            "number": "79385279813",
+            "cli": "FREEDOM",
+            "message": "302610224422 - phone number confirmation code"
         }
     ]
 }
