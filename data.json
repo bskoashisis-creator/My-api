@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-13 05:23:50",
-            "number": "79215760734",
-            "cli": "Huawei",
-            "message": "Authorization code: 533670 Valid for 5 minutes."
+            "datetime": "2026-08-13 09:43:25",
+            "number": "79233931221",
+            "cli": "FREEDOM",
+            "message": "858013198638 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-13 05:23:50",
-            "number": "38349170041",
-            "cli": "Riverty",
-            "message": "Your verification code is 293700. Please do not share it with anyone else."
+            "datetime": "2026-08-13 09:42:53",
+            "number": "213673351199",
+            "cli": "PayPal",
+            "message": "&lt;#&gt; PayPal: Your security code is 094364. Your code expires in 10 minutes. Please don\\&#039;t reply. 3/3p3o0TedB"
         },
         {
-            "datetime": "2026-08-13 05:23:49",
-            "number": "38349170041",
-            "cli": "Riverty",
-            "message": "Your verification code is 568061. Please do not share it with anyone else."
+            "datetime": "2026-08-13 09:42:45",
+            "number": "79280134064",
+            "cli": "Ding",
+            "message": "981705 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
         },
         {
-            "datetime": "2026-08-13 05:23:48",
-            "number": "38349170041",
-            "cli": "Riverty",
-            "message": "Your verification code is 335022. Please do not share it with anyone else."
+            "datetime": "2026-08-13 09:42:35",
+            "number": "79243163190",
+            "cli": "FREEDOM",
+            "message": "206294510681 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-13 05:23:44",
-            "number": "79311024600",
-            "cli": "Huawei",
-            "message": "Authorization code: 771035 Valid for 5 minutes."
-        },
-        {
-            "datetime": "2026-08-13 05:23:42",
-            "number": "79852912219",
-            "cli": "Huawei",
-            "message": "Authorization code: 102866 Valid for 5 minutes."
-        },
-        {
-            "datetime": "2026-08-13 05:23:38",
-            "number": "79205024134",
-            "cli": "Huawei",
-            "message": "Authorization code: 138965 Valid for 5 minutes."
-        },
-        {
-            "datetime": "2026-08-13 05:23:38",
-            "number": "79088798117",
+            "datetime": "2026-08-13 09:42:24",
+            "number": "59160184290",
             "cli": "AUTHMSG",
-            "message": "TFOS: 165228 - phone number confirmation code"
+            "message": "Su codigo de verificacion para PedidosYa es: 514974"
         },
         {
-            "datetime": "2026-08-13 05:23:20",
-            "number": "79299404887",
-            "cli": "Huawei",
-            "message": "Authorization code: 496049 Valid for 5 minutes."
+            "datetime": "2026-08-13 09:42:02",
+            "number": "79263840096",
+            "cli": "Apple",
+            "message": "ÐÐ¾Ð´ ÐÐºÐºÐ°ÑÐ½ÑÐ° Apple: 703468. ÐÐµ Ð´ÐµÐ»Ð¸ÑÐµÑÑ Ð¸Ð¼."
         },
         {
-            "datetime": "2026-08-13 05:23:16",
-            "number": "79859232113",
-            "cli": "Huawei",
-            "message": "Authorization code: 876240 Valid for 5 minutes."
+            "datetime": "2026-08-13 09:41:54",
+            "number": "79244657986",
+            "cli": "FBROKER",
+            "message": "262399 - ÐºÐ¾Ð´ Ð´Ð»Ñ Ð²ÑÐ¾Ð´Ð° Ð² ÑÐ¸ÑÑÐµÐ¼Ñ"
+        },
+        {
+            "datetime": "2026-08-13 09:41:54",
+            "number": "79284612148",
+            "cli": "Ding",
+            "message": "865839 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
+        },
+        {
+            "datetime": "2026-08-13 09:41:38",
+            "number": "79243163190",
+            "cli": "FREEDOM",
+            "message": "621908974209 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-13 09:41:14",
+            "number": "79282855652",
+            "cli": "AUTHMSG",
+            "message": "662468 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
         }
     ]
 }
