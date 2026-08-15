@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-15 15:40:03",
-            "number": "79994171708",
-            "cli": "MindMoney",
-            "message": "833286 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-15 15:39:56",
-            "number": "79994171708",
-            "cli": "MindMoney",
-            "message": "735715 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-15 15:39:55",
-            "number": "79082000207",
-            "cli": "PEGASUS",
-            "message": "You will now receive Pegasus campaigns and announcements by SMS. To opt out, please text PGS to 3607. Mersis No: 0723004708500017"
-        },
-        {
-            "datetime": "2026-08-15 15:39:46",
-            "number": "33601923289",
+            "datetime": "2026-08-15 16:01:38",
+            "number": "584163588787",
             "cli": "Huawei",
-            "message": "706786 - Huawei verification code."
+            "message": "010654 - Huawei verification code to register HUAWEI ID."
         },
         {
-            "datetime": "2026-08-15 15:39:40",
-            "number": "33601923289",
+            "datetime": "2026-08-15 16:01:36",
+            "number": "79203419958",
+            "cli": "segway",
+            "message": "ÃSegway MobilityÃYour code: 566462. Please do not disclose it to other people."
+        },
+        {
+            "datetime": "2026-08-15 16:01:34",
+            "number": "584163588787",
             "cli": "Huawei",
-            "message": "706786 - Huawei verification code."
+            "message": "010654 - Huawei verification code to register HUAWEI ID."
         },
         {
-            "datetime": "2026-08-15 15:39:36",
-            "number": "33601923289",
+            "datetime": "2026-08-15 16:01:31",
+            "number": "79615109963",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code: 268116, valid for 10 minutes. Enter it as shown and keep it confidential."
+        },
+        {
+            "datetime": "2026-08-15 16:01:30",
+            "number": "79996690544",
+            "cli": "huawei",
+            "message": "615433 - Huawei verification code to set security phone number."
+        },
+        {
+            "datetime": "2026-08-15 16:01:27",
+            "number": "79213117209",
+            "cli": "Notice",
+            "message": "Card: 457811******2976; Amount: 239.00 USD; Date: 15-08-26 22:01; Merchant: Preply; OTP:836308"
+        },
+        {
+            "datetime": "2026-08-15 16:01:25",
+            "number": "33607031011",
             "cli": "Huawei",
-            "message": "706786 - Huawei verification code. STOP 36047"
+            "message": "HUAWEI ID (00336****9077) payment PIN changed"
         },
         {
-            "datetime": "2026-08-15 15:39:35",
-            "number": "584268608483",
+            "datetime": "2026-08-15 16:01:18",
+            "number": "79996690544",
             "cli": "Huawei",
-            "message": "968474 - Huawei verification code to reset password."
+            "message": "615433 - Huawei verification code to set security phone number."
         },
         {
-            "datetime": "2026-08-15 15:39:32",
-            "number": "79219331046",
-            "cli": "Ticketon",
-            "message": "Code: 4400. ÐÐ¸ÐºÐ¾Ð¼Ñ Ð½Ðµ ÑÐ¾Ð¾Ð±ÑÐ°Ð¹ÑÐµ Ð´Ð°Ð½Ð½ÑÐ¹ ÐºÐ¾Ð´!"
+            "datetime": "2026-08-15 16:01:14",
+            "number": "79109979639",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code: 149648, valid for 10 minutes. Enter it as shown and keep it confidential."
         },
         {
-            "datetime": "2026-08-15 15:39:32",
-            "number": "79994171708",
-            "cli": "MindMoney",
-            "message": "093309 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-15 15:39:18",
-            "number": "33601923289",
-            "cli": "Huawei",
-            "message": "706786 - Huawei verification code."
+            "datetime": "2026-08-15 16:01:10",
+            "number": "79656104950",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code: 768171, valid for 10 minutes. Enter it as shown and keep it confidential."
         }
     ]
 }
