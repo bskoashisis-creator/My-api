@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-16 10:52:20",
-            "number": "79087223725",
-            "cli": "AUTHMSG",
-            "message": "TFOS: 081085 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-16 10:52:18",
-            "number": "79223818538",
-            "cli": "MindMoney",
-            "message": "923522 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-16 10:52:17",
-            "number": "79966162711",
-            "cli": "huawei",
-            "message": "925725 - Huawei verification code to link phone number."
-        },
-        {
-            "datetime": "2026-08-16 10:52:12",
-            "number": "79083155997",
-            "cli": "AUTHMSG",
-            "message": "TFOS: 823503 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-16 10:52:10",
-            "number": "79153820788",
-            "cli": "FBROKER",
-            "message": "678073 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-16 10:52:07",
-            "number": "79290087100",
-            "cli": "FREEDOM",
-            "message": "533676373718 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-16 10:51:57",
-            "number": "79087223725",
-            "cli": "AUTHMSG",
-            "message": "TFOS: 056770 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-16 10:51:42",
-            "number": "79083155997",
-            "cli": "AUTHMSG",
-            "message": "TFOS: 541076 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-16 10:51:40",
-            "number": "79617088679",
+            "datetime": "2026-08-16 11:41:21",
+            "number": "33612857009",
             "cli": "Huawei",
-            "message": "Authorization code: 559609 Valid for 5 minutes."
+            "message": "295583 - Huawei verification code."
         },
         {
-            "datetime": "2026-08-16 10:51:36",
-            "number": "79153820788",
-            "cli": "FBROKER",
-            "message": "506244 - phone number confirmation code"
+            "datetime": "2026-08-16 11:41:18",
+            "number": "33785252097",
+            "cli": "Huawei",
+            "message": "260237 - Huawei verification code. Please don\\&#039;t share with anyone else."
+        },
+        {
+            "datetime": "2026-08-16 11:41:14",
+            "number": "33662336204",
+            "cli": "Huawei",
+            "message": "OP 36047"
+        },
+        {
+            "datetime": "2026-08-16 11:41:14",
+            "number": "33662336204",
+            "cli": "Huawei",
+            "message": "725842 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha. ST"
+        },
+        {
+            "datetime": "2026-08-16 11:41:02",
+            "number": "33662336204",
+            "cli": "Huawei",
+            "message": "725842 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
+        },
+        {
+            "datetime": "2026-08-16 11:41:00",
+            "number": "79319727848",
+            "cli": "MindMoney",
+            "message": "346117 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-16 11:40:57",
+            "number": "79220756593",
+            "cli": "TWLOVERIFY",
+            "message": "Your Audemars Piguet verification code is: 086703"
+        },
+        {
+            "datetime": "2026-08-16 11:40:52",
+            "number": "79220756593",
+            "cli": "TWLOVERIFY",
+            "message": "Your Audemars Piguet verification code is: 086703"
+        },
+        {
+            "datetime": "2026-08-16 11:40:28",
+            "number": "79227320224",
+            "cli": "MindMoney",
+            "message": "162927 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-16 11:40:21",
+            "number": "79232231022",
+            "cli": "TWLOVERIFY",
+            "message": "Your Audemars Piguet verification code is: 105963"
         }
     ]
 }
