@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-16 14:55:55",
-            "number": "79959911101",
-            "cli": "FREEDOM",
-            "message": "148274153181 - phone number confirmation code"
+            "datetime": "2026-08-16 15:48:45",
+            "number": "33623499404",
+            "cli": "Huawei",
+            "message": "Huawei In-App Purchases verification code: 966184."
         },
         {
-            "datetime": "2026-08-16 14:55:51",
-            "number": "79640346434",
-            "cli": "AUTHMSG",
-            "message": "TFOS: 183365 - code pour la confirmation du numÃ©ro de tÃ©lÃ©phone"
+            "datetime": "2026-08-16 15:48:44",
+            "number": "33604156345",
+            "cli": "Huawei",
+            "message": "795904 - Huawei verification code."
         },
         {
-            "datetime": "2026-08-16 14:55:51",
-            "number": "79118364984",
-            "cli": "TFOS",
-            "message": "TFOS: 449466 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-16 14:55:49",
-            "number": "79508516955",
-            "cli": "FREEDOM",
-            "message": "656492521570 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-16 14:55:33",
-            "number": "96599165652",
-            "cli": "TWVerify",
-            "message": "507220 is your Shop verification code"
-        },
-        {
-            "datetime": "2026-08-16 14:55:32",
-            "number": "79959911101",
+            "datetime": "2026-08-16 15:48:12",
+            "number": "79992153172",
             "cli": "FBROKER",
-            "message": "429602 - phone number confirmation code"
+            "message": "714148 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-16 14:55:27",
-            "number": "79640346434",
+            "datetime": "2026-08-16 15:48:05",
+            "number": "79805135819",
             "cli": "AUTHMSG",
-            "message": "TFOS: 824342 - code pour la confirmation du numÃ©ro de tÃ©lÃ©phone"
+            "message": "TFOS: 516905 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-16 14:55:20",
-            "number": "79508516955",
+            "datetime": "2026-08-16 15:47:49",
+            "number": "79992153172",
             "cli": "FBROKER",
-            "message": "640446 - phone number confirmation code"
+            "message": "730273 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-16 14:55:07",
-            "number": "79508516955",
-            "cli": "FREEDOM",
-            "message": "238022252349 - phone number confirmation code"
+            "datetime": "2026-08-16 15:47:40",
+            "number": "79805135819",
+            "cli": "AUTHMSG",
+            "message": "TFOS: 597141 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-16 14:54:53",
-            "number": "79516164475",
-            "cli": "FREEDOM",
-            "message": "802582449912 - phone number confirmation code"
+            "datetime": "2026-08-16 15:47:33",
+            "number": "33609816110",
+            "cli": "Huawei",
+            "message": "781869 - Huawei verification code to register HUAWEI ID."
+        },
+        {
+            "datetime": "2026-08-16 15:47:31",
+            "number": "33609816110",
+            "cli": "Huawei",
+            "message": "781869 - Huawei verification code to register HUAWEI ID. STOP 36047"
+        },
+        {
+            "datetime": "2026-08-16 15:47:26",
+            "number": "79638609233",
+            "cli": "Bybit",
+            "message": "Verification code: 926312 (valid for 5 minutes). Do not share it with anyone. Bybit will not ask you for it. Anti-phishing Code:H9LUv2nA"
+        },
+        {
+            "datetime": "2026-08-16 15:47:22",
+            "number": "33609816110",
+            "cli": "Huawei",
+            "message": "781869 - Huawei verification code to register HUAWEI ID."
         }
     ]
 }
