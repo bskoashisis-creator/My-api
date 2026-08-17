@@ -1,4 +1,66 @@
 {
-    "status": "Error : No Data",
-    "description": "No Records Found"
+    "status": "Success",
+    "records": 10,
+    "data": [
+        {
+            "datetime": "2026-08-17 03:28:27",
+            "number": "79532995710",
+            "cli": "Huawei",
+            "message": "Authorization code: 432679 Valid for 5 minutes."
+        },
+        {
+            "datetime": "2026-08-17 03:28:15",
+            "number": "79213689168",
+            "cli": "Huawei",
+            "message": "Authorization code: 567493 Valid for 5 minutes."
+        },
+        {
+            "datetime": "2026-08-17 03:28:00",
+            "number": "33621076448",
+            "cli": "Huawei",
+            "message": "161442 - Huawei verification code to register HUAWEI ID."
+        },
+        {
+            "datetime": "2026-08-17 03:27:57",
+            "number": "79230042195",
+            "cli": "Huawei",
+            "message": "Authorization code: 914292 Valid for 5 minutes."
+        },
+        {
+            "datetime": "2026-08-17 03:26:43",
+            "number": "79299841261",
+            "cli": "Huawei",
+            "message": "150771 - Huawei verification code to register HUAWEI ID."
+        },
+        {
+            "datetime": "2026-08-17 03:26:39",
+            "number": "79274558009",
+            "cli": "Huawei",
+            "message": "Authorization code: 885084 Valid for 5 minutes."
+        },
+        {
+            "datetime": "2026-08-17 03:26:39",
+            "number": "79299841261",
+            "cli": "Huawei",
+            "message": "150771 - Huawei verification code to register HUAWEI ID."
+        },
+        {
+            "datetime": "2026-08-17 03:26:08",
+            "number": "79223532826",
+            "cli": "Huawei",
+            "message": "Authorization code: 790310 Valid for 5 minutes."
+        },
+        {
+            "datetime": "2026-08-17 03:25:49",
+            "number": "79228047422",
+            "cli": "Huawei",
+            "message": "Authorization code: 391010 Valid for 5 minutes."
+        },
+        {
+            "datetime": "2026-08-17 03:25:22",
+            "number": "79205264545",
+            "cli": "Huawei",
+            "message": "662670 - Huawei verification code to register HUAWEI ID."
+        }
+    ]
 }
