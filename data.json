@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-19 15:50:32",
-            "number": "79320590729",
-            "cli": "FBROKER",
-            "message": "699031 - phone number confirmation code"
+            "datetime": "2026-08-19 16:59:43",
+            "number": "79505663233",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code: 686196, valid for 10 minutes. Enter it as shown and keep it confidential."
         },
         {
-            "datetime": "2026-08-19 15:50:27",
-            "number": "79045152216",
-            "cli": "FBROKER",
-            "message": "860139 - cÃ³digo para la confirmaciÃ³n del nÃºmero de telÃ©fono"
+            "datetime": "2026-08-19 16:59:41",
+            "number": "79532396107",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code: 351277, valid for 10 minutes. Enter it as shown and keep it confidential."
         },
         {
-            "datetime": "2026-08-19 15:50:11",
-            "number": "79302884409",
-            "cli": "FBROKER",
-            "message": "965165 - phone number confirmation code"
+            "datetime": "2026-08-19 16:59:38",
+            "number": "79614085103",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code: 538918, valid for 10 minutes. Enter it as shown and keep it confidential."
         },
         {
-            "datetime": "2026-08-19 15:50:10",
-            "number": "79320590729",
-            "cli": "FBROKER",
-            "message": "375472 - phone number confirmation code"
+            "datetime": "2026-08-19 16:59:35",
+            "number": "79226807952",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code: 573458, valid for 10 minutes. Enter it as shown and keep it confidential."
         },
         {
-            "datetime": "2026-08-19 15:50:09",
-            "number": "79020114292",
-            "cli": "FBROKER",
-            "message": "660932 - cÃ³digo para la confirmaciÃ³n del nÃºmero de telÃ©fono"
+            "datetime": "2026-08-19 16:59:26",
+            "number": "79080611418",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code: 544711, valid for 10 minutes. Enter it as shown and keep it confidential."
         },
         {
-            "datetime": "2026-08-19 15:49:46",
-            "number": "79320590729",
-            "cli": "FBROKER",
-            "message": "700911 - phone number confirmation code"
+            "datetime": "2026-08-19 16:59:22",
+            "number": "79267890074",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code: 765652, valid for 10 minutes. Enter it as shown and keep it confidential."
         },
         {
-            "datetime": "2026-08-19 15:49:40",
-            "number": "79020114292",
-            "cli": "FBROKER",
-            "message": "908340 - cÃ³digo para la confirmaciÃ³n del nÃºmero de telÃ©fono"
+            "datetime": "2026-08-19 16:59:21",
+            "number": "79966601066",
+            "cli": "Huawei",
+            "message": "Authorization code: 758680 Valid for 5 minutes."
         },
         {
-            "datetime": "2026-08-19 15:49:36",
-            "number": "79091647552",
-            "cli": "PhoneCode",
-            "message": "[Segway Mobility]Your code: 915142. Please do not disclose it to other people."
+            "datetime": "2026-08-19 16:59:19",
+            "number": "79194561281",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code: 995465, valid for 10 minutes. Enter it as shown and keep it confidential."
         },
         {
-            "datetime": "2026-08-19 15:49:24",
-            "number": "79320590729",
+            "datetime": "2026-08-19 16:59:07",
+            "number": "79044927977",
             "cli": "FBROKER",
-            "message": "374556 - phone number confirmation code"
+            "message": "906872 - cÃ³digo para la confirmaciÃ³n del nÃºmero de telÃ©fono"
         },
         {
-            "datetime": "2026-08-19 15:49:20",
-            "number": "79302884409",
+            "datetime": "2026-08-19 16:59:06",
+            "number": "79220616109",
             "cli": "FBROKER",
-            "message": "759447 - phone number confirmation code"
+            "message": "041599 - phone number confirmation code"
         }
     ]
 }
