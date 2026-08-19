@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-19 10:59:14",
-            "number": "79371430450",
+            "datetime": "2026-08-19 11:57:14",
+            "number": "79012342696",
             "cli": "FBROKER",
-            "message": "672760 - phone number confirmation code"
+            "message": "692132 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-19 10:59:13",
-            "number": "79962433721",
+            "datetime": "2026-08-19 11:57:07",
+            "number": "79003072500",
+            "cli": "AUTHMSG",
+            "message": "(885058)Uniportal verification code."
+        },
+        {
+            "datetime": "2026-08-19 11:56:56",
+            "number": "79184616400",
             "cli": "FBROKER",
-            "message": "711041 - phone number confirmation code"
+            "message": "018953 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-19 10:59:13",
-            "number": "79287050048",
+            "datetime": "2026-08-19 11:56:51",
+            "number": "79012342696",
             "cli": "FBROKER",
-            "message": "356741 - phone number confirmation code"
+            "message": "380264 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-19 10:59:12",
-            "number": "79384066292",
+            "datetime": "2026-08-19 11:56:49",
+            "number": "79035237659",
+            "cli": "AUTHMSG",
+            "message": "TFOS: 662728 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-19 11:56:28",
+            "number": "79524566660",
+            "cli": "AUTHMSG",
+            "message": "TFOS: 955943 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-19 11:56:26",
+            "number": "79895263541",
+            "cli": "PEGASUS",
+            "message": "You will now receive Pegasus campaigns and announcements by SMS. To opt out, please text PGS to 3607. Mersis No: 0723004708500017"
+        },
+        {
+            "datetime": "2026-08-19 11:56:02",
+            "number": "79504590050",
             "cli": "FBROKER",
-            "message": "654942 - phone number confirmation code"
+            "message": "720742 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-19 10:59:03",
-            "number": "79034366929",
+            "datetime": "2026-08-19 11:55:58",
+            "number": "79012342696",
             "cli": "FBROKER",
-            "message": "579058 - phone number confirmation code"
+            "message": "595722 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-19 10:59:02",
-            "number": "998959705279",
-            "cli": "MindMoney",
-            "message": "575661 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-19 10:58:50",
-            "number": "79384066292",
-            "cli": "FBROKER",
-            "message": "612748 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-19 10:58:45",
-            "number": "79962433721",
-            "cli": "FBROKER",
-            "message": "608602 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-19 10:58:42",
-            "number": "79535280705",
-            "cli": "FBROKER",
-            "message": "193035 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-19 10:58:28",
-            "number": "33604156345",
-            "cli": "Huawei",
-            "message": "163198 - Huawei verification code."
+            "datetime": "2026-08-19 11:55:51",
+            "number": "79250849014",
+            "cli": "FREEDOM",
+            "message": "717353417968 - phone number confirmation code"
         }
     ]
 }
