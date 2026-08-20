@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-20 21:57:05",
-            "number": "79851728815",
-            "cli": "TFOS",
-            "message": "TFOS: 167908 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-20 21:57:05",
-            "number": "79017305032",
+            "datetime": "2026-08-20 22:59:36",
+            "number": "79200417141",
             "cli": "FR.TRAVEL",
-            "message": "ÐÐ°Ñ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ: 1367. ÐÐÐÐÐÐ£ ÐÐ Ð¡ÐÐÐÐ©ÐÐÐ¢Ð ÐÐÐ!"
+            "message": "ÐÐ°Ñ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ: 9393. ÐÐÐÐÐÐ£ ÐÐ Ð¡ÐÐÐÐ©ÐÐÐ¢Ð ÐÐÐ!"
         },
         {
-            "datetime": "2026-08-20 21:56:54",
-            "number": "79966217905",
-            "cli": "FBROKER",
-            "message": "322416 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-20 21:56:00",
-            "number": "79130355258",
-            "cli": "AUTHMSG",
-            "message": "TFOS: 069939 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-20 21:54:12",
-            "number": "79851728815",
-            "cli": "TFOS",
-            "message": "TFOS: 410441 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-20 21:54:08",
-            "number": "79263026269",
-            "cli": "FBROKER",
-            "message": "701179 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-20 21:53:52",
-            "number": "79263026269",
-            "cli": "FBROKER",
-            "message": "783299 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-20 21:53:33",
-            "number": "79263026269",
-            "cli": "FBROKER",
-            "message": "349426 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-20 21:53:03",
-            "number": "79089451543",
+            "datetime": "2026-08-20 22:56:22",
+            "number": "79200003423",
             "cli": "FR.TRAVEL",
-            "message": "ÐÐ°Ñ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ: 3460. ÐÐÐÐÐÐ£ ÐÐ Ð¡ÐÐÐÐ©ÐÐÐ¢Ð ÐÐÐ!"
+            "message": "ÐÐ°Ñ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ: 8590. ÐÐÐÐÐÐ£ ÐÐ Ð¡ÐÐÐÐ©ÐÐÐ¢Ð ÐÐÐ!"
         },
         {
-            "datetime": "2026-08-20 21:52:32",
-            "number": "79028888617",
+            "datetime": "2026-08-20 22:54:01",
+            "number": "79218182596",
             "cli": "FR.TRAVEL",
-            "message": "ÐÐ°Ñ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ: 9569. ÐÐÐÐÐÐ£ ÐÐ Ð¡ÐÐÐÐ©ÐÐÐ¢Ð ÐÐÐ!"
+            "message": "ÐÐ°Ñ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ: 4731. ÐÐÐÐÐÐ£ ÐÐ Ð¡ÐÐÐÐ©ÐÐÐ¢Ð ÐÐÐ!"
+        },
+        {
+            "datetime": "2026-08-20 22:53:59",
+            "number": "79218577979",
+            "cli": "FR.TRAVEL",
+            "message": "ÐÐ°Ñ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ: 5576. ÐÐÐÐÐÐ£ ÐÐ Ð¡ÐÐÐÐ©ÐÐÐ¢Ð ÐÐÐ!"
+        },
+        {
+            "datetime": "2026-08-20 22:53:41",
+            "number": "79387812276",
+            "cli": "WhatsApp",
+            "message": "&lt;#&gt; \\nÐÐµ Ð´ÐµÐ»Ð¸ÑÐµÑÑ ÑÐ²Ð¾Ð¸Ð¼ ÐºÐ¾Ð´Ð¾Ð¼ WhatsApp Ð½Ð¸ Ñ ÐºÐµÐ¼: 133-397\\n4sgLq1p5sV6"
+        },
+        {
+            "datetime": "2026-08-20 22:49:15",
+            "number": "79265232677",
+            "cli": "PGUVERCINI",
+            "message": "Ð£Ð²Ð°Ð¶Ð°ÐµÐ¼ÑÐ¹(Ð°Ñ) DMITRII BAKHTIN, ÐÐ»Ñ Ð¿ÑÐ¾Ð´Ð¾Ð»Ð¶ÐµÐ½Ð¸Ñ Ð²ÑÐ¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ñ Ð¾Ð¿ÐµÑÐ°ÑÐ¸Ð¸"
+        },
+        {
+            "datetime": "2026-08-20 22:49:15",
+            "number": "79265232677",
+            "cli": "PGUVERCINI",
+            "message": "Ð²Ð²ÐµÐ´Ð¸ÑÐµ Ð¿ÑÐ¾Ð²ÐµÑÐ¾ÑÐ½ÑÐ¹ ÐºÐ¾Ð´ 423190 Ð¡ Ð½Ð°Ð¸Ð»ÑÑÑÐ¸Ð¼Ð¸ Ð¿Ð¾Ð¶ÐµÐ»Ð°Ð½Ð¸ÑÐ¼Ð¸ Ð¡ÑÑÐ»ÐºÐ°: 944"
+        },
+        {
+            "datetime": "2026-08-20 22:49:15",
+            "number": "79265232677",
+            "cli": "PGUVERCINI",
+            "message": "0"
+        },
+        {
+            "datetime": "2026-08-20 22:49:10",
+            "number": "584264090477",
+            "cli": "WhatsApp",
+            "message": "&lt;#&gt; Tu cuenta de WhatsApp esta siendo registrada en un dispositivo nuevo\\n\\nNo compartas el codigo con nadie\\nTu codigo de WhatsApp es: 170-691\\n4sgLq1p5sV6"
+        },
+        {
+            "datetime": "2026-08-20 22:48:21",
+            "number": "79265232677",
+            "cli": "PGUVERCINI",
+            "message": "Ð£Ð²Ð°Ð¶Ð°ÐµÐ¼ÑÐ¹(Ð°Ñ) DMITRII BAKHTIN, ÐÐ»Ñ Ð¿ÑÐ¾Ð´Ð¾Ð»Ð¶ÐµÐ½Ð¸Ñ Ð²ÑÐ¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ñ Ð¾Ð¿ÐµÑÐ°ÑÐ¸Ð¸"
         }
     ]
 }
