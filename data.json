@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-20 05:06:13",
-            "number": "33611208282",
-            "cli": "Huawei",
-            "message": "400476 - Huawei verification code to register HUAWEI ID."
+            "datetime": "2026-08-20 06:03:33",
+            "number": "79274889111",
+            "cli": "FBROKER",
+            "message": "723186 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-20 05:05:59",
-            "number": "79284448470",
+            "datetime": "2026-08-20 06:03:30",
+            "number": "79104566464",
+            "cli": "FBROKER",
+            "message": "630192 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-20 06:03:08",
+            "number": "79104566464",
+            "cli": "FBROKER",
+            "message": "200677 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-20 06:03:00",
+            "number": "79042404005",
+            "cli": "segway",
+            "message": "ÃSegway MobilityÃYour code: 474014. Please do not disclose it to other people."
+        },
+        {
+            "datetime": "2026-08-20 06:02:50",
+            "number": "79028720301",
+            "cli": "segway",
+            "message": "[Segway Mobility]Your code: 742296. Please do not disclose it to other people."
+        },
+        {
+            "datetime": "2026-08-20 06:02:46",
+            "number": "79104566464",
+            "cli": "FBROKER",
+            "message": "898612 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-20 06:02:46",
+            "number": "79322329099",
             "cli": "FREEDOM",
-            "message": "437522115616 - phone number confirmation code"
+            "message": "676296680111 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-20 05:05:15",
-            "number": "79944264668",
-            "cli": "Huawei",
-            "message": "186392 - Huawei verification code to reset password."
+            "datetime": "2026-08-20 06:02:41",
+            "number": "79659895489",
+            "cli": "segway",
+            "message": "[Segway Mobility]Your code: 329938. Please do not disclose it to other people."
         },
         {
-            "datetime": "2026-08-20 05:04:49",
-            "number": "79089886788",
-            "cli": "OKTA",
-            "message": "in.sabre.com/auth/push/link/ftqOFjlAQWD54Oqvz8aX83V5-vfHAfNyET/aut1"
+            "datetime": "2026-08-20 06:02:35",
+            "number": "79082414472",
+            "cli": "FBROKER",
+            "message": "884234 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-20 05:04:49",
-            "number": "79089886788",
-            "cli": "OKTA",
-            "message": "Haga clic aquÃ­ para inscribirse en Okta Verify : https://public.log"
-        },
-        {
-            "datetime": "2026-08-20 05:04:49",
-            "number": "79089886788",
-            "cli": "OKTA",
-            "message": "varyz8wfLHZRf1d8"
-        },
-        {
-            "datetime": "2026-08-20 05:04:41",
-            "number": "79042942156",
-            "cli": "OKTA",
-            "message": "Haga clic aquÃ­ para inscribirse en Okta Verify : https://public.log"
-        },
-        {
-            "datetime": "2026-08-20 05:04:41",
-            "number": "79042942156",
-            "cli": "OKTA",
-            "message": "in.sabre.com/auth/push/link/ftU8FMc_hO7wRFTSdYJMPz9LdN3Orf06X8/aut1"
-        },
-        {
-            "datetime": "2026-08-20 05:04:33",
-            "number": "79089886788",
-            "cli": "OKTA",
-            "message": "in.sabre.com/auth/push/link/ftaiZfV4ndkP-jyTpsJ5iPdlYJBgCrc_9A/aut1"
-        },
-        {
-            "datetime": "2026-08-20 05:04:33",
-            "number": "79089886788",
-            "cli": "OKTA",
-            "message": "Haga clic aquÃ­ para inscribirse en Okta Verify : https://public.log"
+            "datetime": "2026-08-20 06:02:31",
+            "number": "79625286177",
+            "cli": "NOTICE",
+            "message": "ÃSynologyÃ Proverochnyi kod dlia Synology Account: 570746"
         }
     ]
 }
