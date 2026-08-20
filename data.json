@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-20 22:59:36",
-            "number": "79200417141",
+            "datetime": "2026-08-20 23:55:49",
+            "number": "79213539118",
+            "cli": "FBROKER",
+            "message": "429336 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-20 23:54:53",
+            "number": "79213539118",
+            "cli": "FBROKER",
+            "message": "078787 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-20 23:52:38",
+            "number": "79667635448",
             "cli": "FR.TRAVEL",
-            "message": "ÐÐ°Ñ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ: 9393. ÐÐÐÐÐÐ£ ÐÐ Ð¡ÐÐÐÐ©ÐÐÐ¢Ð ÐÐÐ!"
+            "message": "ÐÐ°Ñ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ: 7492. ÐÐÐÐÐÐ£ ÐÐ Ð¡ÐÐÐÐ©ÐÐÐ¢Ð ÐÐÐ!"
         },
         {
-            "datetime": "2026-08-20 22:56:22",
-            "number": "79200003423",
-            "cli": "FR.TRAVEL",
-            "message": "ÐÐ°Ñ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ: 8590. ÐÐÐÐÐÐ£ ÐÐ Ð¡ÐÐÐÐ©ÐÐÐ¢Ð ÐÐÐ!"
+            "datetime": "2026-08-20 23:48:47",
+            "number": "79117004177",
+            "cli": "freedomtel",
+            "message": "Freedom Telecom. 7998 is your verification code"
         },
         {
-            "datetime": "2026-08-20 22:54:01",
-            "number": "79218182596",
-            "cli": "FR.TRAVEL",
-            "message": "ÐÐ°Ñ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ: 4731. ÐÐÐÐÐÐ£ ÐÐ Ð¡ÐÐÐÐ©ÐÐÐ¢Ð ÐÐÐ!"
+            "datetime": "2026-08-20 23:48:04",
+            "number": "59170710145",
+            "cli": "TINDER",
+            "message": "&lt;#&gt;Tu cÃ³digo de Tinder es 334532\\ndwEzWOx6XSV"
         },
         {
-            "datetime": "2026-08-20 22:53:59",
-            "number": "79218577979",
-            "cli": "FR.TRAVEL",
-            "message": "ÐÐ°Ñ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ: 5576. ÐÐÐÐÐÐ£ ÐÐ Ð¡ÐÐÐÐ©ÐÐÐ¢Ð ÐÐÐ!"
+            "datetime": "2026-08-20 23:44:29",
+            "number": "79096761045",
+            "cli": "AUTHMSG",
+            "message": "TFOS: 641796 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-20 22:53:41",
-            "number": "79387812276",
-            "cli": "WhatsApp",
-            "message": "&lt;#&gt; \\nÐÐµ Ð´ÐµÐ»Ð¸ÑÐµÑÑ ÑÐ²Ð¾Ð¸Ð¼ ÐºÐ¾Ð´Ð¾Ð¼ WhatsApp Ð½Ð¸ Ñ ÐºÐµÐ¼: 133-397\\n4sgLq1p5sV6"
+            "datetime": "2026-08-20 23:44:01",
+            "number": "79219776206",
+            "cli": "MUSE",
+            "message": "97145451636."
         },
         {
-            "datetime": "2026-08-20 22:49:15",
-            "number": "79265232677",
-            "cli": "PGUVERCINI",
-            "message": "Ð£Ð²Ð°Ð¶Ð°ÐµÐ¼ÑÐ¹(Ð°Ñ) DMITRII BAKHTIN, ÐÐ»Ñ Ð¿ÑÐ¾Ð´Ð¾Ð»Ð¶ÐµÐ½Ð¸Ñ Ð²ÑÐ¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ñ Ð¾Ð¿ÐµÑÐ°ÑÐ¸Ð¸"
+            "datetime": "2026-08-20 23:44:01",
+            "number": "79219776206",
+            "cli": "MUSE",
+            "message": "anyone. If you didnât request it, please contact us immediately at"
         },
         {
-            "datetime": "2026-08-20 22:49:15",
-            "number": "79265232677",
-            "cli": "PGUVERCINI",
-            "message": "Ð²Ð²ÐµÐ´Ð¸ÑÐµ Ð¿ÑÐ¾Ð²ÐµÑÐ¾ÑÐ½ÑÐ¹ ÐºÐ¾Ð´ 423190 Ð¡ Ð½Ð°Ð¸Ð»ÑÑÑÐ¸Ð¼Ð¸ Ð¿Ð¾Ð¶ÐµÐ»Ð°Ð½Ð¸ÑÐ¼Ð¸ Ð¡ÑÑÐ»ÐºÐ°: 944"
+            "datetime": "2026-08-20 23:44:01",
+            "number": "79219776206",
+            "cli": "MUSE",
+            "message": "Your MUSE verification code is 493509. Do not share this code with"
         },
         {
-            "datetime": "2026-08-20 22:49:15",
-            "number": "79265232677",
-            "cli": "PGUVERCINI",
-            "message": "0"
-        },
-        {
-            "datetime": "2026-08-20 22:49:10",
-            "number": "584264090477",
-            "cli": "WhatsApp",
-            "message": "&lt;#&gt; Tu cuenta de WhatsApp esta siendo registrada en un dispositivo nuevo\\n\\nNo compartas el codigo con nadie\\nTu codigo de WhatsApp es: 170-691\\n4sgLq1p5sV6"
-        },
-        {
-            "datetime": "2026-08-20 22:48:21",
-            "number": "79265232677",
-            "cli": "PGUVERCINI",
-            "message": "Ð£Ð²Ð°Ð¶Ð°ÐµÐ¼ÑÐ¹(Ð°Ñ) DMITRII BAKHTIN, ÐÐ»Ñ Ð¿ÑÐ¾Ð´Ð¾Ð»Ð¶ÐµÐ½Ð¸Ñ Ð²ÑÐ¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ñ Ð¾Ð¿ÐµÑÐ°ÑÐ¸Ð¸"
+            "datetime": "2026-08-20 23:43:30",
+            "number": "79536373737",
+            "cli": "MUSE",
+            "message": "anyone. If you didnât request it, please contact us immediately at"
         }
     ]
 }
