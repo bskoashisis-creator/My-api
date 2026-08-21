@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-21 17:14:30",
-            "number": "79532396107",
-            "cli": "ALISERVICE",
-            "message": "[HKTicketing]Verification code: 741395, valid for 10 minutes. Enter it as shown and keep it confidential."
+            "datetime": "2026-08-21 19:07:55",
+            "number": "79672295228",
+            "cli": "OKTA",
+            "message": "e/auth/push/link/ADwzOTljxhsgP7pUi2jK/opfz39637vPQGgmzX417"
         },
         {
-            "datetime": "2026-08-21 17:14:30",
-            "number": "79277518315",
-            "cli": "ALISERVICE",
-            "message": "[HKTicketing]Verification code: 812898, valid for 10 minutes. Enter it as shown and keep it confidential."
+            "datetime": "2026-08-21 19:07:55",
+            "number": "79672295228",
+            "cli": "OKTA",
+            "message": "Haga clic aquÃ­ para inscribirse en Okta Verify : https://sso.rbfa.b"
         },
         {
-            "datetime": "2026-08-21 17:14:28",
-            "number": "79219684028",
+            "datetime": "2026-08-21 19:07:52",
+            "number": "79672295228",
+            "cli": "OKTA",
+            "message": "e/auth/push/link/ADwzOTljxhsgP7pUi2jK/opfz39637vPQGgmzX417"
+        },
+        {
+            "datetime": "2026-08-21 19:07:52",
+            "number": "79672295228",
+            "cli": "OKTA",
+            "message": "Haga clic aquÃ­ para inscribirse en Okta Verify : https://sso.rbfa.b"
+        },
+        {
+            "datetime": "2026-08-21 19:07:50",
+            "number": "79672295228",
+            "cli": "OKTA",
+            "message": "e/auth/push/link/ADwzOTljxhsgP7pUi2jK/opfz39637vPQGgmzX417"
+        },
+        {
+            "datetime": "2026-08-21 19:07:50",
+            "number": "79672295228",
+            "cli": "OKTA",
+            "message": "Haga clic aquÃ­ para inscribirse en Okta Verify : https://sso.rbfa.b"
+        },
+        {
+            "datetime": "2026-08-21 19:07:47",
+            "number": "79672295228",
+            "cli": "OKTA",
+            "message": "Haga clic aquÃ­ para inscribirse en Okta Verify : https://sso.rbfa.b"
+        },
+        {
+            "datetime": "2026-08-21 19:07:47",
+            "number": "79672295228",
+            "cli": "OKTA",
+            "message": "e/auth/push/link/ADwzOTljxhsgP7pUi2jK/opfz39637vPQGgmzX417"
+        },
+        {
+            "datetime": "2026-08-21 19:07:42",
+            "number": "79056604417",
             "cli": "FREEDOM",
-            "message": "896972810977 - phone number confirmation code"
+            "message": "198021228350 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-21 17:14:20",
-            "number": "79854175667",
-            "cli": "FREEDOM_ARM",
-            "message": "295452 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-21 17:14:17",
-            "number": "79099065577",
-            "cli": "DEVU-POIZON",
-            "message": "ÐÐ¾Ð´: 7344. ÐÐµÐ¹ÑÑÐ²Ð¸ÑÐµÐ»ÐµÐ½ 5 Ð¼Ð¸Ð½ÑÑ. ÐÐµ ÑÐ¾Ð¾Ð±ÑÐ°Ð¹ÑÐµ Ð½Ð¸ÐºÐ¾Ð¼Ñ."
-        },
-        {
-            "datetime": "2026-08-21 17:14:13",
-            "number": "79324068555",
-            "cli": "FBROKER",
-            "message": "170828 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-21 17:14:13",
-            "number": "79851852447",
-            "cli": "ALISERVICE",
-            "message": "[HKTicketing]Verification code: 676467, valid for 10 minutes. Enter it as shown and keep it confidential."
-        },
-        {
-            "datetime": "2026-08-21 17:14:11",
-            "number": "79052123718",
-            "cli": "DEVU-POIZON",
-            "message": "ÐÐ¾Ð´: 1655. ÐÐµÐ¹ÑÑÐ²Ð¸ÑÐµÐ»ÐµÐ½ 5 Ð¼Ð¸Ð½ÑÑ. ÐÐµ ÑÐ¾Ð¾Ð±ÑÐ°Ð¹ÑÐµ Ð½Ð¸ÐºÐ¾Ð¼Ñ."
-        },
-        {
-            "datetime": "2026-08-21 17:14:09",
-            "number": "79112878836",
-            "cli": "FBROKER",
-            "message": "591957 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-21 17:13:52",
-            "number": "79045068346",
-            "cli": "ALISERVICE",
-            "message": "[HKTicketing]Verification code: 149219, valid for 10 minutes. Enter it as shown and keep it confidential."
+            "datetime": "2026-08-21 19:07:40",
+            "number": "79373164535",
+            "cli": "FREEDOM",
+            "message": "708799587623 - phone number confirmation code"
         }
     ]
 }
