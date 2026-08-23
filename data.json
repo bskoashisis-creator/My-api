@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-23 07:50:00",
-            "number": "79773017708",
-            "cli": "FBROKER",
-            "message": "511096 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-23 07:49:47",
-            "number": "79023345546",
+            "datetime": "2026-08-23 09:01:06",
+            "number": "79991363004",
             "cli": "FREEDOM",
-            "message": "428264799952 - phone number confirmation code"
+            "message": "545756856178 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-23 07:49:43",
-            "number": "79999013308",
-            "cli": "FBROKER",
-            "message": "439807 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-23 07:49:43",
-            "number": "79614157758",
+            "datetime": "2026-08-23 09:01:03",
+            "number": "79243015000",
             "cli": "FREEDOM",
-            "message": "648908292304 - phone number confirmation code"
+            "message": "178595737313 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-23 07:49:43",
-            "number": "79129995544",
+            "datetime": "2026-08-23 09:01:02",
+            "number": "59160347587",
+            "cli": "17162613784",
+            "message": "Hirtu, you\\&#039;re registered for UB\\&#039;s Fall Open House! Your confirmation has been sent to dkvhqxwg3u@fkateru.com. Reply STOP to opt out of text reminders."
+        },
+        {
+            "datetime": "2026-08-23 09:01:01",
+            "number": "79237315021",
             "cli": "FBROKER",
-            "message": "589549 - phone number confirmation code"
+            "message": "585441 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-23 07:49:37",
-            "number": "79312120473",
+            "datetime": "2026-08-23 09:00:58",
+            "number": "79876473037",
             "cli": "FBROKER",
-            "message": "132869 - phone number confirmation code"
+            "message": "674179 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-23 07:49:35",
-            "number": "79023743950",
+            "datetime": "2026-08-23 09:00:57",
+            "number": "59160319892",
+            "cli": "17162613784",
+            "message": "ewf, you\\&#039;re registered for UB\\&#039;s Fall Open House! Your confirmation has been sent to nguyentrudienguyen3525@gmail.com. Reply STOP to opt out of text reminders."
+        },
+        {
+            "datetime": "2026-08-23 09:00:56",
+            "number": "79224053102",
             "cli": "FREEDOM",
-            "message": "919839779910 - phone number confirmation code"
+            "message": "344602506964 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-23 07:49:29",
-            "number": "79135983563",
-            "cli": "FBROKER",
-            "message": "877914 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-23 07:49:28",
-            "number": "79313056933",
+            "datetime": "2026-08-23 09:00:55",
+            "number": "79253004040",
             "cli": "FREEDOM",
-            "message": "655958187799 - phone number confirmation code"
+            "message": "111176810673 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-23 07:49:24",
-            "number": "79773017708",
-            "cli": "FBROKER",
-            "message": "686570 - phone number confirmation code"
+            "datetime": "2026-08-23 09:00:49",
+            "number": "79145888980",
+            "cli": "FREEDOM",
+            "message": "108512172381 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-23 09:00:39",
+            "number": "79243015000",
+            "cli": "FREEDOM",
+            "message": "488397235830 - phone number confirmation code"
         }
     ]
 }
