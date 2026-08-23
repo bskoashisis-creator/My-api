@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-23 15:43:57",
-            "number": "79242675934",
-            "cli": "Ding",
-            "message": "820966 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
+            "datetime": "2026-08-23 16:54:35",
+            "number": "79875868274",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code: 768769, valid for 10 minutes. Enter it as shown and keep it confidential."
         },
         {
-            "datetime": "2026-08-23 15:43:56",
-            "number": "79241764645",
-            "cli": "FBROKER",
-            "message": "201454 - phone number confirmation code"
+            "datetime": "2026-08-23 16:54:35",
+            "number": "79642928335",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code: 851871, valid for 10 minutes. Enter it as shown and keep it confidential."
         },
         {
-            "datetime": "2026-08-23 15:43:50",
-            "number": "79032161590",
-            "cli": "Ding",
-            "message": "731019 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
-        },
-        {
-            "datetime": "2026-08-23 15:43:43",
-            "number": "79236975997",
-            "cli": "Ding",
-            "message": "008221 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
-        },
-        {
-            "datetime": "2026-08-23 15:43:35",
-            "number": "79267222362",
+            "datetime": "2026-08-23 16:54:24",
+            "number": "79279036281",
             "cli": "FREEDOM",
-            "message": "164264760778 - phone number confirmation code"
+            "message": "730892423710 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-23 15:43:35",
-            "number": "79241764645",
-            "cli": "FBROKER",
-            "message": "381609 - phone number confirmation code"
+            "datetime": "2026-08-23 16:54:21",
+            "number": "79132798214",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code: 816378, valid for 10 minutes. Enter it as shown and keep it confidential."
         },
         {
-            "datetime": "2026-08-23 15:43:27",
-            "number": "79203262150",
-            "cli": "AUTHMSG",
-            "message": "645326 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
+            "datetime": "2026-08-23 16:54:18",
+            "number": "79284852021",
+            "cli": "FREEDOM",
+            "message": "191459654623 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-23 15:43:21",
-            "number": "79242675934",
-            "cli": "AUTHMSG",
-            "message": "175176 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
+            "datetime": "2026-08-23 16:54:17",
+            "number": "79251419517",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code: 798725, valid for 10 minutes. Enter it as shown and keep it confidential."
         },
         {
-            "datetime": "2026-08-23 15:43:16",
-            "number": "79255194207",
-            "cli": "FBROKER",
-            "message": "232704 - phone number confirmation code"
+            "datetime": "2026-08-23 16:54:17",
+            "number": "79851852447",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code: 598311, valid for 10 minutes. Enter it as shown and keep it confidential."
         },
         {
-            "datetime": "2026-08-23 15:43:13",
-            "number": "79241764645",
-            "cli": "FBROKER",
-            "message": "844377 - phone number confirmation code"
+            "datetime": "2026-08-23 16:54:13",
+            "number": "79775986063",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code: 197548, valid for 10 minutes. Enter it as shown and keep it confidential."
+        },
+        {
+            "datetime": "2026-08-23 16:54:01",
+            "number": "79279036281",
+            "cli": "FREEDOM",
+            "message": "311580254869 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-23 16:54:00",
+            "number": "79656104950",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code: 781841, valid for 10 minutes. Enter it as shown and keep it confidential."
         }
     ]
 }
