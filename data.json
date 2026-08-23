@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-23 09:01:06",
-            "number": "79991363004",
-            "cli": "FREEDOM",
-            "message": "545756856178 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-23 09:01:03",
-            "number": "79243015000",
-            "cli": "FREEDOM",
-            "message": "178595737313 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-23 09:01:02",
-            "number": "59160347587",
-            "cli": "17162613784",
-            "message": "Hirtu, you\\&#039;re registered for UB\\&#039;s Fall Open House! Your confirmation has been sent to dkvhqxwg3u@fkateru.com. Reply STOP to opt out of text reminders."
-        },
-        {
-            "datetime": "2026-08-23 09:01:01",
-            "number": "79237315021",
+            "datetime": "2026-08-23 09:56:59",
+            "number": "79301158283",
             "cli": "FBROKER",
-            "message": "585441 - phone number confirmation code"
+            "message": "841956 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-23 09:00:58",
-            "number": "79876473037",
+            "datetime": "2026-08-23 09:56:58",
+            "number": "79209285912",
+            "cli": "Huawei",
+            "message": "489780 - Huawei verification code to register HUAWEI ID."
+        },
+        {
+            "datetime": "2026-08-23 09:56:58",
+            "number": "79226535646",
+            "cli": "FREEDOM",
+            "message": "873682662468 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-23 09:56:56",
+            "number": "79375709605",
+            "cli": "FREEDOM",
+            "message": "593168772490 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-23 09:56:55",
+            "number": "79377228666",
             "cli": "FBROKER",
-            "message": "674179 - phone number confirmation code"
+            "message": "603674 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-23 09:00:57",
-            "number": "59160319892",
-            "cli": "17162613784",
-            "message": "ewf, you\\&#039;re registered for UB\\&#039;s Fall Open House! Your confirmation has been sent to nguyentrudienguyen3525@gmail.com. Reply STOP to opt out of text reminders."
+            "datetime": "2026-08-23 09:56:52",
+            "number": "79209285912",
+            "cli": "Huawei",
+            "message": "489780 - Huawei verification code to register HUAWEI ID."
         },
         {
-            "datetime": "2026-08-23 09:00:56",
-            "number": "79224053102",
-            "cli": "FREEDOM",
-            "message": "344602506964 - phone number confirmation code"
+            "datetime": "2026-08-23 09:56:42",
+            "number": "79274029861",
+            "cli": "FBROKER",
+            "message": "405456 - cÃ³digo para la confirmaciÃ³n del nÃºmero de telÃ©fono"
         },
         {
-            "datetime": "2026-08-23 09:00:55",
-            "number": "79253004040",
-            "cli": "FREEDOM",
-            "message": "111176810673 - phone number confirmation code"
+            "datetime": "2026-08-23 09:56:39",
+            "number": "79063997102",
+            "cli": "FBROKER",
+            "message": "546745 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-23 09:00:49",
-            "number": "79145888980",
-            "cli": "FREEDOM",
-            "message": "108512172381 - phone number confirmation code"
+            "datetime": "2026-08-23 09:56:39",
+            "number": "79638109175",
+            "cli": "OKTA",
+            "message": "Haga clic aquÃ­ para inscribirse en Okta Verify : https://sso.rbfa.b"
         },
         {
-            "datetime": "2026-08-23 09:00:39",
-            "number": "79243015000",
-            "cli": "FREEDOM",
-            "message": "488397235830 - phone number confirmation code"
+            "datetime": "2026-08-23 09:56:36",
+            "number": "79638109175",
+            "cli": "OKTA",
+            "message": "Haga clic aquÃ­ para inscribirse en Okta Verify : https://sso.rbfa.b"
         }
     ]
 }
