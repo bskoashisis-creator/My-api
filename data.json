@@ -1,66 +1,60 @@
 {
     "status": "Success",
-    "records": 10,
+    "records": 9,
     "data": [
         {
-            "datetime": "2026-08-22 23:39:30",
+            "datetime": "2026-08-23 00:01:06",
             "number": "79636618316",
             "cli": "OKTA",
-            "message": "Haga clic aquÃ­ para inscribirse en Okta Verify : https://public.log"
+            "message": "in.sabre.com/auth/push/link/ftfVwCwlzxgoFpfNtQVg4RxkezjbrHc1il/aut1"
         },
         {
-            "datetime": "2026-08-22 23:39:30",
+            "datetime": "2026-08-23 00:01:06",
             "number": "79636618316",
             "cli": "OKTA",
             "message": "varyz8wfLHZRf1d8"
         },
         {
-            "datetime": "2026-08-22 23:39:12",
+            "datetime": "2026-08-23 00:01:06",
+            "number": "79636618316",
+            "cli": "OKTA",
+            "message": "Haga clic aquÃ­ para inscribirse en Okta Verify : https://public.log"
+        },
+        {
+            "datetime": "2026-08-23 00:00:54",
+            "number": "79636618316",
+            "cli": "OKTA",
+            "message": "Haga clic aquÃ­ para inscribirse en Okta Verify : https://public.log"
+        },
+        {
+            "datetime": "2026-08-23 00:00:54",
             "number": "79636618316",
             "cli": "OKTA",
             "message": "varyz8wfLHZRf1d8"
         },
         {
-            "datetime": "2026-08-22 23:39:12",
+            "datetime": "2026-08-23 00:00:54",
             "number": "79636618316",
             "cli": "OKTA",
-            "message": "in.sabre.com/auth/push/link/ftOP3ZroQqSwq2lLCOY1gjDuQXsX0ig4wC/aut1"
+            "message": "in.sabre.com/auth/push/link/ft7rmRlkRdPaB_0wBTuBKDWIkS6RlKP1GZ/aut1"
         },
         {
-            "datetime": "2026-08-22 23:39:12",
-            "number": "79636618316",
-            "cli": "OKTA",
-            "message": "Haga clic aquÃ­ para inscribirse en Okta Verify : https://public.log"
-        },
-        {
-            "datetime": "2026-08-22 23:38:53",
-            "number": "79636618316",
-            "cli": "OKTA",
-            "message": "Haga clic aquÃ­ para inscribirse en Okta Verify : https://public.log"
-        },
-        {
-            "datetime": "2026-08-22 23:38:53",
+            "datetime": "2026-08-23 00:00:30",
             "number": "79636618316",
             "cli": "OKTA",
             "message": "varyz8wfLHZRf1d8"
         },
         {
-            "datetime": "2026-08-22 23:38:53",
+            "datetime": "2026-08-23 00:00:30",
             "number": "79636618316",
             "cli": "OKTA",
-            "message": "in.sabre.com/auth/push/link/ftaCov4ykzEohi76MOIF0L_NRvDLfLyaYg/aut1"
+            "message": "in.sabre.com/auth/push/link/ftvxtlHJI3jnalTVr_FeS5oZlltmszgWsQ/aut1"
         },
         {
-            "datetime": "2026-08-22 23:38:22",
+            "datetime": "2026-08-23 00:00:30",
             "number": "79636618316",
             "cli": "OKTA",
             "message": "Haga clic aquÃ­ para inscribirse en Okta Verify : https://public.log"
-        },
-        {
-            "datetime": "2026-08-22 23:38:22",
-            "number": "79636618316",
-            "cli": "OKTA",
-            "message": "in.sabre.com/auth/push/link/ftaU4saNOD4phJlKbSFqg3TXSvsQBSB9d2/aut1"
         }
     ]
 }
