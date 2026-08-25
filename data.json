@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-25 22:47:23",
-            "number": "79773135505",
-            "cli": "Uber",
-            "message": "Ð¿ÑÐ°Ð²ÑÑÐµ STOP ALL Ð½Ð° +1 415-237-0403."
-        },
-        {
-            "datetime": "2026-08-25 22:47:23",
-            "number": "79773135505",
-            "cli": "Uber",
-            "message": "[Uber] ÐÐ°Ñ ÐºÐ¾Ð´: 3570. ÐÐ¸ÐºÐ¾Ð¼Ñ Ð½Ðµ ÑÐ¾Ð¾Ð±ÑÐ°Ð¹ÑÐµ ÐµÐ³Ð¾. Ð§ÑÐ¾Ð±Ñ Ð¾ÑÐ¿Ð¸ÑÐ°ÑÑÑÑ, Ð¾Ñ"
-        },
-        {
-            "datetime": "2026-08-25 22:39:26",
-            "number": "79287131054",
-            "cli": "FREEDOM",
-            "message": "769226144146 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-25 22:37:19",
-            "number": "79513773655",
-            "cli": "FREEDOM",
-            "message": "266201820338 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-25 22:35:03",
-            "number": "79242756368",
-            "cli": "FREEDOM",
-            "message": "468937197643 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-25 22:34:27",
-            "number": "79513773655",
-            "cli": "FREEDOM",
-            "message": "863669171678 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-25 22:31:55",
-            "number": "2693288129",
+            "datetime": "2026-08-25 23:52:15",
+            "number": "584167628867",
             "cli": "Apple",
-            "message": "REG-RESP?v=5;r=483648018;n=+2693288129;s=026A8E17D7FFFFFFFF96954FF92852D00881D0DC16688443FC401F00AE"
+            "message": "Tu cÃ³digo de tu cuenta de Apple es: 529620. No lo compartas con nadie."
         },
         {
-            "datetime": "2026-08-25 22:29:34",
-            "number": "79258743069",
-            "cli": "FREEDOM",
-            "message": "485095658408 - phone number confirmation code"
+            "datetime": "2026-08-25 23:51:36",
+            "number": "33656676157",
+            "cli": "Huawei",
+            "message": "817213 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
         },
         {
-            "datetime": "2026-08-25 22:29:04",
-            "number": "79258743069",
-            "cli": "FREEDOM",
-            "message": "680886699675 - phone number confirmation code"
+            "datetime": "2026-08-25 23:51:20",
+            "number": "33656676157",
+            "cli": "Huawei",
+            "message": "817213 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
         },
         {
-            "datetime": "2026-08-25 22:28:11",
-            "number": "79066068639",
-            "cli": "FBROKER.KZ",
-            "message": "406008 - phone number confirmation code"
+            "datetime": "2026-08-25 23:49:00",
+            "number": "33632561243",
+            "cli": "Huawei",
+            "message": "074383 - Huawei verification code."
+        },
+        {
+            "datetime": "2026-08-25 23:48:44",
+            "number": "33632561243",
+            "cli": "Huawei",
+            "message": "074383 - Huawei verification code."
+        },
+        {
+            "datetime": "2026-08-25 23:47:53",
+            "number": "33632561243",
+            "cli": "Huawei",
+            "message": "074383 - Huawei verification code."
+        },
+        {
+            "datetime": "2026-08-25 23:46:26",
+            "number": "33632561243",
+            "cli": "Huawei",
+            "message": "464984 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
+        },
+        {
+            "datetime": "2026-08-25 23:46:12",
+            "number": "33632561243",
+            "cli": "Huawei",
+            "message": "464984 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
+        },
+        {
+            "datetime": "2026-08-25 23:44:51",
+            "number": "584167628867",
+            "cli": "Apple",
+            "message": "Tu cÃ³digo de tu cuenta de Apple es: 498648. No lo compartas con nadie."
+        },
+        {
+            "datetime": "2026-08-25 23:29:30",
+            "number": "79162878838",
+            "cli": "DEVU-POIZON",
+            "message": "ÐÐ¾Ð´: 4246. ÐÐµÐ¹ÑÑÐ²Ð¸ÑÐµÐ»ÐµÐ½ 5 Ð¼Ð¸Ð½ÑÑ. ÐÐµ ÑÐ¾Ð¾Ð±ÑÐ°Ð¹ÑÐµ Ð½Ð¸ÐºÐ¾Ð¼Ñ."
         }
     ]
 }
