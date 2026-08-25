@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-25 21:55:56",
-            "number": "33613010463",
-            "cli": "Amex",
-            "message": "Votre code Amex SafeKey est 378154  pour l\\&#039;achat de â¬626,14 chez eDreams  pour la Carte finissant par 85008. Ne le partagez jamais."
+            "datetime": "2026-08-25 22:47:23",
+            "number": "79773135505",
+            "cli": "Uber",
+            "message": "Ð¿ÑÐ°Ð²ÑÑÐµ STOP ALL Ð½Ð° +1 415-237-0403."
         },
         {
-            "datetime": "2026-08-25 21:50:47",
-            "number": "79246978048",
-            "cli": "FREEDOM",
-            "message": "322370704145 - phone number confirmation code"
+            "datetime": "2026-08-25 22:47:23",
+            "number": "79773135505",
+            "cli": "Uber",
+            "message": "[Uber] ÐÐ°Ñ ÐºÐ¾Ð´: 3570. ÐÐ¸ÐºÐ¾Ð¼Ñ Ð½Ðµ ÑÐ¾Ð¾Ð±ÑÐ°Ð¹ÑÐµ ÐµÐ³Ð¾. Ð§ÑÐ¾Ð±Ñ Ð¾ÑÐ¿Ð¸ÑÐ°ÑÑÑÑ, Ð¾Ñ"
         },
         {
-            "datetime": "2026-08-25 21:50:20",
-            "number": "79246978048",
+            "datetime": "2026-08-25 22:39:26",
+            "number": "79287131054",
             "cli": "FREEDOM",
-            "message": "755055778602 - phone number confirmation code"
+            "message": "769226144146 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-25 21:49:35",
-            "number": "79221778991",
+            "datetime": "2026-08-25 22:37:19",
+            "number": "79513773655",
             "cli": "FREEDOM",
-            "message": "268221440337 - phone number confirmation code"
+            "message": "266201820338 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-25 21:49:12",
-            "number": "79221778991",
+            "datetime": "2026-08-25 22:35:03",
+            "number": "79242756368",
             "cli": "FREEDOM",
-            "message": "467287675575 - phone number confirmation code"
+            "message": "468937197643 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-25 21:48:45",
-            "number": "79221778991",
+            "datetime": "2026-08-25 22:34:27",
+            "number": "79513773655",
             "cli": "FREEDOM",
-            "message": "363150670281 - phone number confirmation code"
+            "message": "863669171678 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-25 21:47:33",
-            "number": "79222895645",
-            "cli": "FREEDOM",
-            "message": "305073447399 - phone number confirmation code"
+            "datetime": "2026-08-25 22:31:55",
+            "number": "2693288129",
+            "cli": "Apple",
+            "message": "REG-RESP?v=5;r=483648018;n=+2693288129;s=026A8E17D7FFFFFFFF96954FF92852D00881D0DC16688443FC401F00AE"
         },
         {
-            "datetime": "2026-08-25 21:47:05",
-            "number": "79222895645",
+            "datetime": "2026-08-25 22:29:34",
+            "number": "79258743069",
             "cli": "FREEDOM",
-            "message": "644100288047 - phone number confirmation code"
+            "message": "485095658408 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-25 21:46:40",
-            "number": "79222895645",
+            "datetime": "2026-08-25 22:29:04",
+            "number": "79258743069",
             "cli": "FREEDOM",
-            "message": "153069290281 - phone number confirmation code"
+            "message": "680886699675 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-25 21:45:19",
-            "number": "79224089464",
-            "cli": "FREEDOM",
-            "message": "471812408346 - phone number confirmation code"
+            "datetime": "2026-08-25 22:28:11",
+            "number": "79066068639",
+            "cli": "FBROKER.KZ",
+            "message": "406008 - phone number confirmation code"
         }
     ]
 }
