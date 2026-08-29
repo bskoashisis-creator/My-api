@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-29 13:24:57",
-            "number": "79052155115",
-            "cli": "FREEDOM",
-            "message": "406012761462 - phone number confirmation code"
+            "datetime": "2026-08-29 13:36:00",
+            "number": "79371457443",
+            "cli": "OKTA",
+            "message": "Haga clic aquÃ­ para inscribirse en Okta Verify : https://sso.rbfa.b"
         },
         {
-            "datetime": "2026-08-29 13:24:54",
-            "number": "79247729906",
-            "cli": "Huawei",
-            "message": "795817 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
+            "datetime": "2026-08-29 13:35:58",
+            "number": "79371457443",
+            "cli": "OKTA",
+            "message": "e/auth/push/link/GukwUvyxrn0-L7oN80Hk/opfz39637vPQGgmzX417"
         },
         {
-            "datetime": "2026-08-29 13:24:51",
-            "number": "79099882266",
+            "datetime": "2026-08-29 13:35:58",
+            "number": "79371457443",
+            "cli": "OKTA",
+            "message": "Haga clic aquÃ­ para inscribirse en Okta Verify : https://sso.rbfa.b"
+        },
+        {
+            "datetime": "2026-08-29 13:35:57",
+            "number": "79210077488",
+            "cli": "Ding",
+            "message": "972499 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
+        },
+        {
+            "datetime": "2026-08-29 13:35:54",
+            "number": "79371457443",
+            "cli": "OKTA",
+            "message": "e/auth/push/link/GukwUvyxrn0-L7oN80Hk/opfz39637vPQGgmzX417"
+        },
+        {
+            "datetime": "2026-08-29 13:35:54",
+            "number": "79280298814",
             "cli": "FBROKER",
-            "message": "178235 - phone number confirmation code"
+            "message": "533744 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-29 13:24:51",
-            "number": "79319721946",
-            "cli": "FREEDOM",
-            "message": "980817971177 - phone number confirmation code"
+            "datetime": "2026-08-29 13:35:50",
+            "number": "79068059383",
+            "cli": "Ding",
+            "message": "343567 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
         },
         {
-            "datetime": "2026-08-29 13:24:48",
-            "number": "79251336837",
-            "cli": "FREEDOM",
-            "message": "396332793764 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-29 13:24:46",
-            "number": "79528324332",
+            "datetime": "2026-08-29 13:35:48",
+            "number": "79376462325",
             "cli": "Huawei",
-            "message": "682588 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
+            "message": "519716 - Huawei verification code to set security phone number."
         },
         {
-            "datetime": "2026-08-29 13:24:44",
-            "number": "79054501480",
-            "cli": "FREEDOM",
-            "message": "339565494716 - phone number confirmation code"
+            "datetime": "2026-08-29 13:35:37",
+            "number": "79093862239",
+            "cli": "FBROKER",
+            "message": "732028 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-29 13:24:44",
-            "number": "79101226344",
-            "cli": "FREEDOM_ARM",
-            "message": "431975 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-29 13:24:39",
-            "number": "79517209121",
-            "cli": "FREEDOM",
-            "message": "376902471108 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-29 13:24:37",
-            "number": "79177855528",
-            "cli": "FREEDOM",
-            "message": "268921399568 - phone number confirmation code"
+            "datetime": "2026-08-29 13:35:31",
+            "number": "79280298814",
+            "cli": "FBROKER",
+            "message": "184390 - phone number confirmation code"
         }
     ]
 }
