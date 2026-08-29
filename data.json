@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-29 09:08:24",
-            "number": "79241628168",
+            "datetime": "2026-08-29 09:19:40",
+            "number": "79290407700",
             "cli": "FREEDOM",
-            "message": "132415999565 - phone number confirmation code"
+            "message": "515266713246 - ÎºÏÎ´Î¹ÎºÏÏ Î³Î¹Î± ÏÎ·Î½ ÎµÏÎ¹Î²ÎµÎ²Î±Î¯ÏÏÎ· ÏÎ¿Ï Î±ÏÎ¹Î¸Î¼Î¿Ï ÏÎ·Î»ÎµÏÏÎ½Î¿Ï"
         },
         {
-            "datetime": "2026-08-29 09:08:24",
-            "number": "79897196119",
-            "cli": "FREEDOM_ARM",
-            "message": "801851 - phone number confirmation code"
+            "datetime": "2026-08-29 09:19:35",
+            "number": "79242978248",
+            "cli": "FREEDOM",
+            "message": "150093495579 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-29 09:08:23",
-            "number": "79290099906",
+            "datetime": "2026-08-29 09:19:31",
+            "number": "79670971831",
+            "cli": "FREEDOM",
+            "message": "759599495210 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-29 09:19:28",
+            "number": "79022176017",
+            "cli": "FREEDOM",
+            "message": "689910937871 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-29 09:19:23",
+            "number": "79605057700",
+            "cli": "FREEDOM",
+            "message": "359197261687 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-29 09:19:10",
+            "number": "79242978248",
+            "cli": "FREEDOM",
+            "message": "114779339620 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-29 09:19:08",
+            "number": "79220819236",
+            "cli": "FREEDOM",
+            "message": "321008210765 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-29 09:19:08",
+            "number": "79670971831",
+            "cli": "FREEDOM",
+            "message": "997495566634 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-29 09:19:03",
+            "number": "79057020351",
             "cli": "FBROKER",
-            "message": "282902 - phone number confirmation code"
+            "message": "849928 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-29 09:08:18",
-            "number": "79061456715",
+            "datetime": "2026-08-29 09:18:47",
+            "number": "79220819236",
             "cli": "FREEDOM",
-            "message": "716872997873 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-29 09:08:14",
-            "number": "79831405989",
-            "cli": "FREEDOM",
-            "message": "921225608098 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-29 09:08:14",
-            "number": "79530518290",
-            "cli": "FREEDOM",
-            "message": "806006880517 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-29 09:08:12",
-            "number": "79288892121",
-            "cli": "FREEDOM",
-            "message": "420352203989 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-29 09:08:09",
-            "number": "79681516510",
-            "cli": "FBROKER",
-            "message": "658111 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-29 09:07:57",
-            "number": "79290099906",
-            "cli": "FBROKER",
-            "message": "111451 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-29 09:07:57",
-            "number": "79262654935",
-            "cli": "FBROKER",
-            "message": "204134 - phone number confirmation code"
+            "message": "986741812050 - phone number confirmation code"
         }
     ]
 }
