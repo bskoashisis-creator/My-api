@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-30 17:04:28",
-            "number": "79373258180",
+            "datetime": "2026-08-30 17:15:50",
+            "number": "79242520771",
             "cli": "FBROKER",
-            "message": "953230 - phone number confirmation code"
+            "message": "085967 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-30 17:04:28",
-            "number": "79287794043",
+            "datetime": "2026-08-30 17:15:49",
+            "number": "79260718787",
             "cli": "FBROKER",
-            "message": "325820 - phone number confirmation code"
+            "message": "965586 - code pour la confirmation du numÃ©ro de tÃ©lÃ©phone"
         },
         {
-            "datetime": "2026-08-30 17:04:28",
-            "number": "79264062797",
-            "cli": "FBROKER",
-            "message": "947290 - phone number confirmation code"
+            "datetime": "2026-08-30 17:15:48",
+            "number": "79307401052",
+            "cli": "Huawei",
+            "message": "788661 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
         },
         {
-            "datetime": "2026-08-30 17:04:28",
-            "number": "79261553958",
+            "datetime": "2026-08-30 17:15:48",
+            "number": "79371036660",
             "cli": "FBROKER",
-            "message": "482914 - phone number confirmation code"
+            "message": "215670 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-30 17:04:17",
-            "number": "79268408407",
-            "cli": "FBROKER",
-            "message": "695527 - phone number confirmation code"
+            "datetime": "2026-08-30 17:15:47",
+            "number": "79224496270",
+            "cli": "MEXC",
+            "message": "[MEXC] ÐÐ¾Ð´: 979892. ÐÑ Ð·Ð°Ð¿ÑÐ¾ÑÐ¸Ð»Ð¸ Ð°Ð²ÑÐ¾ÑÐ¸Ð·Ð¾Ð²Ð°ÑÑÑÑ. ÐÐ¸ÐºÐ¾Ð³Ð´Ð° Ð½Ðµ Ð´ÐµÐ»Ð¸ÑÐµÑ"
         },
         {
-            "datetime": "2026-08-30 17:04:16",
-            "number": "79675138778",
-            "cli": "FBROKER",
-            "message": "543453 - phone number confirmation code"
+            "datetime": "2026-08-30 17:15:47",
+            "number": "79224496270",
+            "cli": "MEXC",
+            "message": "Ñ Ð¸Ð¼."
         },
         {
-            "datetime": "2026-08-30 17:04:10",
-            "number": "79234610700",
-            "cli": "FBROKER",
-            "message": "965275 - phone number confirmation code"
+            "datetime": "2026-08-30 17:15:46",
+            "number": "79307401052",
+            "cli": "Huawei",
+            "message": "788661 - Cï¿½digo de verificaï¿½ï¿½o da Huawei para redefinir a senha."
         },
         {
-            "datetime": "2026-08-30 17:04:05",
-            "number": "79373258180",
+            "datetime": "2026-08-30 17:15:42",
+            "number": "79002062618",
             "cli": "FBROKER",
-            "message": "708614 - phone number confirmation code"
+            "message": "876378 - code pour la confirmation du numÃ©ro de tÃ©lÃ©phone"
         },
         {
-            "datetime": "2026-08-30 17:03:57",
-            "number": "79264062797",
+            "datetime": "2026-08-30 17:15:36",
+            "number": "79277349096",
             "cli": "FBROKER",
-            "message": "341423 - phone number confirmation code"
+            "message": "764650 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-30 17:03:57",
-            "number": "79287794043",
+            "datetime": "2026-08-30 17:15:32",
+            "number": "79312203170",
             "cli": "FBROKER",
-            "message": "389585 - phone number confirmation code"
+            "message": "827004 - phone number confirmation code"
         }
     ]
 }
