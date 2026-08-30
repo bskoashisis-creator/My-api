@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-30 15:58:14",
-            "number": "79266850090",
+            "datetime": "2026-08-30 16:09:26",
+            "number": "79502225966",
+            "cli": "Huawei",
+            "message": "604450 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
+        },
+        {
+            "datetime": "2026-08-30 16:09:22",
+            "number": "79940051782",
             "cli": "FBROKER",
-            "message": "411618 - phone number confirmation code"
+            "message": "648949 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-30 15:58:13",
-            "number": "79067364815",
+            "datetime": "2026-08-30 16:09:13",
+            "number": "79112581979",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code: 384667, valid for 10 minutes. Enter it as shown and keep it confidential."
+        },
+        {
+            "datetime": "2026-08-30 16:08:59",
+            "number": "79940051782",
             "cli": "FBROKER",
-            "message": "986961 - phone number confirmation code"
+            "message": "344684 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-30 15:58:13",
-            "number": "998958808007",
-            "cli": "BoostWin",
-            "message": "20 no-deposit spins are yours on BoostWin https://bstw.io/6ggeRANEYB"
-        },
-        {
-            "datetime": "2026-08-30 15:58:09",
-            "number": "79052130075",
+            "datetime": "2026-08-30 16:08:59",
+            "number": "79289142653",
             "cli": "FBROKER",
-            "message": "069261 - phone number confirmation code"
+            "message": "157558 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-30 15:58:01",
-            "number": "79245892319",
+            "datetime": "2026-08-30 16:08:59",
+            "number": "79096866610",
+            "cli": "TWLOVERIFY",
+            "message": "Your Global ID verification code is: 163532. Don\\&#039;t share this code with anyone; our employees will never ask for the code."
+        },
+        {
+            "datetime": "2026-08-30 16:08:52",
+            "number": "79229116081",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code: 948631, valid for 10 minutes. Enter it as shown and keep it confidential."
+        },
+        {
+            "datetime": "2026-08-30 16:08:36",
+            "number": "79289142653",
             "cli": "FBROKER",
-            "message": "288657 - phone number confirmation code"
+            "message": "735763 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-30 15:57:51",
-            "number": "79236928722",
+            "datetime": "2026-08-30 16:08:34",
+            "number": "79124120561",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code: 234698, valid for 10 minutes. Enter it as shown and keep it confidential."
+        },
+        {
+            "datetime": "2026-08-30 16:08:29",
+            "number": "79292989293",
             "cli": "FBROKER",
-            "message": "606780 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-30 15:57:51",
-            "number": "79067364815",
-            "cli": "FBROKER",
-            "message": "640807 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-30 15:57:45",
-            "number": "972599770028",
-            "cli": "Amazon",
-            "message": "314429 ××× ××¡××¡×× ×××-×¤×¢×××ª ×©×× ×-Amazon. ××× ××©×ª×£ ×××ª× ×¢× ××£ ×××."
-        },
-        {
-            "datetime": "2026-08-30 15:57:33",
-            "number": "79262068899",
-            "cli": "FBROKER",
-            "message": "954637 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-30 15:57:33",
-            "number": "79245892319",
-            "cli": "FBROKER",
-            "message": "256065 - phone number confirmation code"
+            "message": "779161 - phone number confirmation code"
         }
     ]
 }
