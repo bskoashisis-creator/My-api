@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-31 04:42:51",
-            "number": "79118111148",
+            "datetime": "2026-08-31 04:54:28",
+            "number": "79185135898",
             "cli": "FREEDOM",
-            "message": "402367884195 - phone number confirmation code"
+            "message": "519269292813 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-31 04:42:49",
-            "number": "79245845591",
-            "cli": "FREEDOM",
-            "message": "445465104370 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-31 04:42:42",
-            "number": "79308792746",
+            "datetime": "2026-08-31 04:54:18",
+            "number": "79214698224",
             "cli": "FBROKER",
-            "message": "057144 - phone number confirmation code"
+            "message": "935177 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-31 04:42:39",
-            "number": "79067556601",
+            "datetime": "2026-08-31 04:54:15",
+            "number": "96894757171",
+            "cli": "Aramex",
+            "message": "Hello, your shipment 35770605021 is out for delivery with following charges: 27.99 OMR items price. Thank you!"
+        },
+        {
+            "datetime": "2026-08-31 04:54:12",
+            "number": "79241878059",
+            "cli": "FREEDOM",
+            "message": "397338400266 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-31 04:54:09",
+            "number": "79214489667",
+            "cli": "FREEDOM",
+            "message": "703045461114 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-31 04:53:58",
+            "number": "79851438262",
             "cli": "FBROKER",
-            "message": "878085 - phone number confirmation code"
+            "message": "919718 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-31 04:42:28",
-            "number": "79111279781",
+            "datetime": "2026-08-31 04:53:57",
+            "number": "79214698224",
             "cli": "FBROKER",
-            "message": "727358 - phone number confirmation code"
+            "message": "288147 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-31 04:42:26",
-            "number": "79245845591",
+            "datetime": "2026-08-31 04:53:57",
+            "number": "79033140330",
             "cli": "FREEDOM",
-            "message": "801659565826 - phone number confirmation code"
+            "message": "102466962699 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-31 04:42:26",
-            "number": "79287445112",
-            "cli": "FREEDOM",
-            "message": "223060441384 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-31 04:42:24",
-            "number": "79204152565",
+            "datetime": "2026-08-31 04:53:55",
+            "number": "79207926553",
             "cli": "FBROKER",
-            "message": "102392 - phone number confirmation code"
+            "message": "850774 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-31 04:42:21",
-            "number": "79250446003",
-            "cli": "FREEDOM",
-            "message": "465975631507 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-31 04:42:19",
-            "number": "79250010106",
-            "cli": "FREEDOM",
-            "message": "239007993948 - phone number confirmation code"
+            "datetime": "2026-08-31 04:53:53",
+            "number": "79218441480",
+            "cli": "Huawei",
+            "message": "993184 - Huawei verification code."
         }
     ]
 }
