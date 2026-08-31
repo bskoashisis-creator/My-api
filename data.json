@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-31 03:35:37",
-            "number": "79042429593",
-            "cli": "FREEDOM",
-            "message": "791765325553 - phone number confirmation code"
+            "datetime": "2026-08-31 03:46:46",
+            "number": "79212404686",
+            "cli": "Huawei",
+            "message": "598091 - Cï¿½digo de verificaï¿½ï¿½o da Huawei para redefinir a senha."
         },
         {
-            "datetime": "2026-08-31 03:35:29",
-            "number": "79230319527",
-            "cli": "FBROKER",
-            "message": "077717 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-31 03:35:29",
-            "number": "79059666455",
-            "cli": "FBROKER",
-            "message": "665339 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-31 03:35:28",
-            "number": "79265300790",
-            "cli": "FREEDOM",
-            "message": "514917130013 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-31 03:35:07",
-            "number": "79379424720",
-            "cli": "FREEDOM",
-            "message": "786066570100 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-31 03:35:06",
-            "number": "79220321177",
+            "datetime": "2026-08-31 03:46:39",
+            "number": "79817797292",
             "cli": "FREEDOM_ARM",
-            "message": "984704 - phone number confirmation code"
+            "message": "754240 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-31 03:35:06",
-            "number": "79042429593",
+            "datetime": "2026-08-31 03:46:39",
+            "number": "79227858931",
             "cli": "FREEDOM",
-            "message": "473763710350 - phone number confirmation code"
+            "message": "549806754948 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-31 03:35:06",
-            "number": "79877166627",
+            "datetime": "2026-08-31 03:46:29",
+            "number": "79377202090",
             "cli": "FBROKER",
-            "message": "718861 - phone number confirmation code"
+            "message": "828484 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-31 03:35:00",
-            "number": "79038302726",
+            "datetime": "2026-08-31 03:46:28",
+            "number": "79130344487",
             "cli": "FBROKER",
-            "message": "399957 - phone number confirmation code"
+            "message": "954411 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-31 03:35:00",
-            "number": "79056729158",
-            "cli": "FBROKER",
-            "message": "790053 - phone number confirmation code"
+            "datetime": "2026-08-31 03:46:18",
+            "number": "79372734582",
+            "cli": "Huawei",
+            "message": "736859 - CÃ³digo de verificaÃ§Ã£o da Huawei."
+        },
+        {
+            "datetime": "2026-08-31 03:46:17",
+            "number": "79227858931",
+            "cli": "FREEDOM",
+            "message": "798107896986 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-31 03:46:17",
+            "number": "79817797292",
+            "cli": "FREEDOM_ARM",
+            "message": "385335 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-31 03:46:14",
+            "number": "79212404686",
+            "cli": "Huawei",
+            "message": "598091 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
+        },
+        {
+            "datetime": "2026-08-31 03:46:11",
+            "number": "79087028603",
+            "cli": "FREEDOM",
+            "message": "376764215717 - phone number confirmation code"
         }
     ]
 }
