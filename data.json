@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-31 04:20:37",
-            "number": "79503770228",
-            "cli": "FBROKER",
-            "message": "349932 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-31 04:20:36",
-            "number": "79371287407",
-            "cli": "FBROKER",
-            "message": "645743 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-31 04:20:31",
-            "number": "79214339151",
+            "datetime": "2026-08-31 04:31:47",
+            "number": "79275518004",
             "cli": "FREEDOM",
-            "message": "875927996764 - phone number confirmation code"
+            "message": "846234831488 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-31 04:20:28",
-            "number": "79202593447",
+            "datetime": "2026-08-31 04:31:42",
+            "number": "79381414404",
+            "cli": "FREEDOM",
+            "message": "675480389081 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-31 04:31:41",
+            "number": "79140873867",
+            "cli": "FREEDOM_ARM",
+            "message": "011659 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-31 04:31:41",
+            "number": "79276884262",
             "cli": "FBROKER",
-            "message": "165551 - phone number confirmation code"
+            "message": "155223 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-31 04:20:26",
-            "number": "79213391723",
+            "datetime": "2026-08-31 04:31:36",
+            "number": "79111382882",
             "cli": "FREEDOM",
-            "message": "674728476964 - phone number confirmation code"
+            "message": "325707105302 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-31 04:20:24",
-            "number": "79214339151",
+            "datetime": "2026-08-31 04:31:35",
+            "number": "79298498405",
             "cli": "FREEDOM",
-            "message": "579712191078 - phone number confirmation code"
+            "message": "641799169945 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-31 04:20:18",
-            "number": "79874877315",
+            "datetime": "2026-08-31 04:31:34",
+            "number": "79618736161",
+            "cli": "Huawei",
+            "message": "997669 - Huawei verification code to register HUAWEI ID."
+        },
+        {
+            "datetime": "2026-08-31 04:31:33",
+            "number": "79269502086",
             "cli": "FREEDOM",
-            "message": "650596807971 - phone number confirmation code"
+            "message": "665294928598 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-31 04:20:14",
-            "number": "79371287407",
-            "cli": "FBROKER",
-            "message": "334881 - phone number confirmation code"
+            "datetime": "2026-08-31 04:31:32",
+            "number": "79248976017",
+            "cli": "FREEDOM_ARM",
+            "message": "441813 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-31 04:20:12",
-            "number": "79258608061",
-            "cli": "FREEDOM",
-            "message": "405729499684 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-31 04:20:11",
-            "number": "79233295904",
-            "cli": "FBROKER",
-            "message": "371443 - phone number confirmation code"
+            "datetime": "2026-08-31 04:31:28",
+            "number": "79618736161",
+            "cli": "Huawei",
+            "message": "997669 - Huawei verification code to register HUAWEI ID."
         }
     ]
 }
