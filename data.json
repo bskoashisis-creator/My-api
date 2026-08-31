@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-31 14:36:16",
-            "number": "79216312484",
-            "cli": "FBROKER",
-            "message": "718711 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-31 14:36:13",
-            "number": "79217616151",
-            "cli": "Facebook",
-            "message": "943542- ÑÑÐ¾ Ð²Ð°Ñ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ. ÐÐµ ÑÐ¾Ð¾Ð±ÑÐ°Ð¹ÑÐµ ÐµÐ³Ð¾ Ð½Ð¸ÐºÐ¾Ð¼Ñ Ð¸Ð·"
-        },
-        {
-            "datetime": "2026-08-31 14:36:13",
-            "number": "79217616151",
-            "cli": "Facebook",
-            "message": "ÑÐ¾Ð¾Ð±ÑÐ°Ð¶ÐµÐ½Ð¸Ð¹ Ð±ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾ÑÑÐ¸."
-        },
-        {
-            "datetime": "2026-08-31 14:36:12",
-            "number": "79585096228",
-            "cli": "FBROKER",
-            "message": "651120 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-31 14:36:07",
-            "number": "79212229713",
-            "cli": "FBROKER",
-            "message": "392027 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-31 14:36:02",
-            "number": "59160319885",
-            "cli": "18287608397",
-            "message": "nsubscribe.\\nThanks, Brian Moore - Good to Grow LLC/ DBA The Grassquatch Inc"
-        },
-        {
-            "datetime": "2026-08-31 14:36:01",
-            "number": "79525132544",
-            "cli": "Huawei",
-            "message": "211831 - Huawei verification code to set security phone number."
-        },
-        {
-            "datetime": "2026-08-31 14:36:00",
-            "number": "79043869435",
-            "cli": "FBROKER",
-            "message": "083056 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-08-31 14:35:58",
-            "number": "59165325210",
+            "datetime": "2026-08-31 14:47:29",
+            "number": "59160319904",
             "cli": "12035874263",
-            "message": "STOP to unsubscribe.\\nThanks, Manuel Dubon - Dubons Landscaping LLC"
+            "message": "TOP to unsubscribe.\\nThanks, Manuel Dubon - Dubons Landscaping LLC"
         },
         {
-            "datetime": "2026-08-31 14:35:53",
-            "number": "33778404951",
-            "cli": "Huawei",
-            "message": "534517 - Huawei verification code to reset password."
+            "datetime": "2026-08-31 14:47:29",
+            "number": "59170715307",
+            "cli": "Dola",
+            "message": "[Dola] 611374 is your verification code, valid for 5 minutes. To keep your account safe, never forward this code."
+        },
+        {
+            "datetime": "2026-08-31 14:47:28",
+            "number": "79821630511",
+            "cli": "FBROKER",
+            "message": "472697 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-31 14:47:19",
+            "number": "59165153279",
+            "cli": "12035874263",
+            "message": "to unsubscribe.\\nThanks, Manuel Dubon - Dubons Landscaping LLC"
+        },
+        {
+            "datetime": "2026-08-31 14:47:19",
+            "number": "59165657476",
+            "cli": "12035874263",
+            "message": "o unsubscribe.\\nThanks, Manuel Dubon - Dubons Landscaping LLC"
+        },
+        {
+            "datetime": "2026-08-31 14:47:19",
+            "number": "59165657476",
+            "cli": "12035874263",
+            "message": "Hey Zkxks! Just got your quote form!\\n\\nI\\&#039;ll be in touch shortly! Anything in can answer in the meantime?\\n\\n-Manuel with Dubons Landscaping llc\\nReply STOP t"
+        },
+        {
+            "datetime": "2026-08-31 14:47:17",
+            "number": "59161047061",
+            "cli": "12035874263",
+            "message": "Hey 59161047061! Just got your quote form!\\n\\nI\\&#039;ll be in touch shortly! Anything in can answer in the meantime?\\n\\n-Manuel with Dubons Landscaping llc\\nReply"
+        },
+        {
+            "datetime": "2026-08-31 14:47:16",
+            "number": "79210600608",
+            "cli": "FBROKER",
+            "message": "381237 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-08-31 14:47:15",
+            "number": "59165571799",
+            "cli": "18287608397",
+            "message": "ubscribe.\\nThanks, Brian Moore - Good to Grow LLC/ DBA The Grassquatch Inc"
+        },
+        {
+            "datetime": "2026-08-31 14:47:15",
+            "number": "59165571799",
+            "cli": "18287608397",
+            "message": "Hey Gsjsdgsh! Just got your quote form!\\n\\nI\\&#039;ll be in touch shortly! Anything in can answer in the meantime?\\n\\n-Brian with The Grassquatch\\nReply STOP to uns"
         }
     ]
 }
