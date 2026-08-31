@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-08-31 17:12:42",
-            "number": "79172601708",
-            "cli": "FBROKER",
-            "message": "245252 - cÃ³digo para la confirmaciÃ³n del nÃºmero de telÃ©fono"
+            "datetime": "2026-08-31 17:23:48",
+            "number": "79165565143",
+            "cli": "FREEDOM_ARM",
+            "message": "190989 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-31 17:12:39",
-            "number": "79273821233",
-            "cli": "FBROKER",
-            "message": "189660 - phone number confirmation code"
+            "datetime": "2026-08-31 17:23:22",
+            "number": "77477756216",
+            "cli": "CloudOTP",
+            "message": "Kod podtverzhdeniya 9679"
         },
         {
-            "datetime": "2026-08-31 17:12:38",
-            "number": "79057023355",
-            "cli": "FBROKER",
-            "message": "303249 - phone number confirmation code"
+            "datetime": "2026-08-31 17:23:19",
+            "number": "79165565143",
+            "cli": "FREEDOM_ARM",
+            "message": "350574 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-31 17:12:33",
-            "number": "79644607765",
-            "cli": "FBROKER",
-            "message": "533911 - phone number confirmation code"
+            "datetime": "2026-08-31 17:23:07",
+            "number": "584164122654",
+            "cli": "Huawei",
+            "message": "429485 - Huawei verification code."
         },
         {
-            "datetime": "2026-08-31 17:12:19",
-            "number": "79172601708",
-            "cli": "FBROKER",
-            "message": "733027 - cÃ³digo para la confirmaciÃ³n del nÃºmero de telÃ©fono"
+            "datetime": "2026-08-31 17:22:56",
+            "number": "79165565143",
+            "cli": "FREEDOM_ARM",
+            "message": "418515 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-31 17:12:18",
-            "number": "79273821233",
-            "cli": "FBROKER",
-            "message": "172001 - phone number confirmation code"
+            "datetime": "2026-08-31 17:22:56",
+            "number": "584164122654",
+            "cli": "Huawei",
+            "message": "429485 - Huawei verification code."
         },
         {
-            "datetime": "2026-08-31 17:12:10",
-            "number": "79057023355",
-            "cli": "FBROKER",
-            "message": "234147 - phone number confirmation code"
+            "datetime": "2026-08-31 17:22:51",
+            "number": "584164122654",
+            "cli": "Huawei",
+            "message": "429485 - Huawei verification code."
         },
         {
-            "datetime": "2026-08-31 17:12:10",
-            "number": "79997213539",
-            "cli": "Apple",
-            "message": "ÐÐ¾Ð´ ÐÐºÐºÐ°ÑÐ½ÑÐ° Apple: 923372. ÐÐµ Ð´ÐµÐ»Ð¸ÑÐµÑÑ Ð¸Ð¼."
+            "datetime": "2026-08-31 17:21:37",
+            "number": "584164122654",
+            "cli": "Huawei",
+            "message": "Huawei In-App Purchases verification code: 715763."
         },
         {
-            "datetime": "2026-08-31 17:11:54",
-            "number": "79273821233",
+            "datetime": "2026-08-31 17:21:36",
+            "number": "79264143085",
             "cli": "FBROKER",
-            "message": "382183 - phone number confirmation code"
+            "message": "851131 - phone number confirmation code"
         },
         {
-            "datetime": "2026-08-31 17:11:34",
-            "number": "79172601708",
+            "datetime": "2026-08-31 17:21:13",
+            "number": "79264143085",
             "cli": "FBROKER",
-            "message": "475814 - cÃ³digo para la confirmaciÃ³n del nÃºmero de telÃ©fono"
+            "message": "130265 - phone number confirmation code"
         }
     ]
 }
