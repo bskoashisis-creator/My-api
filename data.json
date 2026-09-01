@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-01 19:02:55",
-            "number": "79263823630",
-            "cli": "OKTA",
-            "message": "e/auth/push/link/dXC6suebPJ2M2APbRH9n/opfz5x8urlD7K0dUu417"
-        },
-        {
-            "datetime": "2026-09-01 19:02:55",
-            "number": "79263823630",
-            "cli": "OKTA",
-            "message": "Haga clic aquÃ­ para inscribirse en Okta Verify : https://sso.rbfa.b"
-        },
-        {
-            "datetime": "2026-09-01 19:02:49",
-            "number": "79263823630",
-            "cli": "OKTA",
-            "message": "Haga clic aquÃ­ para inscribirse en Okta Verify : https://sso.rbfa.b"
-        },
-        {
-            "datetime": "2026-09-01 19:02:47",
-            "number": "79263823630",
-            "cli": "OKTA",
-            "message": "e/auth/push/link/dXC6suebPJ2M2APbRH9n/opfz5x8urlD7K0dUu417"
-        },
-        {
-            "datetime": "2026-09-01 19:02:47",
-            "number": "79263823630",
-            "cli": "OKTA",
-            "message": "Haga clic aquÃ­ para inscribirse en Okta Verify : https://sso.rbfa.b"
-        },
-        {
-            "datetime": "2026-09-01 19:02:43",
-            "number": "79263823630",
-            "cli": "OKTA",
-            "message": "e/auth/push/link/dXC6suebPJ2M2APbRH9n/opfz5x8urlD7K0dUu417"
-        },
-        {
-            "datetime": "2026-09-01 19:02:43",
-            "number": "79263823630",
-            "cli": "OKTA",
-            "message": "Haga clic aquÃ­ para inscribirse en Okta Verify : https://sso.rbfa.b"
-        },
-        {
-            "datetime": "2026-09-01 18:59:06",
-            "number": "79126821427",
-            "cli": "Huawei",
-            "message": "552263 - Cï¿½digo de verificaï¿½ï¿½o da Huawei para redefinir a senha."
-        },
-        {
-            "datetime": "2026-09-01 18:58:04",
-            "number": "79031329696",
+            "datetime": "2026-09-01 19:18:46",
+            "number": "79259244047",
             "cli": "AUTHMSG",
-            "message": "Melman: ÐºÐ¾Ð´ Ð²ÑÐ¾Ð´Ð° 195310.\\nÐÐ¸ÐºÐ¾Ð¼Ñ ÐµÐ³Ð¾ Ð½Ðµ ÑÐ¾Ð¾Ð±ÑÐ°Ð¹ÑÐµ.\\n&lt;#&gt;"
+            "message": "945367 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
         },
         {
-            "datetime": "2026-09-01 18:58:02",
-            "number": "79126821427",
-            "cli": "Huawei",
-            "message": "552263 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
+            "datetime": "2026-09-01 19:18:25",
+            "number": "79266718645",
+            "cli": "Ding",
+            "message": "740886 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
+        },
+        {
+            "datetime": "2026-09-01 19:18:16",
+            "number": "79774904362",
+            "cli": "Ding",
+            "message": "917935 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
+        },
+        {
+            "datetime": "2026-09-01 19:18:10",
+            "number": "79202136849",
+            "cli": "Ding",
+            "message": "726558 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
+        },
+        {
+            "datetime": "2026-09-01 19:17:54",
+            "number": "79266718645",
+            "cli": "Ding",
+            "message": "085832 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
+        },
+        {
+            "datetime": "2026-09-01 19:17:46",
+            "number": "79774904362",
+            "cli": "Ding",
+            "message": "103122 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
+        },
+        {
+            "datetime": "2026-09-01 19:17:43",
+            "number": "79884600294",
+            "cli": "Apple",
+            "message": "REG-RESP?v=5;r=366186231;n=+79884600294;s=026A9724D2FFFFFFFF1C0D5E7940D73A1178739BFBBC16DFC9F9AF2FBA"
+        },
+        {
+            "datetime": "2026-09-01 19:17:37",
+            "number": "79202136849",
+            "cli": "Ding",
+            "message": "805437 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
+        },
+        {
+            "datetime": "2026-09-01 19:15:56",
+            "number": "79257779910",
+            "cli": "FR.TRAVEL",
+            "message": "ÐÐ°Ñ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ: 3000. ÐÐÐÐÐÐ£ ÐÐ Ð¡ÐÐÐÐ©ÐÐÐ¢Ð ÐÐÐ!"
+        },
+        {
+            "datetime": "2026-09-01 19:15:46",
+            "number": "79375735712",
+            "cli": "Steam",
+            "message": "Steam: Ð²Ð²ÐµÐ´Ð¸ÑÐµ ÐºÐ¾Ð´ P9NGY, ÑÑÐ¾Ð±Ñ Ð¸Ð·Ð¼ÐµÐ½Ð¸ÑÑ Ð´Ð°Ð½Ð½ÑÐµ Ð´Ð»Ñ Ð²ÑÐ¾Ð´Ð° Ð² Ð°ÐºÐºÐ°ÑÐ½Ñ"
         }
     ]
 }
