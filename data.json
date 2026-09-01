@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-01 18:34:45",
-            "number": "79203755929",
-            "cli": "HONOR",
-            "message": "[HONOR]ÐÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ: 580813."
+            "datetime": "2026-09-01 18:49:48",
+            "number": "79276777713",
+            "cli": "OKTA",
+            "message": "484925 is your Emirates one-time passcode."
         },
         {
-            "datetime": "2026-09-01 18:33:44",
-            "number": "79204679353",
-            "cli": "Huawei",
-            "message": "328188 - Huawei verification code."
+            "datetime": "2026-09-01 18:45:08",
+            "number": "79035520808",
+            "cli": "AIRBNB",
+            "message": "ÐÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Airbnb: 334801."
         },
         {
-            "datetime": "2026-09-01 18:33:37",
-            "number": "79204679353",
-            "cli": "Huawei",
-            "message": "328188 - Huawei verification code."
-        },
-        {
-            "datetime": "2026-09-01 18:33:32",
-            "number": "79237203089",
-            "cli": "Huawei",
-            "message": "863629 - Huawei verification code."
-        },
-        {
-            "datetime": "2026-09-01 18:32:53",
-            "number": "79213760750",
-            "cli": "Huawei",
-            "message": "826414 - Huawei verification code."
-        },
-        {
-            "datetime": "2026-09-01 18:32:50",
-            "number": "79213760750",
-            "cli": "Huawei",
-            "message": "826414 - Huawei verification code."
-        },
-        {
-            "datetime": "2026-09-01 18:32:09",
-            "number": "79372000682",
-            "cli": "Huawei",
-            "message": "885575 - Huawei verification code."
-        },
-        {
-            "datetime": "2026-09-01 18:32:02",
-            "number": "79372000682",
-            "cli": "Huawei",
-            "message": "885575 - Huawei verification code."
-        },
-        {
-            "datetime": "2026-09-01 18:27:04",
+            "datetime": "2026-09-01 18:42:03",
             "number": "79661777727",
             "cli": "Bereke Bank",
-            "message": "PB\\r\\nBalans 53Â 673.51 KZT"
+            "message": "ZT\\r\\nBankomat MTB INSTITUTION         PR. POBEDITELEJ 9\\r\\nBalans 46Â 4"
         },
         {
-            "datetime": "2026-09-01 18:27:04",
+            "datetime": "2026-09-01 18:42:03",
             "number": "79661777727",
             "cli": "Bereke Bank",
-            "message": "Satyp alu/ Pokupka 12.80 BYN\\r\\nKarta ***313820\\r\\nKAFETERIY \\&quot;TERRI\\&quot; BA"
+            "message": "74.67 KZT"
+        },
+        {
+            "datetime": "2026-09-01 18:42:03",
+            "number": "79661777727",
+            "cli": "Bereke Bank",
+            "message": "Sheshildi/ Snyatie 40.00 BYN\\r\\nKarta ***402799\\r\\nKomissiya 1Â 151.19 K"
+        },
+        {
+            "datetime": "2026-09-01 18:41:02",
+            "number": "79205881288",
+            "cli": "Apple",
+            "message": "ÐÐ¾Ð´ ÐÐºÐºÐ°ÑÐ½ÑÐ° Apple: 790667. ÐÐµ Ð´ÐµÐ»Ð¸ÑÐµÑÑ Ð¸Ð¼."
+        },
+        {
+            "datetime": "2026-09-01 18:39:35",
+            "number": "79263823630",
+            "cli": "OKTA",
+            "message": "Haga clic aquÃ­ para inscribirse en Okta Verify : https://public.log"
+        },
+        {
+            "datetime": "2026-09-01 18:39:35",
+            "number": "79263823630",
+            "cli": "OKTA",
+            "message": "in.sabre.com/auth/push/link/ft1vaPgX2JqEJLdMcAaR621aIkxJmtN-8O/aut1"
+        },
+        {
+            "datetime": "2026-09-01 18:39:35",
+            "number": "79263823630",
+            "cli": "OKTA",
+            "message": "varyz8wfLHZRf1d8"
+        },
+        {
+            "datetime": "2026-09-01 18:39:23",
+            "number": "79263823630",
+            "cli": "OKTA",
+            "message": "varyz8wfLHZRf1d8"
         }
     ]
 }
