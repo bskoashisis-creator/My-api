@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-01 09:19:08",
-            "number": "79277492253",
+            "datetime": "2026-09-01 09:34:47",
+            "number": "79233005175",
+            "cli": "FREEDOM",
+            "message": "333863875956 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-01 09:34:46",
+            "number": "79859302752",
+            "cli": "FREEDOM",
+            "message": "681933308289 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-01 09:34:41",
+            "number": "79372643183",
+            "cli": "FREEDOM",
+            "message": "271405987414 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-01 09:34:40",
+            "number": "79538888398",
             "cli": "FBROKER",
-            "message": "856947 - phone number confirmation code"
+            "message": "041656 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-01 09:19:07",
-            "number": "79117750842",
-            "cli": "OKTA",
-            "message": "Click here to enroll Okta Verify : https://emednyid.emedny.org/auth/push/link/ftbgOoP4GyekyICnssUG7lDgzk77kUFFhZ/autfp8vkrm827wkSR4h7"
+            "datetime": "2026-09-01 09:34:39",
+            "number": "79166408540",
+            "cli": "Huawei",
+            "message": "295160 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
         },
         {
-            "datetime": "2026-09-01 09:18:59",
-            "number": "79014194374",
-            "cli": "FREEDOM",
-            "message": "119129419566 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-01 09:18:58",
-            "number": "79086417172",
+            "datetime": "2026-09-01 09:34:39",
+            "number": "79118845721",
             "cli": "FBROKER",
-            "message": "075609 - phone number confirmation code"
+            "message": "435732 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-01 09:18:55",
-            "number": "79610772520",
-            "cli": "FREEDOM_ARM",
-            "message": "334369 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-01 09:18:54",
-            "number": "79080222633",
+            "datetime": "2026-09-01 09:34:38",
+            "number": "79819537633",
             "cli": "FBROKER",
-            "message": "124091 - phone number confirmation code"
+            "message": "137132 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-01 09:18:49",
-            "number": "79771233500",
-            "cli": "OKTA",
-            "message": "Click here to enroll Okta Verify : https://emednyid.emedny.org/auth/push/link/ftEGC2SxQip81Rd4mÂ§HP0IÂ§V9bHZcKQBUH/autfp8vkrm827wkSR4h7"
+            "datetime": "2026-09-01 09:34:37",
+            "number": "79270188504",
+            "cli": "FBROKER",
+            "message": "084222 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-01 09:18:40",
-            "number": "79244005360",
+            "datetime": "2026-09-01 09:34:33",
+            "number": "79803140919",
             "cli": "FREEDOM",
-            "message": "449375439603 - phone number confirmation code"
+            "message": "813507891453 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-01 09:18:36",
-            "number": "79992555899",
+            "datetime": "2026-09-01 09:34:33",
+            "number": "79385334008",
             "cli": "FREEDOM",
-            "message": "723223420584 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-01 09:18:36",
-            "number": "79014194374",
-            "cli": "FREEDOM",
-            "message": "189876332058 - phone number confirmation code"
+            "message": "921478266423 - phone number confirmation code"
         }
     ]
 }
