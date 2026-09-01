@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-01 08:59:25",
-            "number": "79209272767",
-            "cli": "FREEDOM",
-            "message": "847218292857 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-01 08:59:25",
-            "number": "79269338815",
-            "cli": "FREEDOM",
-            "message": "291248574654 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-01 08:59:23",
-            "number": "79252048486",
+            "datetime": "2026-09-01 09:19:08",
+            "number": "79277492253",
             "cli": "FBROKER",
-            "message": "093778 - phone number confirmation code"
+            "message": "856947 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-01 08:59:20",
-            "number": "79384977233",
+            "datetime": "2026-09-01 09:19:07",
+            "number": "79117750842",
+            "cli": "OKTA",
+            "message": "Click here to enroll Okta Verify : https://emednyid.emedny.org/auth/push/link/ftbgOoP4GyekyICnssUG7lDgzk77kUFFhZ/autfp8vkrm827wkSR4h7"
+        },
+        {
+            "datetime": "2026-09-01 09:18:59",
+            "number": "79014194374",
+            "cli": "FREEDOM",
+            "message": "119129419566 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-01 09:18:58",
+            "number": "79086417172",
             "cli": "FBROKER",
-            "message": "011842 - phone number confirmation code"
+            "message": "075609 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-01 08:59:16",
-            "number": "79623456800",
+            "datetime": "2026-09-01 09:18:55",
+            "number": "79610772520",
+            "cli": "FREEDOM_ARM",
+            "message": "334369 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-01 09:18:54",
+            "number": "79080222633",
+            "cli": "FBROKER",
+            "message": "124091 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-01 09:18:49",
+            "number": "79771233500",
+            "cli": "OKTA",
+            "message": "Click here to enroll Okta Verify : https://emednyid.emedny.org/auth/push/link/ftEGC2SxQip81Rd4mÂ§HP0IÂ§V9bHZcKQBUH/autfp8vkrm827wkSR4h7"
+        },
+        {
+            "datetime": "2026-09-01 09:18:40",
+            "number": "79244005360",
             "cli": "FREEDOM",
-            "message": "320530964661 - phone number confirmation code"
+            "message": "449375439603 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-01 08:59:16",
-            "number": "79286139414",
-            "cli": "Huawei",
-            "message": "180817 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
-        },
-        {
-            "datetime": "2026-09-01 08:59:14",
-            "number": "79507551256",
+            "datetime": "2026-09-01 09:18:36",
+            "number": "79992555899",
             "cli": "FREEDOM",
-            "message": "207139452826 - phone number confirmation code"
+            "message": "723223420584 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-01 08:59:12",
-            "number": "79272331924",
+            "datetime": "2026-09-01 09:18:36",
+            "number": "79014194374",
             "cli": "FREEDOM",
-            "message": "945436678188 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-01 08:59:09",
-            "number": "79286139414",
-            "cli": "Huawei",
-            "message": "180817 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
-        },
-        {
-            "datetime": "2026-09-01 08:59:08",
-            "number": "79286139414",
-            "cli": "Huawei",
-            "message": "180817 - Cï¿½digo de verificaï¿½ï¿½o da Huawei para redefinir a senha."
+            "message": "189876332058 - phone number confirmation code"
         }
     ]
 }
