@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-02 07:33:33",
-            "number": "79373448820",
-            "cli": "FREEDOM",
-            "message": "631357942923 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-02 07:33:32",
-            "number": "79216425726",
-            "cli": "FREEDOM",
-            "message": "371257221773 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-02 07:33:29",
-            "number": "79041666688",
-            "cli": "FR.TRAVEL",
-            "message": "ÐÐ°Ñ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ: 9075. ÐÐÐÐÐÐ£ ÐÐ Ð¡ÐÐÐÐ©ÐÐÐ¢Ð ÐÐÐ!"
-        },
-        {
-            "datetime": "2026-09-02 07:33:28",
-            "number": "79237771077",
-            "cli": "FREEDOM",
-            "message": "154436463214 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-02 07:33:28",
-            "number": "79955066676",
-            "cli": "FREEDOM",
-            "message": "679992720032 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-02 07:33:28",
-            "number": "79227552022",
+            "datetime": "2026-09-02 07:46:41",
+            "number": "79200217374",
             "cli": "FBROKER",
-            "message": "306522 - phone number confirmation code"
+            "message": "047580 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 07:33:25",
-            "number": "79869046522",
+            "datetime": "2026-09-02 07:46:39",
+            "number": "79241950707",
             "cli": "FREEDOM",
-            "message": "535118663907 - phone number confirmation code"
+            "message": "276136176596 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 07:33:21",
-            "number": "79869556024",
-            "cli": "Steam",
-            "message": "Steam: Support has removed this number from the account lolkil223. Contact us if you didn\\&#039;t request this."
-        },
-        {
-            "datetime": "2026-09-02 07:33:20",
-            "number": "79281084718",
+            "datetime": "2026-09-02 07:46:34",
+            "number": "79384866215",
             "cli": "FREEDOM",
-            "message": "153994973704 - phone number confirmation code"
+            "message": "203132318102 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 07:33:19",
-            "number": "79381517986",
+            "datetime": "2026-09-02 07:46:32",
+            "number": "79067600294",
             "cli": "FREEDOM",
-            "message": "802826936280 - phone number confirmation code"
+            "message": "660145694173 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-02 07:46:32",
+            "number": "79220304624",
+            "cli": "FBROKER",
+            "message": "235607 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-02 07:46:29",
+            "number": "79377818685",
+            "cli": "FBROKER",
+            "message": "489978 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-02 07:46:29",
+            "number": "420792047725",
+            "cli": "Huawei",
+            "message": "188944 - Huawei verification code to delete HUAWEI ID."
+        },
+        {
+            "datetime": "2026-09-02 07:46:14",
+            "number": "79043966796",
+            "cli": "FREEDOM",
+            "message": "823310703761 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-02 07:46:09",
+            "number": "79220304624",
+            "cli": "FBROKER",
+            "message": "233670 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-02 07:46:08",
+            "number": "79241707884",
+            "cli": "FBROKER",
+            "message": "931164 - phone number confirmation code"
         }
     ]
 }
