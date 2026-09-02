@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-02 13:46:18",
-            "number": "79287672565",
+            "datetime": "2026-09-02 13:57:19",
+            "number": "79278581565",
             "cli": "FBROKER",
-            "message": "184699 - phone number confirmation code"
+            "message": "214333 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 13:46:14",
-            "number": "79228738294",
+            "datetime": "2026-09-02 13:57:17",
+            "number": "79994956564",
             "cli": "FBROKER",
-            "message": "758060 - phone number confirmation code"
+            "message": "785969 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 13:46:08",
-            "number": "79629113299",
+            "datetime": "2026-09-02 13:57:12",
+            "number": "79655773040",
             "cli": "FBROKER",
-            "message": "434893 - phone number confirmation code"
+            "message": "862053 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 13:46:08",
-            "number": "79014134369",
+            "datetime": "2026-09-02 13:57:11",
+            "number": "79040662712",
             "cli": "FBROKER",
-            "message": "622279 - phone number confirmation code"
+            "message": "637438 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 13:46:01",
-            "number": "79254620348",
-            "cli": "FBROKER",
-            "message": "952391 - phone number confirmation code"
+            "datetime": "2026-09-02 13:57:01",
+            "number": "79992072615",
+            "cli": "Tfos",
+            "message": "Ð²ÐµÑÑÐ¸ÑÑ:\\n\\nÐÐºÐºÐ°ÑÐ½Ñ: 1468442\\nÐÐ¾ÑÑÑÐµÐ½Ð¸Ðµ: 2694759\\nÐÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ: 44"
         },
         {
-            "datetime": "2026-09-02 13:45:59",
-            "number": "79389050765",
-            "cli": "FBROKER",
-            "message": "880986 - phone number confirmation code"
+            "datetime": "2026-09-02 13:57:01",
+            "number": "79992072615",
+            "cli": "Tfos",
+            "message": "4646\\n\\nÐÑÐ¸ÐºÐ°Ð·: Buy\\nÐ¢Ð¸Ð¿: Market\\nÐ¢Ð¸ÐºÐµÑ:  SPXW^G927650\\nÐÐ¾Ð»Ð¸ÑÐµÑÑÐ²Ð¾: 5\\nÐÐ»"
         },
         {
-            "datetime": "2026-09-02 13:45:58",
-            "number": "79107953574",
-            "cli": "FBROKER",
-            "message": "260634 - phone number confirmation code"
+            "datetime": "2026-09-02 13:57:01",
+            "number": "79992072615",
+            "cli": "Tfos",
+            "message": "Ð¯ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´Ð°Ñ, ÑÑÐ¾ Ð¿Ð¾Ð»Ð½Ð¾ÑÑÑÑ Ð¾ÑÐ¾Ð·Ð½Ð°Ñ ÑÑÑÑ ÑÐ´ÐµÐ»ÐºÐ¸ Ð¸ Ð½Ð°Ð¼ÐµÑÐµÐ½(Ð°) ÐµÐµ ÑÐ¾"
         },
         {
-            "datetime": "2026-09-02 13:45:57",
-            "number": "79056006182",
-            "cli": "FBROKER",
-            "message": "372853 - phone number confirmation code"
+            "datetime": "2026-09-02 13:57:01",
+            "number": "79992072615",
+            "cli": "Tfos",
+            "message": "Ð¸ÑÐµÐ»ÑÐ½Ð¾ÑÑÑ: GTC\\n\\n"
         },
         {
-            "datetime": "2026-09-02 13:45:57",
-            "number": "79014516970",
+            "datetime": "2026-09-02 13:56:52",
+            "number": "79278581565",
             "cli": "FBROKER",
-            "message": "995686 - phone number confirmation code"
+            "message": "223489 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 13:45:42",
-            "number": "79235038142",
+            "datetime": "2026-09-02 13:56:51",
+            "number": "79040659605",
             "cli": "FBROKER",
-            "message": "177788 - phone number confirmation code"
+            "message": "722730 - phone number confirmation code"
         }
     ]
 }
