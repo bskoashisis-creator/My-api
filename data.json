@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-02 00:34:58",
-            "number": "79237142512",
+            "datetime": "2026-09-02 00:50:53",
+            "number": "79112946230",
             "cli": "FREEDOM",
-            "message": "433356625985 - phone number confirmation code"
+            "message": "612312773842 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 00:34:56",
-            "number": "79042132409",
+            "datetime": "2026-09-02 00:50:48",
+            "number": "79036847619",
             "cli": "FREEDOM",
-            "message": "398651984063 - phone number confirmation code"
+            "message": "450955710937 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 00:34:55",
-            "number": "79651959545",
+            "datetime": "2026-09-02 00:50:47",
+            "number": "79089072187",
+            "cli": "FREEDOM_ARM",
+            "message": "818452 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-02 00:50:44",
+            "number": "79194691275",
             "cli": "FREEDOM",
-            "message": "909387853886 - phone number confirmation code"
+            "message": "921373999754 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 00:34:52",
-            "number": "79283148321",
-            "cli": "FBROKER",
-            "message": "094345 - phone number confirmation code"
+            "datetime": "2026-09-02 00:50:43",
+            "number": "639915686695",
+            "cli": "MariBank",
+            "message": "NEVER SHARE YOUR OTP. Your OTP to access your MariBank account on your iPhone 15 is 780365. Not you? Please call (+632) 8424 8050."
         },
         {
-            "datetime": "2026-09-02 00:34:51",
-            "number": "79224207757",
+            "datetime": "2026-09-02 00:50:38",
+            "number": "79536793403",
             "cli": "FREEDOM",
-            "message": "867136923515 - phone number confirmation code"
+            "message": "179705557738 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 00:34:51",
-            "number": "79687915404",
+            "datetime": "2026-09-02 00:50:38",
+            "number": "79255315601",
             "cli": "FBROKER",
-            "message": "711032 - phone number confirmation code"
+            "message": "032239 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 00:34:49",
-            "number": "79213093911",
-            "cli": "FBROKER",
-            "message": "781176 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-02 00:34:47",
-            "number": "79304371087",
+            "datetime": "2026-09-02 00:50:37",
+            "number": "79955590057",
             "cli": "FREEDOM",
-            "message": "707929706758 - phone number confirmation code"
+            "message": "526630605683 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 00:34:45",
-            "number": "79218274862",
-            "cli": "FBROKER",
-            "message": "941989 - phone number confirmation code"
+            "datetime": "2026-09-02 00:50:36",
+            "number": "79209121567",
+            "cli": "FREEDOM",
+            "message": "680501807417 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 00:34:38",
-            "number": "79271155611",
-            "cli": "FBROKER",
-            "message": "717302 - phone number confirmation code"
+            "datetime": "2026-09-02 00:50:34",
+            "number": "79126898063",
+            "cli": "FREEDOM",
+            "message": "496583957454 - phone number confirmation code"
         }
     ]
 }
