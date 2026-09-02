@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-02 02:21:24",
-            "number": "79245403018",
+            "datetime": "2026-09-02 02:44:14",
+            "number": "79835964840",
+            "cli": "FREEDOM_ARM",
+            "message": "709324 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-02 02:44:11",
+            "number": "79035153903",
             "cli": "FBROKER",
-            "message": "299965 - phone number confirmation code"
+            "message": "095100 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 02:21:22",
-            "number": "79154443222",
+            "datetime": "2026-09-02 02:44:10",
+            "number": "79867080304",
             "cli": "FREEDOM",
-            "message": "693948372290 - phone number confirmation code"
+            "message": "562353440381 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 02:21:19",
-            "number": "79632470707",
+            "datetime": "2026-09-02 02:44:10",
+            "number": "79191077774",
             "cli": "FREEDOM",
-            "message": "898570606999 - phone number confirmation code"
+            "message": "902392311245 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 02:21:16",
-            "number": "79099369795",
+            "datetime": "2026-09-02 02:44:07",
+            "number": "79151685584",
+            "cli": "FREEDOM",
+            "message": "321243576739 - ÑÐµÐ»ÐµÑÐ¾Ð½ Ð½Ó©Ð¼ÑÑÑÐ½ ÑÐµÐºÑÐµÑÑÐ³Ðµ Ð°ÑÐ½Ð°Ð»ÒÐ°Ð½ ÐºÐ¾Ð´"
+        },
+        {
+            "datetime": "2026-09-02 02:44:02",
+            "number": "79200485850",
+            "cli": "FREEDOM",
+            "message": "488401949897 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-02 02:43:59",
+            "number": "79226412475",
             "cli": "FBROKER",
-            "message": "222960 - phone number confirmation code"
+            "message": "112797 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 02:21:12",
-            "number": "79209646533",
+            "datetime": "2026-09-02 02:43:52",
+            "number": "79006282608",
             "cli": "FREEDOM",
-            "message": "636790806905 - phone number confirmation code"
+            "message": "631035972866 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 02:21:11",
-            "number": "79252011218",
-            "cli": "FBROKER",
-            "message": "338761 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-02 02:21:09",
-            "number": "79293557714",
+            "datetime": "2026-09-02 02:43:46",
+            "number": "79172286898",
             "cli": "FREEDOM",
-            "message": "382135611101 - phone number confirmation code"
+            "message": "801262669020 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 02:21:01",
-            "number": "79245403018",
-            "cli": "FBROKER",
-            "message": "209000 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-02 02:20:59",
-            "number": "79283591252",
+            "datetime": "2026-09-02 02:43:45",
+            "number": "79867080304",
             "cli": "FREEDOM",
-            "message": "231949431364 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-02 02:20:57",
-            "number": "79212258003",
-            "cli": "FREEDOM",
-            "message": "403428720417 - phone number confirmation code"
+            "message": "423964861451 - phone number confirmation code"
         }
     ]
 }
