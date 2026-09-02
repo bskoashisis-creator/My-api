@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-02 07:19:23",
-            "number": "79040273854",
-            "cli": "SolarStaff",
-            "message": "ÐÐ°Ñ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ: 145202"
-        },
-        {
-            "datetime": "2026-09-02 07:19:21",
-            "number": "79290498801",
+            "datetime": "2026-09-02 07:33:33",
+            "number": "79373448820",
             "cli": "FREEDOM",
-            "message": "510589660271 - phone number confirmation code"
+            "message": "631357942923 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 07:19:15",
-            "number": "79082883814",
+            "datetime": "2026-09-02 07:33:32",
+            "number": "79216425726",
+            "cli": "FREEDOM",
+            "message": "371257221773 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-02 07:33:29",
+            "number": "79041666688",
+            "cli": "FR.TRAVEL",
+            "message": "ÐÐ°Ñ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ: 9075. ÐÐÐÐÐÐ£ ÐÐ Ð¡ÐÐÐÐ©ÐÐÐ¢Ð ÐÐÐ!"
+        },
+        {
+            "datetime": "2026-09-02 07:33:28",
+            "number": "79237771077",
+            "cli": "FREEDOM",
+            "message": "154436463214 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-02 07:33:28",
+            "number": "79955066676",
+            "cli": "FREEDOM",
+            "message": "679992720032 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-02 07:33:28",
+            "number": "79227552022",
             "cli": "FBROKER",
-            "message": "329233 - phone number confirmation code"
+            "message": "306522 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 07:19:14",
-            "number": "79374785838",
-            "cli": "FBROKER",
-            "message": "907424 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-02 07:19:14",
-            "number": "79315879527",
-            "cli": "FBROKER",
-            "message": "712833 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-02 07:19:14",
-            "number": "79242047350",
+            "datetime": "2026-09-02 07:33:25",
+            "number": "79869046522",
             "cli": "FREEDOM",
-            "message": "469020296351 - phone number confirmation code"
+            "message": "535118663907 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 07:19:12",
-            "number": "79044429042",
-            "cli": "AUTHMSG",
-            "message": "TFOS: 385866 - phone number confirmation code"
+            "datetime": "2026-09-02 07:33:21",
+            "number": "79869556024",
+            "cli": "Steam",
+            "message": "Steam: Support has removed this number from the account lolkil223. Contact us if you didn\\&#039;t request this."
         },
         {
-            "datetime": "2026-09-02 07:19:10",
-            "number": "79159471989",
-            "cli": "ANTARCTIC",
-            "message": "243675"
-        },
-        {
-            "datetime": "2026-09-02 07:19:07",
-            "number": "79231696203",
+            "datetime": "2026-09-02 07:33:20",
+            "number": "79281084718",
             "cli": "FREEDOM",
-            "message": "648437284021 - phone number confirmation code"
+            "message": "153994973704 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 07:19:05",
-            "number": "79212880878",
+            "datetime": "2026-09-02 07:33:19",
+            "number": "79381517986",
             "cli": "FREEDOM",
-            "message": "956145962615 - phone number confirmation code"
+            "message": "802826936280 - phone number confirmation code"
         }
     ]
 }
