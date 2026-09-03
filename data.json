@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-03 11:51:32",
-            "number": "420792047725",
+            "datetime": "2026-09-03 12:06:02",
+            "number": "79150627026",
+            "cli": "Microsoft",
+            "message": "Use verification code 067915 for Microsoft authentication."
+        },
+        {
+            "datetime": "2026-09-03 12:05:56",
+            "number": "77086887437",
+            "cli": "FREEDOM",
+            "message": "795216 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-03 12:05:48",
+            "number": "79639678376",
+            "cli": "WiFi_MTS",
+            "message": "ÐÐ°Ñ ÐºÐ¾Ð´ 5989"
+        },
+        {
+            "datetime": "2026-09-03 12:05:40",
+            "number": "33762944480",
             "cli": "Huawei",
-            "message": "190914 - Huawei verification code."
+            "message": "877828 - Huawei verification code."
         },
         {
-            "datetime": "2026-09-03 11:51:05",
-            "number": "33672557104",
-            "cli": "Amex",
-            "message": "Votre prÃ©lÃ¨vement automatique est en cours. Merci de vous assurer que les fonds nÃ©cessaires sont disponibles."
+            "datetime": "2026-09-03 12:05:31",
+            "number": "79060743713",
+            "cli": "Facebook",
+            "message": "ÑÐ¾Ð¾Ð±ÑÐ°Ð¶ÐµÐ½Ð¸Ð¹ Ð±ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾ÑÑÐ¸."
         },
         {
-            "datetime": "2026-09-03 11:50:55",
-            "number": "59161978001",
-            "cli": "PAYPAL",
-            "message": "w.paypal.com #001843"
+            "datetime": "2026-09-03 12:05:31",
+            "number": "79060743713",
+            "cli": "Facebook",
+            "message": "501342- ÑÑÐ¾ Ð²Ð°Ñ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ. ÐÐµ ÑÐ¾Ð¾Ð±ÑÐ°Ð¹ÑÐµ ÐµÐ³Ð¾ Ð½Ð¸ÐºÐ¾Ð¼Ñ Ð¸Ð·"
         },
         {
-            "datetime": "2026-09-03 11:50:54",
-            "number": "79250640904",
-            "cli": "Google",
-            "message": "G-111111 is your Google verification code."
+            "datetime": "2026-09-03 12:05:10",
+            "number": "77471639770",
+            "cli": "FREEDOM",
+            "message": "827560 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-03 11:50:50",
-            "number": "59161978001",
-            "cli": "PAYPAL",
-            "message": "w.paypal.com #406694"
+            "datetime": "2026-09-03 12:05:09",
+            "number": "77007944106",
+            "cli": "FREEDOM",
+            "message": "870742 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-03 11:50:50",
-            "number": "59161978001",
-            "cli": "PAYPAL",
-            "message": "PayPal: cÃ³d. de seguridad 406694. Vence en 10 min. No responda. @ww"
+            "datetime": "2026-09-03 12:04:44",
+            "number": "77007944106",
+            "cli": "FREEDOM",
+            "message": "652390 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-03 11:50:06",
-            "number": "79221007778",
-            "cli": "FBROKER",
-            "message": "330636 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-03 11:50:05",
-            "number": "59170191494",
-            "cli": "Yango",
-            "message": "Your confirmation code: 816090."
-        },
-        {
-            "datetime": "2026-09-03 11:50:04",
-            "number": "79106792678",
-            "cli": "FBROKER",
-            "message": "989033 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-03 11:50:00",
-            "number": "79235624012",
-            "cli": "FBROKER",
-            "message": "336479 - phone number confirmation code"
+            "datetime": "2026-09-03 12:04:44",
+            "number": "77471639770",
+            "cli": "FREEDOM",
+            "message": "938191 - phone number confirmation code"
         }
     ]
 }
