@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-03 12:06:02",
-            "number": "79150627026",
-            "cli": "Microsoft",
-            "message": "Use verification code 067915 for Microsoft authentication."
-        },
-        {
-            "datetime": "2026-09-03 12:05:56",
-            "number": "77086887437",
+            "datetime": "2026-09-03 12:29:33",
+            "number": "77479872580",
             "cli": "FREEDOM",
-            "message": "795216 - phone number confirmation code"
+            "message": "954100 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-03 12:05:48",
-            "number": "79639678376",
-            "cli": "WiFi_MTS",
-            "message": "ÐÐ°Ñ ÐºÐ¾Ð´ 5989"
+            "datetime": "2026-09-03 12:28:44",
+            "number": "77004104110",
+            "cli": "FREEDOM",
+            "message": "525672 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-03 12:05:40",
-            "number": "33762944480",
+            "datetime": "2026-09-03 12:28:42",
+            "number": "77002446036",
+            "cli": "FREEDOM",
+            "message": "945836 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-03 12:28:16",
+            "number": "77004104110",
+            "cli": "FREEDOM",
+            "message": "123013 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-03 12:27:51",
+            "number": "77004104110",
+            "cli": "FREEDOM",
+            "message": "344446 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-03 12:27:35",
+            "number": "33650865854",
             "cli": "Huawei",
-            "message": "877828 - Huawei verification code."
+            "message": "009268 - Huawei verification code."
         },
         {
-            "datetime": "2026-09-03 12:05:31",
-            "number": "79060743713",
-            "cli": "Facebook",
-            "message": "ÑÐ¾Ð¾Ð±ÑÐ°Ð¶ÐµÐ½Ð¸Ð¹ Ð±ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾ÑÑÐ¸."
+            "datetime": "2026-09-03 12:27:34",
+            "number": "79308416802",
+            "cli": "Huawei",
+            "message": "863729 - Huawei verification code to register HUAWEI ID."
         },
         {
-            "datetime": "2026-09-03 12:05:31",
-            "number": "79060743713",
-            "cli": "Facebook",
-            "message": "501342- ÑÑÐ¾ Ð²Ð°Ñ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ. ÐÐµ ÑÐ¾Ð¾Ð±ÑÐ°Ð¹ÑÐµ ÐµÐ³Ð¾ Ð½Ð¸ÐºÐ¾Ð¼Ñ Ð¸Ð·"
+            "datetime": "2026-09-03 12:27:26",
+            "number": "79308416802",
+            "cli": "Huawei",
+            "message": "863729 - Huawei verification code to register HUAWEI ID."
         },
         {
-            "datetime": "2026-09-03 12:05:10",
-            "number": "77471639770",
+            "datetime": "2026-09-03 12:27:26",
+            "number": "77002446036",
             "cli": "FREEDOM",
-            "message": "827560 - phone number confirmation code"
+            "message": "907788 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-03 12:05:09",
-            "number": "77007944106",
+            "datetime": "2026-09-03 12:27:18",
+            "number": "77475918329",
             "cli": "FREEDOM",
-            "message": "870742 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-03 12:04:44",
-            "number": "77007944106",
-            "cli": "FREEDOM",
-            "message": "652390 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-03 12:04:44",
-            "number": "77471639770",
-            "cli": "FREEDOM",
-            "message": "938191 - phone number confirmation code"
+            "message": "989124 - phone number confirmation code"
         }
     ]
 }
