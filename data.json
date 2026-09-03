@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-02 23:44:52",
-            "number": "79118373710",
-            "cli": "Apple",
-            "message": "REG-RESP?v=5;r=817540752;n=+79118373710;s=026A98B4EFFFFFFFFF8935D32B8648BF6D126DBB869F0193567B32A318"
+            "datetime": "2026-09-03 00:05:52",
+            "number": "79011760373",
+            "cli": "FREEDOM",
+            "message": "732763919551 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 23:32:48",
-            "number": "593969507308",
-            "cli": "WhatsApp",
-            "message": "&lt;#&gt; Codigo de WhatsApp: 810-134\\nNo compartas este codigo con nadie.\\n4sgLq1p5sV6"
+            "datetime": "2026-09-03 00:05:50",
+            "number": "79226293437",
+            "cli": "FBROKER",
+            "message": "167489 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 23:28:26",
-            "number": "79086643402",
-            "cli": "AliExpRus",
-            "message": "ÐÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ: 953151. ÐÐ¾Ð´ Ð´ÐµÐ¹ÑÑÐ²ÑÐµÑ: 10 Ð¼Ð¸Ð½ÑÑ."
+            "datetime": "2026-09-03 00:05:50",
+            "number": "79226293437",
+            "cli": "FBROKER",
+            "message": "891806 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 23:18:52",
-            "number": "79139799845",
-            "cli": "freedomtel",
-            "message": "Freedom Telecom. 3244 - Ð²Ð°Ñ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ"
+            "datetime": "2026-09-03 00:05:47",
+            "number": "79035208355",
+            "cli": "FBROKER",
+            "message": "543882 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 23:00:50",
-            "number": "79535297498",
-            "cli": "Google",
-            "message": "G-111111 is your Google verification code."
+            "datetime": "2026-09-03 00:05:30",
+            "number": "79011760373",
+            "cli": "FREEDOM",
+            "message": "259042504814 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 23:00:41",
-            "number": "639542683532",
-            "cli": "Intermedia",
-            "message": "0336045 is your service code. This code expires in 5 minutes. Please do not reply to this message."
+            "datetime": "2026-09-03 00:05:23",
+            "number": "79224753900",
+            "cli": "FREEDOM",
+            "message": "368661476415 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 22:59:37",
-            "number": "639542683532",
-            "cli": "Intermedia",
-            "message": "3550586 is your service code. This code expires in 5 minutes. Please do not reply to this message."
+            "datetime": "2026-09-03 00:05:18",
+            "number": "79261718328",
+            "cli": "FREEDOM",
+            "message": "665491175599 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 22:56:38",
-            "number": "79852999990",
-            "cli": "Apple",
-            "message": "ÐÐ¾Ð´ ÐÐºÐºÐ°ÑÐ½ÑÐ° Apple: 624490. ÐÐµ Ð´ÐµÐ»Ð¸ÑÐµÑÑ Ð¸Ð¼."
+            "datetime": "2026-09-03 00:05:16",
+            "number": "79226293437",
+            "cli": "FBROKER",
+            "message": "060284 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 22:55:37",
-            "number": "79217177508",
-            "cli": "Ding",
-            "message": "886071 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
+            "datetime": "2026-09-03 00:05:09",
+            "number": "79011760373",
+            "cli": "FREEDOM",
+            "message": "417201325432 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-02 22:55:30",
-            "number": "79212339232",
-            "cli": "Ding",
-            "message": "866009 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
+            "datetime": "2026-09-03 00:04:57",
+            "number": "79226198924",
+            "cli": "FBROKER",
+            "message": "174244 - phone number confirmation code"
         }
     ]
 }
