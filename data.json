@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-03 13:49:09",
-            "number": "77077518309",
+            "datetime": "2026-09-03 14:00:59",
+            "number": "77075202576",
             "cli": "FREEDOM",
-            "message": "115244 - phone number confirmation code"
+            "message": "664051 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-03 13:47:43",
-            "number": "79210312437",
-            "cli": "TWLOVERIFY",
-            "message": "Your Replit verification code is: 768170. This code will expire in 10 minutes."
+            "datetime": "2026-09-03 14:00:52",
+            "number": "79206635115",
+            "cli": "Ding",
+            "message": "088632 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Cursor. ÐÐµ Ð¿ÐµÑÐµÐ´Ð°Ð²Ð°Ð¹ÑÐµ ÐµÐ³Ð¾ Ð½Ð¸ÐºÐ¾Ð¼Ñ."
         },
         {
-            "datetime": "2026-09-03 13:47:05",
-            "number": "77473287181",
+            "datetime": "2026-09-03 14:00:40",
+            "number": "77470688387",
             "cli": "FREEDOM",
-            "message": "258757 - phone number confirmation code"
+            "message": "211319 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-03 13:46:46",
-            "number": "77472933038",
+            "datetime": "2026-09-03 14:00:38",
+            "number": "77082828139",
             "cli": "FREEDOM",
-            "message": "819966 - phone number confirmation code"
+            "message": "672078 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-03 13:46:15",
-            "number": "77781003011",
+            "datetime": "2026-09-03 14:00:21",
+            "number": "77073259566",
             "cli": "FREEDOM",
-            "message": "444154 - phone number confirmation code"
+            "message": "704156 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-03 13:45:46",
-            "number": "77781003011",
+            "datetime": "2026-09-03 14:00:16",
+            "number": "77470688387",
             "cli": "FREEDOM",
-            "message": "201249 - phone number confirmation code"
+            "message": "352716 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-03 13:45:33",
-            "number": "59170191494",
-            "cli": "Yango",
-            "message": "Your confirmation code: 610223."
-        },
-        {
-            "datetime": "2026-09-03 13:45:23",
-            "number": "77781003011",
+            "datetime": "2026-09-03 14:00:13",
+            "number": "77082828139",
             "cli": "FREEDOM",
-            "message": "513741 - phone number confirmation code"
+            "message": "844158 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-03 13:44:29",
-            "number": "79282521970",
-            "cli": "Huawei",
-            "message": "922297: ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Huawei."
-        },
-        {
-            "datetime": "2026-09-03 13:44:20",
-            "number": "77074218389",
+            "datetime": "2026-09-03 14:00:05",
+            "number": "77479752005",
             "cli": "FREEDOM",
-            "message": "863460 - phone number confirmation code"
+            "message": "659275 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-03 13:59:55",
+            "number": "22226002496",
+            "cli": "Apple",
+            "message": "Your Apple Account Code is: 085820. Don\\&#039;t share it with anyone."
+        },
+        {
+            "datetime": "2026-09-03 13:59:51",
+            "number": "77470688387",
+            "cli": "FREEDOM",
+            "message": "223898 - phone number confirmation code"
         }
     ]
 }
