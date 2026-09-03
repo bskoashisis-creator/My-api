@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-03 12:48:45",
-            "number": "77473479514",
+            "datetime": "2026-09-03 13:00:21",
+            "number": "77478212699",
             "cli": "FREEDOM",
-            "message": "125600 - phone number confirmation code"
+            "message": "574748 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-03 12:48:16",
-            "number": "59160303988",
-            "cli": "19842058546",
-            "message": "Verification code: 279404"
-        },
-        {
-            "datetime": "2026-09-03 12:48:10",
-            "number": "77479103061",
-            "cli": "FREEDOM",
-            "message": "951527 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-03 12:47:38",
-            "number": "79260914420",
-            "cli": "WhatsApp",
-            "message": "ÐÐ¾Ð´ WhatsApp: 538-725\\nÐÐ¸ Ñ ÐºÐµÐ¼ Ð½Ðµ Ð´ÐµÐ»Ð¸ÑÐµÑÑ ÐºÐ¾Ð´Ð¾Ð¼"
-        },
-        {
-            "datetime": "2026-09-03 12:47:21",
-            "number": "77479103061",
-            "cli": "FREEDOM",
-            "message": "328808 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-03 12:46:58",
-            "number": "77476146009",
-            "cli": "FREEDOM",
-            "message": "678371 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-03 12:46:39",
-            "number": "77476146009",
-            "cli": "FREEDOM",
-            "message": "266329 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-03 12:46:26",
-            "number": "59161409142",
-            "cli": "19842058546",
-            "message": "Verification code: 863745"
-        },
-        {
-            "datetime": "2026-09-03 12:46:02",
-            "number": "77077942224",
-            "cli": "FREEDOM",
-            "message": "436979 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-03 12:45:59",
-            "number": "79996050261",
+            "datetime": "2026-09-03 13:00:10",
+            "number": "79605886460",
             "cli": "Huawei",
-            "message": "363360 - Huawei verification code."
+            "message": "033688 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
+        },
+        {
+            "datetime": "2026-09-03 13:00:04",
+            "number": "77081065481",
+            "cli": "FREEDOM",
+            "message": "324864 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-03 12:59:40",
+            "number": "77086264590",
+            "cli": "FREEDOM",
+            "message": "573741 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-03 12:59:26",
+            "number": "38349172619",
+            "cli": "Notify",
+            "message": "Do not share your confirmation code with anyone: 228484"
+        },
+        {
+            "datetime": "2026-09-03 12:59:19",
+            "number": "77086264590",
+            "cli": "FREEDOM",
+            "message": "750521 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-03 12:59:18",
+            "number": "77081065481",
+            "cli": "FREEDOM",
+            "message": "172803 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-03 12:59:08",
+            "number": "77074107897",
+            "cli": "FREEDOM",
+            "message": "516186 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-03 12:58:59",
+            "number": "77024444665",
+            "cli": "FREEDOM",
+            "message": "636072 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-03 12:58:58",
+            "number": "77006760195",
+            "cli": "FREEDOM",
+            "message": "881382 - phone number confirmation code"
         }
     ]
 }
