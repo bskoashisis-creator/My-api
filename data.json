@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-04 19:04:24",
-            "number": "79955686074",
-            "cli": "Activision",
-            "message": "890971 is your verification code for your Activision account."
-        },
-        {
-            "datetime": "2026-09-04 19:04:09",
-            "number": "77478207343",
+            "datetime": "2026-09-04 19:17:38",
+            "number": "77476710083",
             "cli": "FREEDOM",
-            "message": "923985 - phone number confirmation code"
+            "message": "909467 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-04 19:04:07",
-            "number": "77474031724",
+            "datetime": "2026-09-04 19:17:31",
+            "number": "77071987625",
             "cli": "FREEDOM",
-            "message": "822734 - phone number confirmation code"
+            "message": "686509 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-04 19:04:07",
-            "number": "79195433344",
-            "cli": "AUTHMSG",
-            "message": "TFOS: 252101 - phone number confirmation code"
+            "datetime": "2026-09-04 19:17:03",
+            "number": "77476710083",
+            "cli": "FREEDOM",
+            "message": "644081 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-04 19:03:40",
-            "number": "79212258003",
+            "datetime": "2026-09-04 19:16:51",
+            "number": "77071987625",
+            "cli": "FREEDOM",
+            "message": "813201 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-04 19:15:52",
+            "number": "79822268175",
             "cli": "Huawei",
-            "message": "142974 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
+            "message": "445057 - Cï¿½digo de verificaï¿½ï¿½o da Huawei para redefinir a senha."
         },
         {
-            "datetime": "2026-09-04 19:03:40",
-            "number": "77478207343",
-            "cli": "FREEDOM",
-            "message": "447001 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-04 19:03:39",
-            "number": "79969778142",
-            "cli": "AUTHMSG",
-            "message": "TFOS: 449136 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-04 19:03:28",
-            "number": "79212258003",
+            "datetime": "2026-09-04 19:15:22",
+            "number": "79822268175",
             "cli": "Huawei",
-            "message": "142974 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
+            "message": "445057 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
         },
         {
-            "datetime": "2026-09-04 19:03:15",
-            "number": "59170742497",
-            "cli": "PAYPAL",
-            "message": "PayPal: cÃ³d. de seguridad 417137. Vence en 10 min. No responda. @ww"
+            "datetime": "2026-09-04 19:13:59",
+            "number": "77084840769",
+            "cli": "FREEDOM",
+            "message": "426379 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-04 19:03:15",
-            "number": "59170742497",
-            "cli": "PAYPAL",
-            "message": "w.paypal.com #417137"
+            "datetime": "2026-09-04 19:13:56",
+            "number": "77478479432",
+            "cli": "FREEDOM",
+            "message": "546660 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-04 19:13:30",
+            "number": "77478479432",
+            "cli": "FREEDOM",
+            "message": "861202 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-04 19:13:02",
+            "number": "79263284805",
+            "cli": "Huawei",
+            "message": "928763 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
         }
     ]
 }
