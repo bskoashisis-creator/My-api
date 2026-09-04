@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-04 12:34:17",
-            "number": "77475360343",
+            "datetime": "2026-09-04 12:51:28",
+            "number": "77479388431",
             "cli": "FREEDOM",
-            "message": "343195 - phone number confirmation code"
+            "message": "209698 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-04 12:33:55",
-            "number": "77475360343",
+            "datetime": "2026-09-04 12:50:57",
+            "number": "79297448201",
+            "cli": "Huawei",
+            "message": "253935 - Huawei verification code."
+        },
+        {
+            "datetime": "2026-09-04 12:50:47",
+            "number": "77075899738",
             "cli": "FREEDOM",
-            "message": "500960 - phone number confirmation code"
+            "message": "540831 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-04 12:33:40",
-            "number": "79118419420",
-            "cli": "Unibank",
-            "message": "652089APPROVED PURCHASE DB SALE: HOFER DANKT, WIEN       W,04.09.26 16:33,card ***929073. Amount:9.80 EUR, Balance:6472.82 EUR"
+            "datetime": "2026-09-04 12:50:37",
+            "number": "79212615646",
+            "cli": "Huawei",
+            "message": "533959 - Huawei verification code."
         },
         {
-            "datetime": "2026-09-04 12:33:31",
-            "number": "77475360343",
+            "datetime": "2026-09-04 12:49:46",
+            "number": "79088754261",
+            "cli": "AliExpRus",
+            "message": "ÐÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ: 253857. ÐÐ¾Ð´ Ð´ÐµÐ¹ÑÑÐ²ÑÐµÑ: 10 Ð¼Ð¸Ð½ÑÑ."
+        },
+        {
+            "datetime": "2026-09-04 12:49:46",
+            "number": "77075899738",
             "cli": "FREEDOM",
-            "message": "277303 - phone number confirmation code"
+            "message": "848800 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-04 12:33:11",
-            "number": "77475360343",
+            "datetime": "2026-09-04 12:49:20",
+            "number": "79258170933",
+            "cli": "FreedomBGM",
+            "message": "124558 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-04 12:49:19",
+            "number": "79307522322",
+            "cli": "Apple",
+            "message": "Your Apple Account Code is: 460731. Don\\&#039;t share it with anyone."
+        },
+        {
+            "datetime": "2026-09-04 12:48:18",
+            "number": "77075899738",
             "cli": "FREEDOM",
-            "message": "759478 - phone number confirmation code"
+            "message": "684577 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-04 12:31:41",
-            "number": "77478534323",
+            "datetime": "2026-09-04 12:47:25",
+            "number": "77075899738",
             "cli": "FREEDOM",
-            "message": "551579 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-04 12:31:25",
-            "number": "79118419420",
-            "cli": "Unibank",
-            "message": "953046APPROVED PURCHASE DB SALE: Lidl dakuje 265, BRATISLAVA,04.09.26 16:31,card ***376130. Amount:2.39 EUR, Balance:6482.62 EUR"
-        },
-        {
-            "datetime": "2026-09-04 12:31:17",
-            "number": "77478534323",
-            "cli": "FREEDOM",
-            "message": "883990 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-04 12:30:54",
-            "number": "77478534323",
-            "cli": "FREEDOM",
-            "message": "662877 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-04 12:30:02",
-            "number": "77478534323",
-            "cli": "FREEDOM",
-            "message": "682809 - phone number confirmation code"
+            "message": "285931 - phone number confirmation code"
         }
     ]
 }
