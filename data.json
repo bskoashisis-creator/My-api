@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-04 14:50:08",
-            "number": "79333354223",
-            "cli": "OKTA",
-            "message": "e/auth/push/link/LkzreLqmU6kEr42gerU3/opfz39637vPQGgmzX417"
-        },
-        {
-            "datetime": "2026-09-04 14:50:08",
-            "number": "79333354223",
-            "cli": "OKTA",
-            "message": "Haga clic aquï¿½ para inscribirse en Okta Verify : https://sso.rbfa.b"
-        },
-        {
-            "datetime": "2026-09-04 14:50:00",
-            "number": "77009845327",
+            "datetime": "2026-09-04 15:01:21",
+            "number": "77002906279",
             "cli": "FREEDOM",
-            "message": "840027 - phone number confirmation code"
+            "message": "708709 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-04 14:50:00",
-            "number": "79333354223",
-            "cli": "OKTA",
-            "message": "e/auth/push/link/LkzreLqmU6kEr42gerU3/opfz39637vPQGgmzX417"
-        },
-        {
-            "datetime": "2026-09-04 14:49:53",
-            "number": "79333354223",
-            "cli": "OKTA",
-            "message": "Haga clic aquÃ­ para inscribirse en Okta Verify : https://sso.rbfa.b"
-        },
-        {
-            "datetime": "2026-09-04 14:49:53",
-            "number": "79333354223",
-            "cli": "OKTA",
-            "message": "e/auth/push/link/LkzreLqmU6kEr42gerU3/opfz39637vPQGgmzX417"
-        },
-        {
-            "datetime": "2026-09-04 14:49:36",
-            "number": "77009845327",
+            "datetime": "2026-09-04 15:01:07",
+            "number": "77003052202",
             "cli": "FREEDOM",
-            "message": "824557 - phone number confirmation code"
+            "message": "419837 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-04 14:48:41",
-            "number": "33626145239",
+            "datetime": "2026-09-04 15:01:00",
+            "number": "79062318853",
             "cli": "Huawei",
-            "message": "660089 - Huawei verification code to register HUAWEI ID."
+            "message": "058296 - Huawei verification code."
         },
         {
-            "datetime": "2026-09-04 14:48:24",
-            "number": "77071707600",
+            "datetime": "2026-09-04 15:00:54",
+            "number": "79143332709",
+            "cli": "Huawei",
+            "message": "771410 - Huawei verification code."
+        },
+        {
+            "datetime": "2026-09-04 15:00:49",
+            "number": "77006567255",
             "cli": "FREEDOM",
-            "message": "685414 - phone number confirmation code"
+            "message": "540060 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-04 14:48:06",
-            "number": "59170173747",
-            "cli": "TrustCase",
-            "message": "Your TrustCase registration code is: WWNFSG"
+            "datetime": "2026-09-04 15:00:46",
+            "number": "79143332709",
+            "cli": "Huawei",
+            "message": "771410 - Huawei verification code."
+        },
+        {
+            "datetime": "2026-09-04 15:00:42",
+            "number": "79200003431",
+            "cli": "Huawei",
+            "message": "421697 - Huawei verification code."
+        },
+        {
+            "datetime": "2026-09-04 15:00:41",
+            "number": "79533255227",
+            "cli": "SAMSUNG",
+            "message": "&lt;#&gt; Account: 953555 is your Samsung account verification code.\\nbP2ROrn3fZQ"
+        },
+        {
+            "datetime": "2026-09-04 15:00:31",
+            "number": "77006760195",
+            "cli": "FREEDOM",
+            "message": "153208 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-04 15:00:28",
+            "number": "79377269540",
+            "cli": "Huawei",
+            "message": "820405 - Huawei verification code."
         }
     ]
 }
