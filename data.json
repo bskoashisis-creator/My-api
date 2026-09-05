@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-05 03:46:59",
-            "number": "79389969321",
-            "cli": "FBROKER",
-            "message": "149813 - phone number confirmation code"
+            "datetime": "2026-09-05 03:58:30",
+            "number": "79209950888",
+            "cli": "WhatsApp",
+            "message": "&lt;#&gt; Akun WhatsApp Anda sedang didaftarkan di perangkat baru\\n\\nJangan bagikan kode dengan siapa pun\\nKode WhatsApp Anda: 835-288\\n4sgLq1p5sV6"
         },
         {
-            "datetime": "2026-09-05 03:46:59",
-            "number": "79271777079",
-            "cli": "FBROKER",
-            "message": "685551 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-05 03:46:58",
-            "number": "79033333266",
-            "cli": "FBROKER",
-            "message": "771202 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-05 03:46:56",
-            "number": "79103626484",
-            "cli": "FBROKER",
-            "message": "507741 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-05 03:46:54",
-            "number": "79233259870",
-            "cli": "FBROKER",
-            "message": "760930 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-05 03:46:53",
-            "number": "79262863263",
-            "cli": "Ding",
-            "message": "047017 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
-        },
-        {
-            "datetime": "2026-09-05 03:46:51",
-            "number": "77085519130",
+            "datetime": "2026-09-05 03:58:27",
+            "number": "79044787500",
             "cli": "FREEDOM",
-            "message": "754441 - phone number confirmation code"
+            "message": "578189402093 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-05 03:46:51",
-            "number": "79505238917",
-            "cli": "FBROKER",
-            "message": "679557 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-05 03:46:44",
-            "number": "79292337693",
+            "datetime": "2026-09-05 03:58:26",
+            "number": "79297771079",
             "cli": "FREEDOM",
-            "message": "968917619549 - phone number confirmation code"
+            "message": "670659687447 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-05 03:46:42",
-            "number": "79262863263",
-            "cli": "Ding",
-            "message": "052016 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
+            "datetime": "2026-09-05 03:58:26",
+            "number": "79652511150",
+            "cli": "FBROKER",
+            "message": "213425 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-05 03:58:24",
+            "number": "79288336950",
+            "cli": "FBROKER",
+            "message": "766757 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-05 03:58:23",
+            "number": "79169703181",
+            "cli": "ALIPAY",
+            "message": "Sign-up verification code: 479341. Never tell the code to anyone!\\r\\n[Alipay]"
+        },
+        {
+            "datetime": "2026-09-05 03:58:18",
+            "number": "79248762019",
+            "cli": "FBROKER",
+            "message": "343623 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-05 03:58:17",
+            "number": "79134404770",
+            "cli": "FREEDOM",
+            "message": "740508136915 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-05 03:58:14",
+            "number": "79279046188",
+            "cli": "FBROKER",
+            "message": "559966 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-05 03:58:13",
+            "number": "79018309353",
+            "cli": "FBROKER",
+            "message": "631681 - phone number confirmation code"
         }
     ]
 }
