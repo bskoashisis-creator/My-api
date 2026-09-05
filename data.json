@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-05 18:43:31",
-            "number": "77007261727",
+            "datetime": "2026-09-05 18:55:16",
+            "number": "77005787300",
             "cli": "FREEDOM",
-            "message": "404196 - phone number confirmation code"
+            "message": "750410 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-05 18:43:26",
-            "number": "77027020867",
-            "cli": "MaryKay.ru",
-            "message": "5197 â ÐºÐ¾Ð´ Ð´Ð»Ñ Ð¿ÑÐ¾Ð´Ð¾Ð»Ð¶ÐµÐ½Ð¸Ñ ÑÐµÐ³Ð¸ÑÑÑÐ°ÑÐ¸Ð¸ Ð´Ð¾Ð³Ð¾Ð²Ð¾ÑÐ° Ñ Â«ÐÑÑÐ¸ ÐÑÐ¹Â»"
-        },
-        {
-            "datetime": "2026-09-05 18:43:04",
-            "number": "77007261727",
+            "datetime": "2026-09-05 18:54:55",
+            "number": "77005787300",
             "cli": "FREEDOM",
-            "message": "335262 - phone number confirmation code"
+            "message": "829859 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-05 18:42:05",
-            "number": "77005700435",
+            "datetime": "2026-09-05 18:54:25",
+            "number": "79293275535",
+            "cli": "OKTA",
+            "message": "Haga clic aquï¿½ para inscribirse en Okta Verify : https://sso.rbfa.b"
+        },
+        {
+            "datetime": "2026-09-05 18:54:25",
+            "number": "79293275535",
+            "cli": "OKTA",
+            "message": "e/auth/push/link/AFVWrEp0LiP9VzC5BFa4/opfz2zjyi3g1ePE8l417"
+        },
+        {
+            "datetime": "2026-09-05 18:54:11",
+            "number": "79293275535",
+            "cli": "OKTA",
+            "message": "e/auth/push/link/AFVWrEp0LiP9VzC5BFa4/opfz2zjyi3g1ePE8l417"
+        },
+        {
+            "datetime": "2026-09-05 18:53:58",
+            "number": "77473504155",
             "cli": "FREEDOM",
-            "message": "948729 - phone number confirmation code"
+            "message": "892411 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-05 18:41:43",
-            "number": "77005700435",
-            "cli": "FREEDOM",
-            "message": "153816 - phone number confirmation code"
+            "datetime": "2026-09-05 18:53:44",
+            "number": "79293275535",
+            "cli": "OKTA",
+            "message": "Haga clic aquÃ­ para inscribirse en Okta Verify : https://sso.rbfa.b"
         },
         {
-            "datetime": "2026-09-05 18:41:21",
-            "number": "77473778079",
-            "cli": "MaryKay.ru",
-            "message": "3604 â ÐºÐ¾Ð´ Ð´Ð»Ñ Ð¿ÑÐ¾Ð´Ð¾Ð»Ð¶ÐµÐ½Ð¸Ñ ÑÐµÐ³Ð¸ÑÑÑÐ°ÑÐ¸Ð¸ Ð´Ð¾Ð³Ð¾Ð²Ð¾ÑÐ° Ñ Â«ÐÑÑÐ¸ ÐÑÐ¹Â»"
+            "datetime": "2026-09-05 18:53:44",
+            "number": "79293275535",
+            "cli": "OKTA",
+            "message": "e/auth/push/link/AFVWrEp0LiP9VzC5BFa4/opfz2zjyi3g1ePE8l417"
         },
         {
-            "datetime": "2026-09-05 18:41:08",
-            "number": "77005700435",
-            "cli": "FREEDOM",
-            "message": "438778 - phone number confirmation code"
+            "datetime": "2026-09-05 18:52:34",
+            "number": "79293275535",
+            "cli": "OKTA",
+            "message": "e/auth/push/link/7b8d8nhp5DEy4J0vVd5Y/opfz5x8urlD7K0dUu417"
         },
         {
-            "datetime": "2026-09-05 18:40:43",
-            "number": "77005700435",
-            "cli": "FREEDOM",
-            "message": "932823 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-05 18:40:33",
-            "number": "79831032007",
-            "cli": "Google",
-            "message": "G-111111 is your Google verification code."
-        },
-        {
-            "datetime": "2026-09-05 18:40:21",
-            "number": "77005700435",
-            "cli": "FREEDOM",
-            "message": "615170 - phone number confirmation code"
+            "datetime": "2026-09-05 18:52:34",
+            "number": "79293275535",
+            "cli": "OKTA",
+            "message": "Haga clic aquï¿½ para inscribirse en Okta Verify : https://sso.rbfa.b"
         }
     ]
 }
