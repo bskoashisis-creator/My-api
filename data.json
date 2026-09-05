@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-05 15:45:41",
-            "number": "77071598383",
+            "datetime": "2026-09-05 15:56:50",
+            "number": "77078682500",
             "cli": "FREEDOM",
-            "message": "497019 - phone number confirmation code"
+            "message": "618824 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-05 15:45:35",
-            "number": "77071113706",
-            "cli": "SOKOLOV",
-            "message": "1515 - Ð²Ð°Ñ ÐºÐ¾Ð´ Ð´Ð»Ñ Ð²ÑÐ¾Ð´Ð° Ð½Ð° ÑÐ°Ð¹Ñ sokolov.ru"
-        },
-        {
-            "datetime": "2026-09-05 15:45:34",
-            "number": "79961300439",
-            "cli": "NOTICE",
-            "message": "ÐÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ List.am: 680993"
-        },
-        {
-            "datetime": "2026-09-05 15:45:32",
-            "number": "77079388523",
-            "cli": "FREEDOM",
-            "message": "846695 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-05 15:45:19",
-            "number": "77075670074",
-            "cli": "FREEDOM",
-            "message": "246098 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-05 15:44:56",
-            "number": "79235950690",
-            "cli": "TWLOVERIFY",
-            "message": "Your Monopoly GO verification code is: 006413"
-        },
-        {
-            "datetime": "2026-09-05 15:44:36",
-            "number": "79995296778",
+            "datetime": "2026-09-05 15:56:48",
+            "number": "79964179000",
             "cli": "WhatsApp",
-            "message": "ÐÐ¾Ð´ WhatsApp: 976-567\\nÐÐ¸ Ñ ÐºÐµÐ¼ Ð½Ðµ Ð´ÐµÐ»Ð¸ÑÐµÑÑ ÐºÐ¾Ð´Ð¾Ð¼"
+            "message": "&lt;#&gt; \\nÐÐµ Ð´ÐµÐ»Ð¸ÑÐµÑÑ ÑÐ²Ð¾Ð¸Ð¼ ÐºÐ¾Ð´Ð¾Ð¼ WhatsApp Ð½Ð¸ Ñ ÐºÐµÐ¼: 608-030\\n4sgLq1p5sV6"
         },
         {
-            "datetime": "2026-09-05 15:44:21",
-            "number": "79235950690",
-            "cli": "TWLOVERIFY",
-            "message": "Your Monopoly GO verification code is: 006413"
+            "datetime": "2026-09-05 15:56:42",
+            "number": "79272804502",
+            "cli": "Huawei",
+            "message": "322175 - Huawei verification code."
         },
         {
-            "datetime": "2026-09-05 15:43:48",
-            "number": "79235950690",
-            "cli": "TWLOVERIFY",
-            "message": "Your Monopoly GO verification code is: 006413"
+            "datetime": "2026-09-05 15:56:36",
+            "number": "79605886460",
+            "cli": "Huawei",
+            "message": "254024 - Huawei verification code."
         },
         {
-            "datetime": "2026-09-05 15:43:30",
-            "number": "59170441309",
-            "cli": "TrustCase",
-            "message": "Your TrustCase registration code is: BPRFSS"
+            "datetime": "2026-09-05 15:56:35",
+            "number": "77080301776",
+            "cli": "FREEDOM",
+            "message": "966911 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-05 15:56:18",
+            "number": "77000888066",
+            "cli": "FREEDOM",
+            "message": "212987 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-05 15:56:06",
+            "number": "77471928771",
+            "cli": "FREEDOM",
+            "message": "345221 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-05 15:55:52",
+            "number": "77476960156",
+            "cli": "FREEDOM",
+            "message": "388285 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-05 15:55:43",
+            "number": "79112146927",
+            "cli": "Apple",
+            "message": "ÐÐ¾Ð´ ÐÐºÐºÐ°ÑÐ½ÑÐ° Apple: 152155. ÐÐµ Ð´ÐµÐ»Ð¸ÑÐµÑÑ Ð¸Ð¼."
+        },
+        {
+            "datetime": "2026-09-05 15:54:45",
+            "number": "79513488710",
+            "cli": "Huawei",
+            "message": "708254 - Huawei verification code."
         }
     ]
 }
