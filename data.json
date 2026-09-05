@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-05 18:55:16",
-            "number": "77005787300",
+            "datetime": "2026-09-05 19:09:58",
+            "number": "79130694412",
+            "cli": "Steam",
+            "message": "Steam: Ð²Ð²ÐµÐ´Ð¸ÑÐµ ÐºÐ¾Ð´ Q3C7T, ÑÑÐ¾Ð±Ñ Ð¸Ð·Ð¼ÐµÐ½Ð¸ÑÑ Ð´Ð°Ð½Ð½ÑÐµ Ð´Ð»Ñ Ð²ÑÐ¾Ð´Ð° Ð² Ð°ÐºÐºÐ°ÑÐ½Ñ"
+        },
+        {
+            "datetime": "2026-09-05 19:09:50",
+            "number": "77005707656",
             "cli": "FREEDOM",
-            "message": "750410 - phone number confirmation code"
+            "message": "546764 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-05 18:54:55",
-            "number": "77005787300",
+            "datetime": "2026-09-05 19:09:27",
+            "number": "77005707656",
             "cli": "FREEDOM",
-            "message": "829859 - phone number confirmation code"
+            "message": "379652 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-05 18:54:25",
-            "number": "79293275535",
-            "cli": "OKTA",
-            "message": "Haga clic aquï¿½ para inscribirse en Okta Verify : https://sso.rbfa.b"
-        },
-        {
-            "datetime": "2026-09-05 18:54:25",
-            "number": "79293275535",
-            "cli": "OKTA",
-            "message": "e/auth/push/link/AFVWrEp0LiP9VzC5BFa4/opfz2zjyi3g1ePE8l417"
-        },
-        {
-            "datetime": "2026-09-05 18:54:11",
-            "number": "79293275535",
-            "cli": "OKTA",
-            "message": "e/auth/push/link/AFVWrEp0LiP9VzC5BFa4/opfz2zjyi3g1ePE8l417"
-        },
-        {
-            "datetime": "2026-09-05 18:53:58",
-            "number": "77473504155",
+            "datetime": "2026-09-05 19:09:14",
+            "number": "77478207343",
             "cli": "FREEDOM",
-            "message": "892411 - phone number confirmation code"
+            "message": "395675 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-05 18:53:44",
-            "number": "79293275535",
-            "cli": "OKTA",
-            "message": "Haga clic aquÃ­ para inscribirse en Okta Verify : https://sso.rbfa.b"
+            "datetime": "2026-09-05 19:09:04",
+            "number": "77005707656",
+            "cli": "FREEDOM",
+            "message": "876486 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-05 18:53:44",
-            "number": "79293275535",
-            "cli": "OKTA",
-            "message": "e/auth/push/link/AFVWrEp0LiP9VzC5BFa4/opfz2zjyi3g1ePE8l417"
+            "datetime": "2026-09-05 19:08:48",
+            "number": "77478207343",
+            "cli": "FREEDOM",
+            "message": "742233 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-05 18:52:34",
-            "number": "79293275535",
-            "cli": "OKTA",
-            "message": "e/auth/push/link/7b8d8nhp5DEy4J0vVd5Y/opfz5x8urlD7K0dUu417"
+            "datetime": "2026-09-05 19:08:07",
+            "number": "77078868695",
+            "cli": "FREEDOM",
+            "message": "101254 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-05 18:52:34",
-            "number": "79293275535",
-            "cli": "OKTA",
-            "message": "Haga clic aquï¿½ para inscribirse en Okta Verify : https://sso.rbfa.b"
+            "datetime": "2026-09-05 19:07:35",
+            "number": "77078868695",
+            "cli": "FREEDOM",
+            "message": "330784 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-05 19:07:09",
+            "number": "77005002403",
+            "cli": "FREEDOM",
+            "message": "872398 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-05 19:07:09",
+            "number": "77078868695",
+            "cli": "FREEDOM",
+            "message": "496141 - phone number confirmation code"
         }
     ]
 }
