@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-05 15:34:52",
-            "number": "77052413134",
+            "datetime": "2026-09-05 15:45:41",
+            "number": "77071598383",
             "cli": "FREEDOM",
-            "message": "558445 - phone number confirmation code"
+            "message": "497019 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-05 15:34:27",
-            "number": "79215622642",
+            "datetime": "2026-09-05 15:45:35",
+            "number": "77071113706",
+            "cli": "SOKOLOV",
+            "message": "1515 - Ð²Ð°Ñ ÐºÐ¾Ð´ Ð´Ð»Ñ Ð²ÑÐ¾Ð´Ð° Ð½Ð° ÑÐ°Ð¹Ñ sokolov.ru"
+        },
+        {
+            "datetime": "2026-09-05 15:45:34",
+            "number": "79961300439",
+            "cli": "NOTICE",
+            "message": "ÐÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ List.am: 680993"
+        },
+        {
+            "datetime": "2026-09-05 15:45:32",
+            "number": "77079388523",
+            "cli": "FREEDOM",
+            "message": "846695 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-05 15:45:19",
+            "number": "77075670074",
+            "cli": "FREEDOM",
+            "message": "246098 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-05 15:44:56",
+            "number": "79235950690",
             "cli": "TWLOVERIFY",
-            "message": "Your Monopoly GO verification code is: 599701"
+            "message": "Your Monopoly GO verification code is: 006413"
         },
         {
-            "datetime": "2026-09-05 15:34:15",
-            "number": "77072650900",
-            "cli": "FREEDOM",
-            "message": "342366 - phone number confirmation code"
+            "datetime": "2026-09-05 15:44:36",
+            "number": "79995296778",
+            "cli": "WhatsApp",
+            "message": "ÐÐ¾Ð´ WhatsApp: 976-567\\nÐÐ¸ Ñ ÐºÐµÐ¼ Ð½Ðµ Ð´ÐµÐ»Ð¸ÑÐµÑÑ ÐºÐ¾Ð´Ð¾Ð¼"
         },
         {
-            "datetime": "2026-09-05 15:34:02",
-            "number": "77076161810",
-            "cli": "FREEDOM",
-            "message": "325045 - phone number confirmation code"
+            "datetime": "2026-09-05 15:44:21",
+            "number": "79235950690",
+            "cli": "TWLOVERIFY",
+            "message": "Your Monopoly GO verification code is: 006413"
         },
         {
-            "datetime": "2026-09-05 15:33:49",
-            "number": "77088319615",
-            "cli": "FREEDOM",
-            "message": "866045 - phone number confirmation code"
+            "datetime": "2026-09-05 15:43:48",
+            "number": "79235950690",
+            "cli": "TWLOVERIFY",
+            "message": "Your Monopoly GO verification code is: 006413"
         },
         {
-            "datetime": "2026-09-05 15:33:35",
-            "number": "77479864260",
-            "cli": "FREEDOM",
-            "message": "822961 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-05 15:33:22",
-            "number": "77086508332",
-            "cli": "FREEDOM",
-            "message": "552988 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-05 15:33:09",
-            "number": "77083216314",
-            "cli": "FREEDOM",
-            "message": "558113 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-05 15:32:17",
-            "number": "77780785843",
-            "cli": "FREEDOM",
-            "message": "767615 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-05 15:32:06",
-            "number": "77714597594",
-            "cli": "FREEDOM",
-            "message": "932480 - phone number confirmation code"
+            "datetime": "2026-09-05 15:43:30",
+            "number": "59170441309",
+            "cli": "TrustCase",
+            "message": "Your TrustCase registration code is: BPRFSS"
         }
     ]
 }
