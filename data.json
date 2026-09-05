@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-05 12:06:41",
-            "number": "79635754547",
+            "datetime": "2026-09-05 12:26:07",
+            "number": "59170165272",
+            "cli": "PAYPAL",
+            "message": "w.paypal.com #581240"
+        },
+        {
+            "datetime": "2026-09-05 12:26:07",
+            "number": "59170165272",
+            "cli": "PAYPAL",
+            "message": "PayPal: cÃ³d. de seguridad 581240. Vence en 10 min. No responda. @ww"
+        },
+        {
+            "datetime": "2026-09-05 12:25:56",
+            "number": "79231617723",
+            "cli": "FreedomBGM",
+            "message": "967544 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-05 12:25:11",
+            "number": "77019152555",
+            "cli": "FREEDOM",
+            "message": "840052 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-05 12:25:00",
+            "number": "77077217730",
+            "cli": "FREEDOM",
+            "message": "315091 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-05 12:24:58",
+            "number": "77078275014",
+            "cli": "FREEDOM",
+            "message": "813863 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-05 12:24:50",
+            "number": "79040106746",
             "cli": "Huawei",
-            "message": "759623 - Cï¿½digo de verificaï¿½ï¿½o da Huawei para redefinir a senha."
+            "message": "717456: ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Huawei Ð´Ð»Ñ ÑÐµÐ³Ð¸ÑÑÑÐ°ÑÐ¸Ð¸ Ð°ÐºÐºÐ°ÑÐ½ÑÐ° ÑÐµÐ±ÐµÐ½ÐºÐ°."
         },
         {
-            "datetime": "2026-09-05 12:06:39",
-            "number": "77006070203",
+            "datetime": "2026-09-05 12:24:39",
+            "number": "77077217730",
             "cli": "FREEDOM",
-            "message": "520470 - phone number confirmation code"
+            "message": "321115 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-05 12:06:02",
-            "number": "79822014338",
-            "cli": "TWLOVERIFY",
-            "message": "Your Audemars Piguet verification code is: 313455"
+            "datetime": "2026-09-05 12:24:33",
+            "number": "79262863263",
+            "cli": "Ding",
+            "message": "451997 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
         },
         {
-            "datetime": "2026-09-05 12:06:01",
-            "number": "77075450262",
+            "datetime": "2026-09-05 12:24:30",
+            "number": "77078275014",
             "cli": "FREEDOM",
-            "message": "729010 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-05 12:06:01",
-            "number": "420777562649",
-            "cli": "SHEIN",
-            "message": "&lt;SHEIN&gt; A gift for you, Lilia! Unlock your loyalty perk today. See it here: https://s.pro/1/2ic09p3 STOP: https://s.pro/1/2ic09g7"
-        },
-        {
-            "datetime": "2026-09-05 12:05:58",
-            "number": "79822014338",
-            "cli": "TWLOVERIFY",
-            "message": "Your Audemars Piguet verification code is: 313455"
-        },
-        {
-            "datetime": "2026-09-05 12:05:54",
-            "number": "79822014338",
-            "cli": "TWLOVERIFY",
-            "message": "Your Audemars Piguet verification code is: 313455"
-        },
-        {
-            "datetime": "2026-09-05 12:05:52",
-            "number": "77479135896",
-            "cli": "FREEDOM",
-            "message": "696569 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-05 12:05:39",
-            "number": "79374271286",
-            "cli": "bcmarathon",
-            "message": "ÐÐ°ÑÐ°ÑÐ¾Ð½-ÐºÐ¾Ð´: 709157"
-        },
-        {
-            "datetime": "2026-09-05 12:05:38",
-            "number": "77075450262",
-            "cli": "FREEDOM",
-            "message": "593537 - phone number confirmation code"
+            "message": "303560 - phone number confirmation code"
         }
     ]
 }
