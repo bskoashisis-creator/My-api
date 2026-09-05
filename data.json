@@ -1,66 +1,18 @@
 {
     "status": "Success",
-    "records": 10,
+    "records": 2,
     "data": [
         {
-            "datetime": "2026-09-04 23:49:18",
-            "number": "59170662051",
-            "cli": "PAYPAL",
-            "message": "PayPal: 829038 es su cÃ³digo de recuperaciÃ³n de contraseÃ±a. No compa"
+            "datetime": "2026-09-05 00:01:56",
+            "number": "79923596181",
+            "cli": "FBROKER",
+            "message": "748294 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-04 23:39:50",
-            "number": "2250173722397",
-            "cli": "Apple",
-            "message": "REG-RESP?v=5;r=082236421;n=+2250173722397;s=026A9B56C2FFFFFFFF773D72B0CBBF48115A55281A241AC07058F1D688"
-        },
-        {
-            "datetime": "2026-09-04 23:39:29",
-            "number": "79500059797",
-            "cli": "bcmarathon",
-            "message": "ÐÐ¾ÑÑÑÐ°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¿Ð°ÑÐ¾Ð»Ñ\\nÐÐ°ÑÐ°ÑÐ¾Ð½-ÐºÐ¾Ð´: 658540"
-        },
-        {
-            "datetime": "2026-09-04 23:35:11",
-            "number": "218917820022",
-            "cli": "JIA",
-            "message": "290885 is your verification code, please login within 5 minutes."
-        },
-        {
-            "datetime": "2026-09-04 23:29:11",
-            "number": "79283404358",
-            "cli": "Ding",
-            "message": "927000 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ. ÐÐµ Ð¿ÐµÑÐµÐ´Ð°Ð²Ð°Ð¹ÑÐµ ÐµÐ³Ð¾ Ð½Ð¸ÐºÐ¾Ð¼Ñ."
-        },
-        {
-            "datetime": "2026-09-04 23:25:35",
-            "number": "77089618973",
-            "cli": "Qsms",
-            "message": "&lt;#&gt; Your WhatsApp code: 152-035\\nDon\\&#039;t share this code with others\\n4sgLq1p5sV6"
-        },
-        {
-            "datetime": "2026-09-04 23:20:04",
-            "number": "79130670191",
-            "cli": "Apple",
-            "message": "REG-RESP?v=5;r=541579881;n=+79130670191;s=026A9B521FFFFFFFFF6946E444FC66BE434D51E2FC18794C44938F9164"
-        },
-        {
-            "datetime": "2026-09-04 23:19:23",
-            "number": "79287801416",
-            "cli": "Google",
-            "message": "G-111111 is your Google verification code."
-        },
-        {
-            "datetime": "2026-09-04 23:10:12",
-            "number": "79207699752",
-            "cli": "WhatsApp",
-            "message": "&lt;#&gt; Kode WhatsApp Business: 950-594\\nJangan bagikan kode ini dengan orang lain\\nrJbA/XP1K+V"
-        },
-        {
-            "datetime": "2026-09-04 23:09:05",
-            "number": "2250173722397",
-            "cli": "Apple",
-            "message": "REG-RESP?v=5;r=227220851;n=+2250173722397;s=026A9B4F8CFFFFFFFF38A8E727DAA3A5EC401CA3338D5887736441928F"
+            "datetime": "2026-09-05 00:00:00",
+            "number": "33769726411",
+            "cli": "Huawei",
+            "message": "624009 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
         }
     ]
 }
