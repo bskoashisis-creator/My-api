@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-05 10:58:34",
-            "number": "79107877979",
-            "cli": "FBROKER",
-            "message": "799254 - phone number confirmation code"
+            "datetime": "2026-09-05 11:15:44",
+            "number": "77079185621",
+            "cli": "FREEDOM",
+            "message": "579212 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-05 10:58:34",
-            "number": "79513488710",
+            "datetime": "2026-09-05 11:15:18",
+            "number": "77073629503",
+            "cli": "FREEDOM",
+            "message": "880806 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-05 11:15:05",
+            "number": "59170711378",
+            "cli": "Amazon",
+            "message": "Reminder from Alexa: Despierten adriÃ¡n y briana"
+        },
+        {
+            "datetime": "2026-09-05 11:14:54",
+            "number": "77073629503",
+            "cli": "FREEDOM",
+            "message": "465467 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-05 11:14:08",
+            "number": "77474910326",
+            "cli": "FREEDOM",
+            "message": "938359 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-05 11:13:54",
+            "number": "79049581042",
+            "cli": "FREEDOM_ARM",
+            "message": "700351 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-05 11:13:46",
+            "number": "77474910326",
+            "cli": "FREEDOM",
+            "message": "942513 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-05 11:13:24",
+            "number": "77474910326",
+            "cli": "FREEDOM",
+            "message": "570547 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-05 11:13:22",
+            "number": "79221618265",
             "cli": "Huawei",
-            "message": "276267 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
+            "message": "625414 - Huawei verification code to register HUAWEI ID."
         },
         {
-            "datetime": "2026-09-05 10:58:31",
-            "number": "79384134405",
-            "cli": "FBROKER",
-            "message": "989564 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-05 10:58:29",
-            "number": "79513488710",
-            "cli": "Huawei",
-            "message": "276267 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
-        },
-        {
-            "datetime": "2026-09-05 10:58:28",
-            "number": "79037967454",
-            "cli": "AUTHMSG",
-            "message": "TFOS: 870802 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-05 10:58:26",
-            "number": "79200275612",
-            "cli": "FBROKER",
-            "message": "608286 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-05 10:58:25",
-            "number": "79380194524",
-            "cli": "FBROKER",
-            "message": "519099 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-05 10:58:25",
-            "number": "79513488710",
-            "cli": "Huawei",
-            "message": "276267 - Cï¿½digo de verificaï¿½ï¿½o da Huawei para redefinir a senha."
-        },
-        {
-            "datetime": "2026-09-05 10:58:22",
-            "number": "79069883440",
-            "cli": "FBROKER",
-            "message": "561691 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-05 10:58:14",
-            "number": "79622655016",
-            "cli": "FBROKER",
-            "message": "733075 - phone number confirmation code"
+            "datetime": "2026-09-05 11:13:19",
+            "number": "79049581042",
+            "cli": "FREEDOM_ARM",
+            "message": "461922 - phone number confirmation code"
         }
     ]
 }
