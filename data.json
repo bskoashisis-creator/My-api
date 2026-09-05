@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-05 14:17:21",
-            "number": "77071741669",
+            "datetime": "2026-09-05 14:29:53",
+            "number": "79218988685",
+            "cli": "FREEDOM_ARM",
+            "message": "816135 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-05 14:29:49",
+            "number": "79521281528",
+            "cli": "FREEDOM_ARM",
+            "message": "964883 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-05 14:29:39",
+            "number": "77476841210",
             "cli": "FREEDOM",
-            "message": "650685 - phone number confirmation code"
+            "message": "777426 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-05 14:17:08",
-            "number": "77071741669",
+            "datetime": "2026-09-05 14:29:34",
+            "number": "79333205765",
+            "cli": "Steam",
+            "message": "Steam: Ð²Ð²ÐµÐ´Ð¸ÑÐµ ÐºÐ¾Ð´ R9TVT, ÑÑÐ¾Ð±Ñ Ð¸Ð·Ð¼ÐµÐ½Ð¸ÑÑ Ð´Ð°Ð½Ð½ÑÐµ Ð´Ð»Ñ Ð²ÑÐ¾Ð´Ð° Ð² Ð°ÐºÐºÐ°ÑÐ½Ñ"
+        },
+        {
+            "datetime": "2026-09-05 14:29:10",
+            "number": "79218988685",
+            "cli": "FREEDOM_ARM",
+            "message": "481764 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-05 14:29:09",
+            "number": "77074023784",
             "cli": "FREEDOM",
-            "message": "442934 - phone number confirmation code"
+            "message": "334294 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-05 14:17:08",
-            "number": "77073957828",
+            "datetime": "2026-09-05 14:28:52",
+            "number": "79521281528",
+            "cli": "FREEDOM_ARM",
+            "message": "787459 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-05 14:28:48",
+            "number": "77074023784",
             "cli": "FREEDOM",
-            "message": "416896 - phone number confirmation code"
+            "message": "681526 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-05 14:16:35",
-            "number": "79833121222",
-            "cli": "TWLOVERIFY",
-            "message": "Your Audemars Piguet verification code is: 498302"
-        },
-        {
-            "datetime": "2026-09-05 14:16:07",
-            "number": "79833121222",
-            "cli": "TWLOVERIFY",
-            "message": "Your Audemars Piguet verification code is: 498302"
-        },
-        {
-            "datetime": "2026-09-05 14:15:56",
-            "number": "79833121222",
-            "cli": "TWLOVERIFY",
-            "message": "Your Audemars Piguet verification code is: 498302"
-        },
-        {
-            "datetime": "2026-09-05 14:15:49",
-            "number": "77085434197",
+            "datetime": "2026-09-05 14:28:26",
+            "number": "77074023784",
             "cli": "FREEDOM",
-            "message": "361230 - phone number confirmation code"
+            "message": "429789 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-05 14:15:30",
-            "number": "79265855897",
-            "cli": "WhatsApp",
-            "message": "&lt;#&gt; ÙÙØ¯ ÙØ§ØªØ³Ø§Ø¨ ÙÙØ£Ø¹ÙØ§Ù Ø§ÙØ®Ø§Øµ Ø¨Ù â414-944\\nÙØ§ ØªØ´Ø§Ø±ÙÙ ÙØ¹ Ø£Ø­Ø¯\\nrJbA/XP1K+V"
-        },
-        {
-            "datetime": "2026-09-05 14:15:25",
-            "number": "77078967970",
-            "cli": "FREEDOM",
-            "message": "869933 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-05 14:15:25",
-            "number": "77085434197",
-            "cli": "FREEDOM",
-            "message": "421387 - phone number confirmation code"
+            "datetime": "2026-09-05 14:28:22",
+            "number": "77078903240",
+            "cli": "AUTHMSG",
+            "message": "Your Audemars Piguet verification code is: 139905"
         }
     ]
 }
