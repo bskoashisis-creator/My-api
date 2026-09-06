@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-06 11:11:39",
-            "number": "79515684524",
+            "datetime": "2026-09-06 11:25:58",
+            "number": "79262064216",
             "cli": "FREEDOM",
-            "message": "498464856370 - phone number confirmation code"
+            "message": "936336301747 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 11:11:39",
-            "number": "639395136076",
-            "cli": "447873077777",
-            "message": "&lt;#&gt; inDrive code: 7679\\ncpjyScQ++Hg"
-        },
-        {
-            "datetime": "2026-09-06 11:11:38",
-            "number": "77073633965",
+            "datetime": "2026-09-06 11:25:57",
+            "number": "79231197237",
             "cli": "FREEDOM",
-            "message": "924460 - phone number confirmation code"
+            "message": "792646837068 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 11:11:34",
-            "number": "79377202090",
+            "datetime": "2026-09-06 11:25:51",
+            "number": "79046045208",
             "cli": "FREEDOM",
-            "message": "850723137540 - phone number confirmation code"
+            "message": "850293615408 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 11:11:31",
-            "number": "79312571919",
+            "datetime": "2026-09-06 11:25:45",
+            "number": "77471112346",
+            "cli": "Glovo",
+            "message": "Glovo code: 8967. Valid for 3 minutes."
+        },
+        {
+            "datetime": "2026-09-06 11:25:44",
+            "number": "79950949594",
             "cli": "FREEDOM",
-            "message": "441095429767 - phone number confirmation code"
+            "message": "360615577193 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 11:11:31",
-            "number": "79262320448",
-            "cli": "FREEDOM_ARM",
-            "message": "352410 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-06 11:11:30",
-            "number": "79374427504",
+            "datetime": "2026-09-06 11:25:41",
+            "number": "79272877971",
             "cli": "FREEDOM",
-            "message": "840788224352 - phone number confirmation code"
+            "message": "319514928728 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 11:11:30",
-            "number": "79854499456",
+            "datetime": "2026-09-06 11:25:40",
+            "number": "79224826400",
             "cli": "FREEDOM",
-            "message": "378231911567 - phone number confirmation code"
+            "message": "963499286273 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 11:11:29",
-            "number": "77770531012",
+            "datetime": "2026-09-06 11:25:40",
+            "number": "79144272808",
             "cli": "FREEDOM",
-            "message": "981308 - phone number confirmation code"
+            "message": "322559938766 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 11:11:20",
-            "number": "77073593857",
+            "datetime": "2026-09-06 11:25:37",
+            "number": "79997436216",
             "cli": "FREEDOM",
-            "message": "358871 - phone number confirmation code"
+            "message": "687404627534 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-06 11:25:36",
+            "number": "79262064216",
+            "cli": "FREEDOM",
+            "message": "852286370791 - phone number confirmation code"
         }
     ]
 }
