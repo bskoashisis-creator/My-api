@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-06 11:50:13",
-            "number": "79308976796",
+            "datetime": "2026-09-06 12:02:28",
+            "number": "79963285386",
             "cli": "FREEDOM",
-            "message": "841236612415 - phone number confirmation code"
+            "message": "603223501712 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 11:50:11",
-            "number": "79289191769",
+            "datetime": "2026-09-06 12:02:00",
+            "number": "77713320631",
             "cli": "FREEDOM",
-            "message": "243905422141 - phone number confirmation code"
+            "message": "436387 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 11:50:03",
-            "number": "79380008133",
+            "datetime": "2026-09-06 12:01:59",
+            "number": "79922162324",
             "cli": "FREEDOM",
-            "message": "641752790329 - phone number confirmation code"
+            "message": "509770411155 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 11:50:03",
-            "number": "79033627525",
+            "datetime": "2026-09-06 12:01:59",
+            "number": "79235736893",
             "cli": "FREEDOM",
-            "message": "814407122969 - phone number confirmation code"
+            "message": "414832137603 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 11:50:01",
-            "number": "79374299496",
-            "cli": "FREEDOM",
-            "message": "817246547811 - phone number confirmation code"
+            "datetime": "2026-09-06 12:01:38",
+            "number": "79095827599",
+            "cli": "HoYoverse",
+            "message": "[HoYoverse]ÐÐ°Ñ ÐºÐ¾Ð´: 496529"
         },
         {
-            "datetime": "2026-09-06 11:49:55",
-            "number": "79303422253",
-            "cli": "FREEDOM",
-            "message": "588612563073 - phone number confirmation code"
+            "datetime": "2026-09-06 12:01:37",
+            "number": "79185073873",
+            "cli": "Apple",
+            "message": "ÐÐ¾Ð´ ÐÐºÐºÐ°ÑÐ½ÑÐ° Apple: 982793. ÐÐµ Ð´ÐµÐ»Ð¸ÑÐµÑÑ Ð¸Ð¼."
         },
         {
-            "datetime": "2026-09-06 11:49:49",
-            "number": "79289191769",
+            "datetime": "2026-09-06 12:01:30",
+            "number": "77751011892",
             "cli": "FREEDOM",
-            "message": "865068431248 - phone number confirmation code"
+            "message": "586305 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 11:49:48",
-            "number": "79296745321",
-            "cli": "ALIPAY",
-            "message": "Login verification code: 170920. Never tell the code to anyone![Alipay]"
+            "datetime": "2026-09-06 12:01:22",
+            "number": "79228767581",
+            "cli": "HoYoverse",
+            "message": "[HoYoverse]ÐÐ°Ñ ÐºÐ¾Ð´: 743097"
         },
         {
-            "datetime": "2026-09-06 11:49:27",
-            "number": "79526488077",
+            "datetime": "2026-09-06 12:01:14",
+            "number": "79202550672",
             "cli": "FREEDOM",
-            "message": "391642125050 - phone number confirmation code"
+            "message": "502608306692 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 11:49:19",
-            "number": "79033627525",
-            "cli": "FREEDOM",
-            "message": "806147976210 - phone number confirmation code"
+            "datetime": "2026-09-06 12:01:13",
+            "number": "79302301575",
+            "cli": "FREEDOM_ARM",
+            "message": "093547 - phone number confirmation code"
         }
     ]
 }
