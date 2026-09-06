@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-06 21:58:34",
-            "number": "79043298064",
-            "cli": "TWLOVERIFY",
-            "message": "Your UniUni Driver verification code is: 0504. This code will expire in 10 minutes."
+            "datetime": "2026-09-06 22:20:10",
+            "number": "593980600605",
+            "cli": "Google",
+            "message": "G-516635: c digo de verificaci n de Google. No lo compartas."
         },
         {
-            "datetime": "2026-09-06 21:58:00",
-            "number": "77470861931",
+            "datetime": "2026-09-06 22:18:47",
+            "number": "79854411792",
+            "cli": "Huawei",
+            "message": "449066: ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Huawei Ð´Ð»Ñ ÑÐ±ÑÐ¾ÑÐ° Ð¿Ð°ÑÐ¾Ð»Ñ."
+        },
+        {
+            "datetime": "2026-09-06 22:17:45",
+            "number": "77074527421",
+            "cli": "Careem",
+            "message": "Your code is 8863. NEVER share this with anyone. Careem will never call and ask for this code, don\\&#039;t give it to anyone."
+        },
+        {
+            "datetime": "2026-09-06 22:17:10",
+            "number": "77074527421",
+            "cli": "Careem",
+            "message": "Your code is 8863. NEVER share this with anyone. Careem will never call and ask for this code, don\\&#039;t give it to anyone."
+        },
+        {
+            "datetime": "2026-09-06 22:16:50",
+            "number": "79854411792",
+            "cli": "Huawei",
+            "message": "800389: ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Huawei."
+        },
+        {
+            "datetime": "2026-09-06 22:16:26",
+            "number": "218910493097",
+            "cli": "SAMSUNG",
+            "message": "&lt;#&gt; Account: 969763 is your Samsung account verification code.\\nbP2ROrn3fZQ"
+        },
+        {
+            "datetime": "2026-09-06 22:11:31",
+            "number": "77477666727",
             "cli": "AUTHMSG",
-            "message": "Your Twilio verification code is: 433350"
+            "message": "Your Twilio verification code is: 716155"
         },
         {
-            "datetime": "2026-09-06 21:57:16",
-            "number": "77470861931",
+            "datetime": "2026-09-06 22:10:48",
+            "number": "77477666727",
             "cli": "Qsms",
-            "message": "Your Twilio verification code is: 433350"
+            "message": "Your Twilio verification code is: 716155"
         },
         {
-            "datetime": "2026-09-06 21:55:56",
-            "number": "79646664004",
-            "cli": "Apple",
-            "message": "REG-RESP?v=5;r=154212094;n=+79646664004;s=026A9DE168FFFFFFFFECA1252B18DF43200647E115025CE0237AE833D7"
+            "datetime": "2026-09-06 22:10:04",
+            "number": "77477666727",
+            "cli": "AUTHMSG",
+            "message": "Your Twilio verification code is: 716155"
         },
         {
-            "datetime": "2026-09-06 21:53:48",
-            "number": "77076876002",
-            "cli": "FREEDOM",
-            "message": "217790 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-06 21:53:05",
-            "number": "77076876002",
-            "cli": "FREEDOM",
-            "message": "495369 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-06 21:52:45",
-            "number": "77076876002",
-            "cli": "FREEDOM",
-            "message": "926196 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-06 21:52:22",
-            "number": "77076876002",
-            "cli": "FREEDOM",
-            "message": "659853 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-06 21:51:36",
-            "number": "77475920698",
-            "cli": "FREEDOM",
-            "message": "840126 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-06 21:51:15",
-            "number": "77475920698",
-            "cli": "FREEDOM",
-            "message": "826444 - phone number confirmation code"
+            "datetime": "2026-09-06 22:09:10",
+            "number": "77477666727",
+            "cli": "Qsms",
+            "message": "Your Twilio verification code is: 716155"
         }
     ]
 }
