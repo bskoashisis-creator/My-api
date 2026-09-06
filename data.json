@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-06 18:51:37",
-            "number": "77472032468",
+            "datetime": "2026-09-06 19:04:33",
+            "number": "77479535308",
             "cli": "FREEDOM",
-            "message": "182875 - phone number confirmation code"
+            "message": "224805 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 18:51:32",
-            "number": "79044586933",
-            "cli": "EtihadAir",
-            "message": "Your Etihad flight EY844 to Abu Dhabi is now boarding. Please proceed to gate 125. The boarding gate closes 20 minutes before departure.\\n \\n"
-        },
-        {
-            "datetime": "2026-09-06 18:51:16",
-            "number": "77472032468",
+            "datetime": "2026-09-06 19:04:28",
+            "number": "77006980863",
             "cli": "FREEDOM",
-            "message": "324744 - phone number confirmation code"
+            "message": "169397 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 18:51:05",
-            "number": "79200408814",
-            "cli": "Huawei",
-            "message": "ÐÐ¾Ð´ Ð·Ð°Ð¿ÑÐ¾ÑÐ° Huawei: S20260906215057549473. id.huawei.com/d/0048"
-        },
-        {
-            "datetime": "2026-09-06 18:50:50",
-            "number": "77004280150",
+            "datetime": "2026-09-06 19:04:19",
+            "number": "77054345845",
             "cli": "FREEDOM",
-            "message": "276970 - phone number confirmation code"
+            "message": "275047 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 18:50:43",
-            "number": "77472021377",
+            "datetime": "2026-09-06 19:03:53",
+            "number": "77054345845",
             "cli": "FREEDOM",
-            "message": "577135 - phone number confirmation code"
+            "message": "159284 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 18:50:36",
-            "number": "79200408814",
-            "cli": "Huawei",
-            "message": "700083: ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Huawei."
-        },
-        {
-            "datetime": "2026-09-06 18:50:28",
-            "number": "77004280150",
+            "datetime": "2026-09-06 19:03:31",
+            "number": "77054345845",
             "cli": "FREEDOM",
-            "message": "738135 - phone number confirmation code"
+            "message": "963797 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 18:50:21",
-            "number": "593980600605",
-            "cli": "Google",
-            "message": "G-849417: c digo de verificaci n de Google. No lo compartas."
+            "datetime": "2026-09-06 19:03:07",
+            "number": "77479535308",
+            "cli": "FREEDOM",
+            "message": "508139 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 18:50:07",
-            "number": "79227813229",
-            "cli": "AliExpRus",
-            "message": "ÐÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ: 392019. ÐÐ¾Ð´ Ð´ÐµÐ¹ÑÑÐ²ÑÐµÑ: 10 Ð¼Ð¸Ð½ÑÑ."
+            "datetime": "2026-09-06 19:03:06",
+            "number": "77054345845",
+            "cli": "FREEDOM",
+            "message": "291722 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-06 19:02:59",
+            "number": "77006980863",
+            "cli": "FREEDOM",
+            "message": "402355 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-06 19:02:57",
+            "number": "77479556980",
+            "cli": "FREEDOM",
+            "message": "651847 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-06 19:02:49",
+            "number": "77475740744",
+            "cli": "FREEDOM",
+            "message": "674787 - phone number confirmation code"
         }
     ]
 }
