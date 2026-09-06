@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-06 19:29:42",
-            "number": "77002788719",
+            "datetime": "2026-09-06 19:41:32",
+            "number": "77077477846",
             "cli": "FREEDOM",
-            "message": "365174 - phone number confirmation code"
+            "message": "161592 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 19:29:36",
-            "number": "77002948410",
+            "datetime": "2026-09-06 19:41:11",
+            "number": "77077477846",
             "cli": "FREEDOM",
-            "message": "911806 - phone number confirmation code"
+            "message": "281000 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 19:29:12",
-            "number": "77002788719",
+            "datetime": "2026-09-06 19:40:58",
+            "number": "77022413313",
             "cli": "FREEDOM",
-            "message": "436013 - phone number confirmation code"
+            "message": "215710 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 19:28:44",
-            "number": "77472363697",
+            "datetime": "2026-09-06 19:40:49",
+            "number": "77077477846",
             "cli": "FREEDOM",
-            "message": "170321 - phone number confirmation code"
+            "message": "133642 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 19:28:19",
-            "number": "77472363697",
+            "datetime": "2026-09-06 19:40:17",
+            "number": "77714597594",
             "cli": "FREEDOM",
-            "message": "789004 - phone number confirmation code"
+            "message": "623519 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 19:27:32",
-            "number": "77472363697",
+            "datetime": "2026-09-06 19:40:06",
+            "number": "77479797660",
             "cli": "FREEDOM",
-            "message": "358945 - phone number confirmation code"
+            "message": "259504 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 19:27:07",
-            "number": "77472363697",
+            "datetime": "2026-09-06 19:39:51",
+            "number": "79817382735",
+            "cli": "Facebook",
+            "message": "554248 â ÐºÐ¾Ð´ Ð´Ð»Ñ ÑÐ±ÑÐ¾ÑÐ° Ð²Ð°ÑÐµÐ³Ð¾ Ð¿Ð°ÑÐ¾Ð»Ñ Ð² Â«FacebookÂ»"
+        },
+        {
+            "datetime": "2026-09-06 19:39:21",
+            "number": "77479180983",
             "cli": "FREEDOM",
-            "message": "126295 - phone number confirmation code"
+            "message": "600487 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 19:26:55",
-            "number": "79621279041",
-            "cli": "ALIPAY",
-            "message": "443014 is your check code [Don\\&#039;t disclose it to anyone].[Alipay]"
+            "datetime": "2026-09-06 19:38:54",
+            "number": "77479180983",
+            "cli": "FREEDOM",
+            "message": "197592 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 19:26:03",
-            "number": "77473713510",
-            "cli": "MaryKay.ru",
-            "message": "7718 â ÐºÐ¾Ð´ Ð´Ð»Ñ Ð¿ÑÐ¾Ð´Ð¾Ð»Ð¶ÐµÐ½Ð¸Ñ ÑÐµÐ³Ð¸ÑÑÑÐ°ÑÐ¸Ð¸ Ð´Ð¾Ð³Ð¾Ð²Ð¾ÑÐ° Ñ Â«ÐÑÑÐ¸ ÐÑÐ¹Â»"
-        },
-        {
-            "datetime": "2026-09-06 19:26:00",
-            "number": "79959877118",
-            "cli": "BANKFFIN",
-            "message": "BANKFFIN 06.09.26 23:18 Tranzakciya po karte 263069***8878 na summu 2370.72 KZT v terminale YANDEX.PLUS, KZ otklonena po prichine geo-ogranicheniy na kar"
+            "datetime": "2026-09-06 19:38:48",
+            "number": "221764479925",
+            "cli": "Apple",
+            "message": "REG-RESP?v=5;r=737761116;n=+221764479925;s=026A9DC143FFFFFFFF3FB64862A47277085B6415B6EF592CCD16BDE586"
         }
     ]
 }
