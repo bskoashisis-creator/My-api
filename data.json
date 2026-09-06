@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-06 21:41:05",
-            "number": "77007714615",
+            "datetime": "2026-09-06 21:52:45",
+            "number": "77076876002",
             "cli": "FREEDOM",
-            "message": "611504 - phone number confirmation code"
+            "message": "926196 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 21:40:33",
-            "number": "77070271197",
+            "datetime": "2026-09-06 21:52:22",
+            "number": "77076876002",
             "cli": "FREEDOM",
-            "message": "635852 - phone number confirmation code"
+            "message": "659853 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 21:40:20",
-            "number": "79779875091",
-            "cli": "Ding",
-            "message": "412058 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
-        },
-        {
-            "datetime": "2026-09-06 21:40:09",
-            "number": "79227103947",
-            "cli": "AUTHMSG",
-            "message": "056697 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
-        },
-        {
-            "datetime": "2026-09-06 21:40:03",
-            "number": "77007714615",
+            "datetime": "2026-09-06 21:51:36",
+            "number": "77475920698",
             "cli": "FREEDOM",
-            "message": "869494 - phone number confirmation code"
+            "message": "840126 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 21:39:49",
-            "number": "79779875091",
-            "cli": "AUTHMSG",
-            "message": "070263 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
-        },
-        {
-            "datetime": "2026-09-06 21:39:40",
-            "number": "77070271197",
+            "datetime": "2026-09-06 21:51:15",
+            "number": "77475920698",
             "cli": "FREEDOM",
-            "message": "246317 - phone number confirmation code"
+            "message": "826444 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 21:39:25",
-            "number": "79033581193",
-            "cli": "AUTHMSG",
-            "message": "876037 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
-        },
-        {
-            "datetime": "2026-09-06 21:39:22",
-            "number": "77007707014",
+            "datetime": "2026-09-06 21:50:43",
+            "number": "77073240378",
             "cli": "FREEDOM",
-            "message": "211404 - phone number confirmation code"
+            "message": "202639 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 21:39:19",
-            "number": "77070271197",
+            "datetime": "2026-09-06 21:50:01",
+            "number": "77073240378",
             "cli": "FREEDOM",
-            "message": "404934 - phone number confirmation code"
+            "message": "483678 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-06 21:49:40",
+            "number": "77073240378",
+            "cli": "FREEDOM",
+            "message": "310067 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-06 21:49:13",
+            "number": "79500377332",
+            "cli": "Facebook",
+            "message": "568542 is your Instagram code. Don\\&#039;t share it. #ig"
+        },
+        {
+            "datetime": "2026-09-06 21:48:06",
+            "number": "77475920698",
+            "cli": "FREEDOM",
+            "message": "983174 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-06 21:47:58",
+            "number": "77005787300",
+            "cli": "FREEDOM",
+            "message": "492740 - phone number confirmation code"
         }
     ]
 }
