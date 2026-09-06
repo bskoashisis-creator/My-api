@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-06 03:44:37",
-            "number": "79523795914",
+            "datetime": "2026-09-06 03:55:46",
+            "number": "79397571777",
             "cli": "FREEDOM",
-            "message": "881256315731 - phone number confirmation code"
+            "message": "572289756199 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 03:44:36",
-            "number": "79192930904",
+            "datetime": "2026-09-06 03:55:45",
+            "number": "77087952384",
+            "cli": "FREEDOM",
+            "message": "794844 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-06 03:55:44",
+            "number": "79222034002",
             "cli": "FBROKER",
-            "message": "942091 - phone number confirmation code"
+            "message": "103421 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 03:44:32",
-            "number": "77471081878",
-            "cli": "FREEDOM",
-            "message": "968875 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-06 03:44:32",
-            "number": "79089078011",
-            "cli": "FREEDOM",
-            "message": "959255418637 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-06 03:44:32",
-            "number": "79658888958",
+            "datetime": "2026-09-06 03:55:41",
+            "number": "79217116470",
             "cli": "FBROKER",
-            "message": "773376 - phone number confirmation code"
+            "message": "128245 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 03:44:29",
-            "number": "79529989700",
-            "cli": "FREEDOM",
-            "message": "736113474227 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-06 03:44:27",
-            "number": "79270070807",
-            "cli": "FREEDOM",
-            "message": "990243683438 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-06 03:44:25",
-            "number": "79242689308",
-            "cli": "FREEDOM",
-            "message": "550276121489 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-06 03:44:20",
-            "number": "79212505768",
+            "datetime": "2026-09-06 03:55:39",
+            "number": "79652910951",
             "cli": "FBROKER",
-            "message": "976123 - phone number confirmation code"
+            "message": "880645 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-06 03:44:20",
-            "number": "79925259882",
+            "datetime": "2026-09-06 03:55:36",
+            "number": "79119800709",
+            "cli": "TWLOVERIFY",
+            "message": "Your Replit verification code is: 409385. This code will expire in 10 minutes."
+        },
+        {
+            "datetime": "2026-09-06 03:55:34",
+            "number": "79523900902",
+            "cli": "FR.TRAVEL",
+            "message": "ÐÐ°Ñ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ: 0914. ÐÐÐÐÐÐ£ ÐÐ Ð¡ÐÐÐÐ©ÐÐÐ¢Ð ÐÐÐ!"
+        },
+        {
+            "datetime": "2026-09-06 03:55:31",
+            "number": "79168155335",
+            "cli": "FREEDOM",
+            "message": "832599373488 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-06 03:55:30",
+            "number": "79648201079",
             "cli": "FBROKER",
-            "message": "138173 - phone number confirmation code"
+            "message": "732058 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-06 03:55:29",
+            "number": "79237264518",
+            "cli": "FBROKER",
+            "message": "276193 - phone number confirmation code"
         }
     ]
 }
