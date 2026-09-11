@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-11 01:00:37",
-            "number": "79166058798",
-            "cli": "FBROKER",
-            "message": "400002 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-11 01:00:10",
-            "number": "79221341319",
-            "cli": "FBROKER",
-            "message": "940607 - kod do potwierdzenia numeru telefonu"
-        },
-        {
-            "datetime": "2026-09-11 01:00:07",
-            "number": "79855023144",
-            "cli": "FBROKER",
-            "message": "812559 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-11 00:59:26",
-            "number": "79800950550",
-            "cli": "FBROKER",
-            "message": "066021 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-11 00:59:09",
-            "number": "380976673789",
+            "datetime": "2026-09-11 05:50:56",
+            "number": "79878200179",
             "cli": "Huawei",
-            "message": "Huawei In-App Purchases verification code: 081829."
+            "message": "514032 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
         },
         {
-            "datetime": "2026-09-11 00:58:28",
-            "number": "79504778596",
-            "cli": "FBROKER",
-            "message": "503488 - bekrÃ¦ftelseskode for telefonnummer"
-        },
-        {
-            "datetime": "2026-09-11 00:58:24",
-            "number": "380976673789",
+            "datetime": "2026-09-11 05:50:54",
+            "number": "79878200179",
             "cli": "Huawei",
-            "message": "HUAWEI ID (003809****3789) payment PIN changed"
+            "message": "514032 - Cï¿½digo de verificaï¿½ï¿½o da Huawei para redefinir a senha."
         },
         {
-            "datetime": "2026-09-11 00:58:15",
-            "number": "77471157910",
+            "datetime": "2026-09-11 05:50:43",
+            "number": "79276622712",
+            "cli": "Huawei",
+            "message": "259134 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
+        },
+        {
+            "datetime": "2026-09-11 05:50:40",
+            "number": "79276622712",
+            "cli": "Huawei",
+            "message": "259134 - Cï¿½digo de verificaï¿½ï¿½o da Huawei para redefinir a senha."
+        },
+        {
+            "datetime": "2026-09-11 05:50:36",
+            "number": "79644409658",
+            "cli": "Huawei",
+            "message": "912709 - Huawei verification code to register HUAWEI ID."
+        },
+        {
+            "datetime": "2026-09-11 05:50:33",
+            "number": "79644409658",
+            "cli": "Huawei",
+            "message": "912709 - Huawei verification code to register HUAWEI ID."
+        },
+        {
+            "datetime": "2026-09-11 05:49:48",
+            "number": "77476539774",
             "cli": "Qsms",
-            "message": "Enter 080558 as your verification code in LibreView."
+            "message": "&lt;#&gt; \\nÐÐµ Ð´ÐµÐ»Ð¸ÑÐµÑÑ ÑÐ²Ð¾Ð¸Ð¼ ÐºÐ¾Ð´Ð¾Ð¼ WhatsApp Ð½Ð¸ Ñ ÐºÐµÐ¼: 779-722\\n4sgLq1p5sV6"
         },
         {
-            "datetime": "2026-09-11 00:58:09",
-            "number": "79316034709",
+            "datetime": "2026-09-11 05:49:42",
+            "number": "79203585555",
             "cli": "FBROKER",
-            "message": "591769 - phone number confirmation code"
+            "message": "336392 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-11 00:58:06",
-            "number": "79012220209",
+            "datetime": "2026-09-11 05:49:17",
+            "number": "79215808501",
             "cli": "FBROKER",
-            "message": "817358 - bekrÃ¦ftelseskode for telefonnummer"
+            "message": "883258 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-11 05:49:15",
+            "number": "79207723561",
+            "cli": "FBROKER",
+            "message": "634829 - phone number confirmation code"
         }
     ]
 }
