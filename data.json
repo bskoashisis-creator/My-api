@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-11 05:50:56",
-            "number": "79878200179",
-            "cli": "Huawei",
-            "message": "514032 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
-        },
-        {
-            "datetime": "2026-09-11 05:50:54",
-            "number": "79878200179",
-            "cli": "Huawei",
-            "message": "514032 - Cï¿½digo de verificaï¿½ï¿½o da Huawei para redefinir a senha."
-        },
-        {
-            "datetime": "2026-09-11 05:50:43",
-            "number": "79276622712",
-            "cli": "Huawei",
-            "message": "259134 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
-        },
-        {
-            "datetime": "2026-09-11 05:50:40",
-            "number": "79276622712",
-            "cli": "Huawei",
-            "message": "259134 - Cï¿½digo de verificaï¿½ï¿½o da Huawei para redefinir a senha."
-        },
-        {
-            "datetime": "2026-09-11 05:50:36",
-            "number": "79644409658",
-            "cli": "Huawei",
-            "message": "912709 - Huawei verification code to register HUAWEI ID."
-        },
-        {
-            "datetime": "2026-09-11 05:50:33",
-            "number": "79644409658",
-            "cli": "Huawei",
-            "message": "912709 - Huawei verification code to register HUAWEI ID."
-        },
-        {
-            "datetime": "2026-09-11 05:49:48",
-            "number": "77476539774",
-            "cli": "Qsms",
-            "message": "&lt;#&gt; \\nÐÐµ Ð´ÐµÐ»Ð¸ÑÐµÑÑ ÑÐ²Ð¾Ð¸Ð¼ ÐºÐ¾Ð´Ð¾Ð¼ WhatsApp Ð½Ð¸ Ñ ÐºÐµÐ¼: 779-722\\n4sgLq1p5sV6"
-        },
-        {
-            "datetime": "2026-09-11 05:49:42",
-            "number": "79203585555",
+            "datetime": "2026-09-11 10:15:06",
+            "number": "79517291678",
             "cli": "FBROKER",
-            "message": "336392 - phone number confirmation code"
+            "message": "213208 - bevestigingscode telefoonnummer"
         },
         {
-            "datetime": "2026-09-11 05:49:17",
-            "number": "79215808501",
-            "cli": "FBROKER",
-            "message": "883258 - phone number confirmation code"
+            "datetime": "2026-09-11 10:15:04",
+            "number": "59170711378",
+            "cli": "Amazon",
+            "message": "Reminder from Alexa: 5 A preparar leche"
         },
         {
-            "datetime": "2026-09-11 05:49:15",
-            "number": "79207723561",
+            "datetime": "2026-09-11 10:14:56",
+            "number": "79283094376",
+            "cli": "Ding",
+            "message": "753454 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
+        },
+        {
+            "datetime": "2026-09-11 10:14:54",
+            "number": "79841291061",
             "cli": "FBROKER",
-            "message": "634829 - phone number confirmation code"
+            "message": "191195 - Telefon numarasÄ±nÄ± doÄrulamak iÃ§in kod"
+        },
+        {
+            "datetime": "2026-09-11 10:14:43",
+            "number": "79063413490",
+            "cli": "FBROKER",
+            "message": "627483 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-11 10:14:42",
+            "number": "79377532842",
+            "cli": "Ding",
+            "message": "367143 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
+        },
+        {
+            "datetime": "2026-09-11 10:14:39",
+            "number": "79214679242",
+            "cli": "FBROKER",
+            "message": "465569 - phone number confirmation code"
+        },
+        {
+            "datetime": "2026-09-11 10:14:36",
+            "number": "79266574008",
+            "cli": "AUTHMSG",
+            "message": "108328 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
+        },
+        {
+            "datetime": "2026-09-11 10:14:27",
+            "number": "79850181313",
+            "cli": "Bakai_Bank",
+            "message": "Ð¿Ð¾Ð´Ð´ÐµÑÐ¶ÐºÑ."
+        },
+        {
+            "datetime": "2026-09-11 10:14:27",
+            "number": "79850181313",
+            "cli": "Bakai_Bank",
+            "message": "ÐÐ¾Ð²ÑÐ¹ Ð²ÑÐ¾Ð´ iPhone 15 Pro Ð² 11.09.306442 16:14. ÐÐµ Ð²Ñ â Ð¾Ð±ÑÐ°ÑÐ¸ÑÐµÑÑ Ð²"
         }
     ]
 }
