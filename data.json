@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-12 16:04:10",
-            "number": "79532396107",
-            "cli": "ALISERVICE",
-            "message": "[HKTicketing]Verification code: 154623, valid for 10 minutes. Enter it as shown and keep it confidential."
+            "datetime": "2026-09-12 18:18:34",
+            "number": "79012349385",
+            "cli": "AUTHMSG",
+            "message": "TFOS: 234391 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-12 16:04:08",
-            "number": "79036972631",
-            "cli": "ALISERVICE",
-            "message": "[HKTicketing]Verification code: 492942, valid for 10 minutes. Enter it as shown and keep it confidential."
+            "datetime": "2026-09-12 18:18:15",
+            "number": "79272031055",
+            "cli": "FreedomBGM",
+            "message": "100408 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-12 16:04:06",
-            "number": "79233026820",
-            "cli": "TWLOVERIFY",
-            "message": "Your Audemars Piguet verification code is: 750906"
+            "datetime": "2026-09-12 18:17:33",
+            "number": "79018190000",
+            "cli": "AUTHMSG",
+            "message": "TFOS: 883346 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-12 16:04:02",
-            "number": "79163786834",
-            "cli": "TWLOVERIFY",
-            "message": "Your MaNaDr verification code is: 438224. This code will expire in 10 minutes."
+            "datetime": "2026-09-12 18:17:28",
+            "number": "79003235568",
+            "cli": "TFOS",
+            "message": "TFOS: 828144 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-12 16:03:58",
-            "number": "79167456193",
-            "cli": "PGUVERCINI",
-            "message": "Dear SHAPOSHNIK, the boarding gate for your VF275 flight has been assigned as 204A."
+            "datetime": "2026-09-12 18:15:03",
+            "number": "79272031055",
+            "cli": "FreedomBGM",
+            "message": "308144 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-12 16:03:57",
-            "number": "380980503378",
-            "cli": "Huawei",
-            "message": "127893 - Huawei verification code to register HUAWEI ID."
+            "datetime": "2026-09-12 18:14:49",
+            "number": "79054722915",
+            "cli": "AUTHMSG",
+            "message": "TFOS: 658598 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-12 16:03:53",
-            "number": "79170460008",
-            "cli": "ALISERVICE",
-            "message": "[HKTicketing]Verification code: 255772, valid for 10 minutes. Enter it as shown and keep it confidential."
+            "datetime": "2026-09-12 18:14:16",
+            "number": "79068117766",
+            "cli": "AUTHMSG",
+            "message": "TFOS: 394672 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-12 16:03:47",
-            "number": "79629605775",
-            "cli": "ALISERVICE",
-            "message": "[HKTicketing]Verification code: 331838, valid for 10 minutes. Enter it as shown and keep it confidential."
+            "datetime": "2026-09-12 18:13:29",
+            "number": "79162598481",
+            "cli": "Notice",
+            "message": "USPESHNAYA POKUPKA 28.00 EUR, ROMA TERMINI SELF SERVIC, IT, 13.09.26 00:13, 4714***8735, DOSTUPNO: 301.38 USD"
         },
         {
-            "datetime": "2026-09-12 16:03:47",
-            "number": "79199410462",
-            "cli": "ALISERVICE",
-            "message": "[HKTicketing]Verification code: 293485, valid for 10 minutes. Enter it as shown and keep it confidential."
+            "datetime": "2026-09-12 18:13:26",
+            "number": "79218159474",
+            "cli": "KRAFTON",
+            "message": "[PUBG] ÐÐ²ÐµÐ´Ð¸ÑÐµ ÐºÐ¾Ð´ 755884 Ð² ÑÐµÑÐµÐ½Ð¸Ðµ 3 Ð¼Ð¸Ð½ÑÑ, ÑÑÐ¾Ð±Ñ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ´Ð¸ÑÑ ÑÑÐµÑ"
         },
         {
-            "datetime": "2026-09-12 16:03:43",
-            "number": "79231875116",
-            "cli": "TWLOVERIFY",
-            "message": "Your Audemars Piguet verification code is: 486300"
+            "datetime": "2026-09-12 18:13:26",
+            "number": "79218159474",
+            "cli": "KRAFTON",
+            "message": "Ð½ÑÑ Ð·Ð°Ð¿Ð¸ÑÑ."
         }
     ]
 }
