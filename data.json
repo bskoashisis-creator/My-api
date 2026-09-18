@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-18 01:03:54",
-            "number": "79043916550",
-            "cli": "AUTHMSG",
-            "message": "TFOS: 458907 - phone number confirmation code"
+            "datetime": "2026-09-18 05:51:49",
+            "number": "79221667828",
+            "cli": "TWLOVERIFY",
+            "message": "Your Replit verification code is: 066503. This code will expire in 10 minutes."
         },
         {
-            "datetime": "2026-09-18 01:03:48",
-            "number": "33609849388",
-            "cli": "Huawei",
-            "message": "878312 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
+            "datetime": "2026-09-18 05:51:11",
+            "number": "79257775191",
+            "cli": "FreedomBGM",
+            "message": "714194 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-18 01:03:48",
-            "number": "33609849388",
-            "cli": "Huawei",
-            "message": "878312 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
+            "datetime": "2026-09-18 05:51:10",
+            "number": "79221667828",
+            "cli": "TWLOVERIFY",
+            "message": "Your Replit verification code is: 066503. This code will expire in 10 minutes."
         },
         {
-            "datetime": "2026-09-18 01:03:41",
-            "number": "79264541321",
-            "cli": "Unibank",
-            "message": "474695INSUFFICIENT FUNDS: APPLE.COM/BILL, ITUNES.COM,18.09.26 05:03,card ***679182. Amount:3.49 USD, Balance:6.22 AMD"
+            "datetime": "2026-09-18 05:50:19",
+            "number": "79141299080",
+            "cli": "TWLOVERIFY",
+            "message": "Your Replit verification code is: 634459. This code will expire in 10 minutes."
         },
         {
-            "datetime": "2026-09-18 01:03:40",
-            "number": "33609849388",
-            "cli": "Huawei",
-            "message": "OP 36047"
+            "datetime": "2026-09-18 05:49:33",
+            "number": "79141299080",
+            "cli": "TWLOVERIFY",
+            "message": "Your Replit verification code is: 634459. This code will expire in 10 minutes."
         },
         {
-            "datetime": "2026-09-18 01:03:40",
-            "number": "33609849388",
-            "cli": "Huawei",
-            "message": "878312 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha. ST"
+            "datetime": "2026-09-18 05:49:05",
+            "number": "79222022720",
+            "cli": "NOTICE",
+            "message": "(755803)Uniportal verification code."
         },
         {
-            "datetime": "2026-09-18 01:03:36",
-            "number": "59170194210",
-            "cli": "Binance",
-            "message": "[BN] Your One Time Password is 699207 Anti-Phishing: 110*000"
+            "datetime": "2026-09-18 05:49:01",
+            "number": "79141299080",
+            "cli": "TWLOVERIFY",
+            "message": "Your Replit verification code is: 634459. This code will expire in 10 minutes."
         },
         {
-            "datetime": "2026-09-18 01:03:35",
-            "number": "33609849388",
-            "cli": "Huawei",
-            "message": "878312 - CÃ³digo de verificaÃ§Ã£o da Huawei para redefinir a senha."
+            "datetime": "2026-09-18 05:48:29",
+            "number": "79141299080",
+            "cli": "TWLOVERIFY",
+            "message": "Your Replit verification code is: 634459. This code will expire in 10 minutes."
         },
         {
-            "datetime": "2026-09-18 01:02:14",
-            "number": "59170711378",
-            "cli": "Amazon",
-            "message": "Reminder from Alexa: AdriÃ¡n y Briana buenas noches"
+            "datetime": "2026-09-18 05:48:27",
+            "number": "79655376592",
+            "cli": "TWLOVERIFY",
+            "message": "Your Replit verification code is: 959044. This code will expire in 10 minutes."
         },
         {
-            "datetime": "2026-09-18 01:01:17",
-            "number": "79992020013",
-            "cli": "TK INFO",
-            "message": "Your one-time passcode to close your Miles&amp;Smiles account is: 670742 Miles&amp;Smiles B030"
+            "datetime": "2026-09-18 05:48:15",
+            "number": "79043995483",
+            "cli": "SinchVerify",
+            "message": "539483 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
         }
     ]
 }
