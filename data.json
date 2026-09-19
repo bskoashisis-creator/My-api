@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-19 05:01:59",
-            "number": "38349282067",
-            "cli": "Benso",
-            "message": "Reconfirm or cancel your reservation: https://c0v.es/dhBsDW - Benso, 19/09/2026 at 15:00 h. for 2 pax."
+            "datetime": "2026-09-19 09:25:10",
+            "number": "22227559586",
+            "cli": "FREEDOM",
+            "message": "963400 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-19 05:01:56",
-            "number": "79503744958",
+            "datetime": "2026-09-19 09:24:49",
+            "number": "79040642839",
             "cli": "AUTHMSG",
-            "message": "504052 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
+            "message": "TFOS: 106498 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-19 05:01:54",
-            "number": "79513774729",
-            "cli": "STATUSBANK",
-            "message": "Card197899;\\r\\nOplataza uslugu: 49,00 BYN;\\r\\n19.09.26 08:01:45;\\r\\nKOMISSIYA STATUSBANK,DBO,BY;\\r\\nDostupno: 4 193,76 BYN"
+            "datetime": "2026-09-19 09:24:44",
+            "number": "22227559585",
+            "cli": "FREEDOM",
+            "message": "583794 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-19 05:01:32",
-            "number": "38349282071",
-            "cli": "Benso",
-            "message": "Reconfirm or cancel your reservation: https://c0v.es/cdsdJ9 - Benso, 19/09/2026 at 15:00 h. for 2 pax."
+            "datetime": "2026-09-19 09:24:21",
+            "number": "79137607775",
+            "cli": "AUTHMSG",
+            "message": "TFOS: 257304 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-19 05:01:26",
-            "number": "79600211271",
-            "cli": "OKTA",
-            "message": "e/auth/push/link/2nTHQWEmCNAUppvUIuPo/opfxc4p6yt6XjnNvJ417"
+            "datetime": "2026-09-19 09:24:14",
+            "number": "22227559594",
+            "cli": "FREEDOM",
+            "message": "071539 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-19 05:01:26",
-            "number": "79600211271",
-            "cli": "OKTA",
-            "message": "Haga clic aquï¿½ para inscribirse en Okta Verify : https://sso.rbfa.b"
+            "datetime": "2026-09-19 09:23:44",
+            "number": "22227559586",
+            "cli": "FREEDOM",
+            "message": "636242 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-19 05:01:17",
-            "number": "79992460456",
-            "cli": "OKTA",
-            "message": "e/auth/push/link/2nTHQWEmCNAUppvUIuPo/opfxc4p6yt6XjnNvJ417"
+            "datetime": "2026-09-19 09:23:16",
+            "number": "79246615912",
+            "cli": "PEGASUS",
+            "message": "You will now receive Pegasus campaigns and announcements by SMS. To opt out, please text PGS to 3607. Mersis No: 0723004708500017"
         },
         {
-            "datetime": "2026-09-19 05:01:17",
-            "number": "79992460456",
-            "cli": "OKTA",
-            "message": "Haga clic aquï¿½ para inscribirse en Okta Verify : https://sso.rbfa.b"
+            "datetime": "2026-09-19 09:22:50",
+            "number": "79246615912",
+            "cli": "PEGASUS",
+            "message": "In order to activate your account enter Verification Code 7710"
         },
         {
-            "datetime": "2026-09-19 05:01:08",
-            "number": "79992332434",
-            "cli": "OKTA",
-            "message": "Haga clic aquï¿½ para inscribirse en Okta Verify : https://sso.rbfa.b"
+            "datetime": "2026-09-19 09:21:32",
+            "number": "59170193273",
+            "cli": "1xCasino",
+            "message": "Verification code 87730"
         },
         {
-            "datetime": "2026-09-19 05:01:08",
-            "number": "79992332434",
-            "cli": "OKTA",
-            "message": "e/auth/push/link/2nTHQWEmCNAUppvUIuPo/opfxc4p6yt6XjnNvJ417"
+            "datetime": "2026-09-19 09:20:35",
+            "number": "79531561114",
+            "cli": "PGUVERCINI",
+            "message": "ÐÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð½Ð¾Ð¼ÐµÑÐ° ÑÐµÐ»ÐµÑÐ¾Ð½Ð°: 58763"
         }
     ]
 }
