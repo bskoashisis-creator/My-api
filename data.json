@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-19 09:25:10",
-            "number": "22227559586",
-            "cli": "FREEDOM",
-            "message": "963400 - phone number confirmation code"
+            "datetime": "2026-09-19 13:17:41",
+            "number": "79179185519",
+            "cli": "HoYoverse",
+            "message": "[HoYoverse]ÐÐ°Ñ ÐºÐ¾Ð´: 280919"
         },
         {
-            "datetime": "2026-09-19 09:24:49",
-            "number": "79040642839",
+            "datetime": "2026-09-19 13:17:12",
+            "number": "79137911006",
+            "cli": "HoYoverse",
+            "message": "[HoYoverse]ÐÐ°Ñ ÐºÐ¾Ð´: 117273"
+        },
+        {
+            "datetime": "2026-09-19 13:17:08",
+            "number": "79184683255",
+            "cli": "Ding",
+            "message": "357114 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
+        },
+        {
+            "datetime": "2026-09-19 13:16:52",
+            "number": "79245141861",
+            "cli": "Ding",
+            "message": "728126 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
+        },
+        {
+            "datetime": "2026-09-19 13:16:43",
+            "number": "79318503167",
+            "cli": "HoYoverse",
+            "message": "[HoYoverse]ÐÐ°Ñ ÐºÐ¾Ð´: 320980"
+        },
+        {
+            "datetime": "2026-09-19 13:16:19",
+            "number": "79022759346",
             "cli": "AUTHMSG",
-            "message": "TFOS: 106498 - phone number confirmation code"
+            "message": "039041 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
         },
         {
-            "datetime": "2026-09-19 09:24:44",
-            "number": "22227559585",
-            "cli": "FREEDOM",
-            "message": "583794 - phone number confirmation code"
+            "datetime": "2026-09-19 13:15:59",
+            "number": "79202182784",
+            "cli": "Ding",
+            "message": "303916 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
         },
         {
-            "datetime": "2026-09-19 09:24:21",
-            "number": "79137607775",
+            "datetime": "2026-09-19 13:15:51",
+            "number": "79235322887",
             "cli": "AUTHMSG",
-            "message": "TFOS: 257304 - phone number confirmation code"
+            "message": "252847 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
         },
         {
-            "datetime": "2026-09-19 09:24:14",
-            "number": "22227559594",
-            "cli": "FREEDOM",
-            "message": "071539 - phone number confirmation code"
+            "datetime": "2026-09-19 13:15:45",
+            "number": "79223023982",
+            "cli": "HoYoverse",
+            "message": "[HoYoverse]ÐÐ°Ñ ÐºÐ¾Ð´: 370601"
         },
         {
-            "datetime": "2026-09-19 09:23:44",
-            "number": "22227559586",
-            "cli": "FREEDOM",
-            "message": "636242 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-09-19 09:23:16",
-            "number": "79246615912",
-            "cli": "PEGASUS",
-            "message": "You will now receive Pegasus campaigns and announcements by SMS. To opt out, please text PGS to 3607. Mersis No: 0723004708500017"
-        },
-        {
-            "datetime": "2026-09-19 09:22:50",
-            "number": "79246615912",
-            "cli": "PEGASUS",
-            "message": "In order to activate your account enter Verification Code 7710"
-        },
-        {
-            "datetime": "2026-09-19 09:21:32",
-            "number": "59170193273",
-            "cli": "1xCasino",
-            "message": "Verification code 87730"
-        },
-        {
-            "datetime": "2026-09-19 09:20:35",
-            "number": "79531561114",
-            "cli": "PGUVERCINI",
-            "message": "ÐÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð½Ð¾Ð¼ÐµÑÐ° ÑÐµÐ»ÐµÑÐ¾Ð½Ð°: 58763"
+            "datetime": "2026-09-19 13:15:38",
+            "number": "79137911006",
+            "cli": "HoYoverse",
+            "message": "[HoYoverse]ÐÐ°Ñ ÐºÐ¾Ð´: 032923"
         }
     ]
 }
