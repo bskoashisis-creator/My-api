@@ -1,66 +1,48 @@
 {
     "status": "Success",
-    "records": 10,
+    "records": 7,
     "data": [
         {
-            "datetime": "2026-09-20 21:55:18",
-            "number": "79129117345",
-            "cli": "TWLOVERIFY",
-            "message": "Your Audemars Piguet verification code is: 927088"
+            "datetime": "2026-09-21 00:09:03",
+            "number": "22227554474",
+            "cli": "FBROKER",
+            "message": "412351 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-20 21:55:11",
-            "number": "79129117345",
-            "cli": "TWLOVERIFY",
-            "message": "Your Audemars Piguet verification code is: 927088"
+            "datetime": "2026-09-21 00:08:36",
+            "number": "22227554475",
+            "cli": "FBROKER",
+            "message": "934814 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-20 21:54:56",
-            "number": "79129117345",
-            "cli": "TWLOVERIFY",
-            "message": "Your Audemars Piguet verification code is: 927088"
+            "datetime": "2026-09-21 00:08:05",
+            "number": "22227554476",
+            "cli": "FBROKER",
+            "message": "979641 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-20 21:54:47",
-            "number": "79129117345",
-            "cli": "TWLOVERIFY",
-            "message": "Your Audemars Piguet verification code is: 927088"
+            "datetime": "2026-09-21 00:07:38",
+            "number": "22227554474",
+            "cli": "FBROKER",
+            "message": "046106 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-20 21:51:10",
-            "number": "447908604752",
-            "cli": "OFBANK",
-            "message": "NEVER SHARE THIS TO ANYONE. Your OTP is 879491 for Fund Transfer amounting to PHP6,000.00. Ref No: E99B"
+            "datetime": "2026-09-21 00:07:01",
+            "number": "22227554475",
+            "cli": "FBROKER",
+            "message": "317302 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-20 21:49:36",
-            "number": "447908604752",
-            "cli": "OFBANK",
-            "message": "NEVER SHARE THIS TO ANYONE. Your OTP is 879491 for Fund Transfer amounting to PHP6,000.00. Ref No: E99B"
+            "datetime": "2026-09-21 00:06:42",
+            "number": "77476061678",
+            "cli": "FACEBOOK",
+            "message": "&lt;#&gt; 134 980â Ð²Ð°Ñ ÐºÐ¾Ð´ Instagram. ÐÐ¸ÐºÐ¾Ð¼Ñ Ð½Ðµ Ð¿Ð¾ÐºÐ°Ð·ÑÐ²Ð°Ð¹ÑÐµ ÐµÐ³Ð¾. GdDGcwrWHVm"
         },
         {
-            "datetime": "2026-09-20 21:40:35",
-            "number": "79122223776",
-            "cli": "AUTHMSG",
-            "message": "758594 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
-        },
-        {
-            "datetime": "2026-09-20 21:40:14",
-            "number": "79194205615",
-            "cli": "AUTHMSG",
-            "message": "875820 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
-        },
-        {
-            "datetime": "2026-09-20 21:40:00",
-            "number": "79184685061",
-            "cli": "AUTHMSG",
-            "message": "865971 â ÑÑÐ¾ ÐºÐ¾Ð´ Ð¿Ð¾Ð´ÑÐ²ÐµÑÐ¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Unlockt."
-        },
-        {
-            "datetime": "2026-09-20 21:29:58",
-            "number": "79211001018",
-            "cli": "Google",
-            "message": "G-111111 is your Google verification code."
+            "datetime": "2026-09-21 00:06:34",
+            "number": "22227554476",
+            "cli": "FBROKER",
+            "message": "175233 - phone number confirmation code"
         }
     ]
 }
