@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-09-30 02:06:52",
-            "number": "447585829754",
-            "cli": "PUMB",
-            "message": "&lt;#&gt; Reiestratsiia v PUMB z prystroyu:\\ninfinix mobility limited 30.09.2026, 05:06:41\\nKod: 0373. Ne peredavayte tsey kod nikomu.\\nDovidka: +380442907290 SAP"
+            "datetime": "2026-09-30 08:29:30",
+            "number": "79260587931",
+            "cli": "HoYoverse",
+            "message": "[HoYoverse]ÐÐ°Ñ ÐºÐ¾Ð´: 778049"
         },
         {
-            "datetime": "2026-09-30 02:06:52",
-            "number": "447585829754",
-            "cli": "PUMB",
-            "message": "NpS50qPv"
+            "datetime": "2026-09-30 08:29:27",
+            "number": "79965267684",
+            "cli": "TWLOVERIFY",
+            "message": "Your CheckPoint verification code is: 019513. Don\\&#039;t share this code with anyone; our employees will never ask for the code."
         },
         {
-            "datetime": "2026-09-30 02:05:51",
-            "number": "447585829754",
-            "cli": "PUMB",
-            "message": "NpS50qPv"
+            "datetime": "2026-09-30 08:28:46",
+            "number": "79965267684",
+            "cli": "TWLOVERIFY",
+            "message": "Your CheckPoint verification code is: 019513. Don\\&#039;t share this code with anyone; our employees will never ask for the code."
         },
         {
-            "datetime": "2026-09-30 02:05:51",
-            "number": "447585829754",
-            "cli": "PUMB",
-            "message": "&lt;#&gt; Reiestratsiia v PUMB z prystroyu:\\ninfinix mobility limited 30.09.2026, 05:05:40\\nKod: 1512. Ne peredavayte tsey kod nikomu.\\nDovidka: +380442907290 SAP"
+            "datetime": "2026-09-30 08:28:25",
+            "number": "79999926450",
+            "cli": "AUTHMSG",
+            "message": "TFOS: 899695 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-30 02:05:44",
-            "number": "79263222322",
-            "cli": "ALIPAY",
-            "message": "9188 is your check code [Don\\&#039;t disclose it to anyone].\\r\\n[Alipay]"
+            "datetime": "2026-09-30 08:28:20",
+            "number": "79962632742",
+            "cli": "Facebook",
+            "message": "&lt;#&gt; 1400135098 is your Instagram code. Don\\&#039;t share it."
         },
         {
-            "datetime": "2026-09-30 02:05:18",
-            "number": "447585829754",
-            "cli": "PUMB",
-            "message": "&lt;#&gt; Reiestratsiia v PUMB z prystroyu:\\ninfinix mobility limited 30.09.2026, 05:05:07\\nKod: 5247. Ne peredavayte tsey kod nikomu.\\nDovidka: +380442907290 SAP"
+            "datetime": "2026-09-30 08:28:00",
+            "number": "79260587931",
+            "cli": "HoYoverse",
+            "message": "[HoYoverse]ÐÐ°Ñ ÐºÐ¾Ð´: 741732"
         },
         {
-            "datetime": "2026-09-30 02:05:18",
-            "number": "447585829754",
-            "cli": "PUMB",
-            "message": "NpS50qPv"
+            "datetime": "2026-09-30 08:27:53",
+            "number": "79995277205",
+            "cli": "AUTHMSG",
+            "message": "TFOS: 936109 - phone number confirmation code"
         },
         {
-            "datetime": "2026-09-30 02:03:58",
-            "number": "9779807795956",
-            "cli": "inDriver",
-            "message": "&lt;#&gt; inDrive code: 7005\\ncpjyScQ++Hg"
+            "datetime": "2026-09-30 08:27:39",
+            "number": "79278697687",
+            "cli": "TWLOVERIFY",
+            "message": "Your CheckPoint verification code is: 729569. Don\\&#039;t share this code with anyone; our employees will never ask for the code."
         },
         {
-            "datetime": "2026-09-30 02:02:46",
-            "number": "79036815444",
-            "cli": "PEGASUS",
-            "message": "nderebilirsiniz. Bilgi: 08882281212 Mersis No: 0723004708500017"
+            "datetime": "2026-09-30 08:27:31",
+            "number": "79505195365",
+            "cli": "TWLOVERIFY",
+            "message": "Your CheckPoint verification code is: 420805. Don\\&#039;t share this code with anyone; our employees will never ask for the code."
         },
         {
-            "datetime": "2026-09-30 02:02:46",
-            "number": "79036815444",
-            "cli": "PEGASUS",
-            "message": "Talebiniz uzerine Pegasus Kampanya ve duyurularini artik SMS ile alabileceksiniz. Kampanya ve duyuru SMS\\&#039;lerini almak istemiyorsaniz PGS yazip 3607\\&#039;ye go"
+            "datetime": "2026-09-30 08:27:28",
+            "number": "79235687055",
+            "cli": "TWLOVERIFY",
+            "message": "Your CheckPoint verification code is: 156821. Don\\&#039;t share this code with anyone; our employees will never ask for the code."
         }
     ]
 }
