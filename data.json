@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-10-03 12:05:37",
-            "number": "79265646371",
-            "cli": "PEGASUS",
-            "message": "You will now receive Pegasus campaigns and announcements by SMS To opt out please text PGS to 3607 Mersis No 0723004708500017"
+            "datetime": "2026-10-03 16:13:13",
+            "number": "79998003168",
+            "cli": "PhoneCode",
+            "message": "CW verification code 195602 Do not share or disclose"
         },
         {
-            "datetime": "2026-10-03 12:05:21",
-            "number": "79991337896",
-            "cli": "HoYoverse",
-            "message": "[HoYoverse]ÐÐ°Ñ ÐºÐ¾Ð´ 428712"
+            "datetime": "2026-10-03 16:13:13",
+            "number": "79144145430",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code 582615 valid for 10 minutes Enter it as shown and keep it confidential"
         },
         {
-            "datetime": "2026-10-03 12:05:13",
-            "number": "79229374658",
-            "cli": "OKTA",
-            "message": "930151 is your Emirates one-time passcode"
+            "datetime": "2026-10-03 16:13:08",
+            "number": "79122550519",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code 827842 valid for 10 minutes Enter it as shown and keep it confidential"
         },
         {
-            "datetime": "2026-10-03 12:05:06",
-            "number": "79265646371",
-            "cli": "PEGASUS",
-            "message": "You will now receive Pegasus campaigns and announcements by SMS To opt out please text PGS to 3607 Mersis No 0723004708500017"
+            "datetime": "2026-10-03 16:13:08",
+            "number": "79836352529",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code 286721 valid for 10 minutes Enter it as shown and keep it confidential"
         },
         {
-            "datetime": "2026-10-03 12:04:49",
-            "number": "77079295293",
-            "cli": "olimpbet",
-            "message": "ÐÐ¾Ð´ 072339"
+            "datetime": "2026-10-03 16:13:07",
+            "number": "79058059696",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code 674468 valid for 10 minutes Enter it as shown and keep it confidential"
         },
         {
-            "datetime": "2026-10-03 12:04:46",
-            "number": "79964057374",
-            "cli": "PEGASUS",
-            "message": "Talebiniz uzerine Pegasus Kampanya ve duyurularini artik SMS ile alabileceksiniz Kampanya ve duyuru SMSlerini almak istemiyorsaniz PGS yazip 3607ye go"
-        },
-        {
-            "datetime": "2026-10-03 12:04:46",
-            "number": "79964057374",
-            "cli": "PEGASUS",
-            "message": "nderebilirsiniz Bilgi 08882281212 Mersis No 0723004708500017"
-        },
-        {
-            "datetime": "2026-10-03 12:04:08",
-            "number": "77479081655",
+            "datetime": "2026-10-03 16:13:04",
+            "number": "79294400441",
             "cli": "Huawei",
-            "message": "663809 - Huawei verification code to set security phone number"
+            "message": "502202 - Huawei verification code to set security phone number"
         },
         {
-            "datetime": "2026-10-03 12:04:08",
-            "number": "79991337896",
-            "cli": "HoYoverse",
-            "message": "[HoYoverse]ÐÐ°Ñ ÐºÐ¾Ð´ 195219"
+            "datetime": "2026-10-03 16:13:00",
+            "number": "79277518315",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code 157274 valid for 10 minutes Enter it as shown and keep it confidential"
         },
         {
-            "datetime": "2026-10-03 12:03:49",
-            "number": "77079185873",
-            "cli": "olimpbet",
-            "message": "ÐÐ¾Ð´ 406883"
+            "datetime": "2026-10-03 16:12:57",
+            "number": "79815635699",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code 851382 valid for 10 minutes Enter it as shown and keep it confidential"
+        },
+        {
+            "datetime": "2026-10-03 16:12:54",
+            "number": "79180870921",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code 754647 valid for 10 minutes Enter it as shown and keep it confidential"
+        },
+        {
+            "datetime": "2026-10-03 16:12:47",
+            "number": "79111111481",
+            "cli": "ALISERVICE",
+            "message": "[HKTicketing]Verification code 311376 valid for 10 minutes Enter it as shown and keep it confidential"
         }
     ]
 }
