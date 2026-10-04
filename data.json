@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-10-04 06:23:01",
-            "number": "77474379660",
-            "cli": "Kulikov",
-            "message": "Ð¢ÑÑÐºÐµÑ ÐºÐ¾Ð´Ñ 2976"
+            "datetime": "2026-10-04 12:41:38",
+            "number": "79200536088",
+            "cli": "HoYoverse",
+            "message": "[HoYoverse]ÐÐ°Ñ ÐºÐ¾Ð´ 592728"
         },
         {
-            "datetime": "2026-10-04 06:22:58",
-            "number": "79966416469",
+            "datetime": "2026-10-04 12:41:28",
+            "number": "79521111816",
             "cli": "AUTHMSG",
-            "message": "TFOS 225339 - phone number confirmation code"
+            "message": "TFOS 268796 - phone number confirmation code"
         },
         {
-            "datetime": "2026-10-04 06:22:51",
-            "number": "77079078368",
-            "cli": "Kulikov",
-            "message": "Ð¢ÑÑÐºÐµÑ ÐºÐ¾Ð´Ñ 4851"
+            "datetime": "2026-10-04 12:41:21",
+            "number": "77712590771",
+            "cli": "Avtoelon.uz",
+            "message": "fcQobpC"
         },
         {
-            "datetime": "2026-10-04 06:22:51",
-            "number": "77075628774",
-            "cli": "Kulikov",
-            "message": "ÐÐ°ÑÑÐ¾Ð¾ ÐºÐ¾Ð´Ñ 2931"
+            "datetime": "2026-10-04 12:41:21",
+            "number": "77712590771",
+            "cli": "Avtoelon.uz",
+            "message": "Avtoelonuz ÐºÐ¾Ð´ Ð´Ð»Ñ Ð°Ð²ÑÐ¾ÑÐ¸Ð·Ð°ÑÐ¸Ð¸ - 3512 \\nÐÐÐÐÐÐ£ ÐÐ ÐÐÐÐÐ ÐÐ¢Ð ÐÐÐ\\nCMwe"
         },
         {
-            "datetime": "2026-10-04 06:22:42",
-            "number": "79278941037",
+            "datetime": "2026-10-04 12:41:11",
+            "number": "79965041666",
             "cli": "NOTICE",
-            "message": "# 2011 - Ð²Ð°Ñ ÐºÐ¾Ð´ Ð°Ð²ÑÐ¾ÑÐ¸Ð·Ð°ÑÐ¸Ð¸ Ð´Ð»Ñ Solovo M961mm6xNdF"
+            "message": "REG-RESPv=5;r=772600709;n=79965041666;s=026AC2495CFFFFFFFF4DA91C0B509A6271322EBB236C9AFF20E37A760B"
         },
         {
-            "datetime": "2026-10-04 06:22:27",
+            "datetime": "2026-10-04 12:41:05",
+            "number": "77018266310",
+            "cli": "Avtoelon.uz",
+            "message": "Avtoelonuz ÐºÐ¾Ð´ Ð´Ð»Ñ Ð°Ð²ÑÐ¾ÑÐ¸Ð·Ð°ÑÐ¸Ð¸ - 3833 \\nÐÐÐÐÐÐ£ ÐÐ ÐÐÐÐÐ ÐÐ¢Ð ÐÐÐ\\nCMwe"
+        },
+        {
+            "datetime": "2026-10-04 12:41:05",
+            "number": "77018266310",
+            "cli": "Avtoelon.uz",
+            "message": "fcQobpC"
+        },
+        {
+            "datetime": "2026-10-04 12:41:02",
+            "number": "79273583367",
+            "cli": "HoYoverse",
+            "message": "[HoYoverse]ÐÐ°Ñ ÐºÐ¾Ð´ 348380"
+        },
+        {
+            "datetime": "2026-10-04 12:40:50",
             "number": "79119062701",
             "cli": "AUTHMSG",
-            "message": "TFOS 999905 - phone number confirmation code"
+            "message": "TFOS 964318 - phone number confirmation code"
         },
         {
-            "datetime": "2026-10-04 06:22:22",
-            "number": "79997002160",
-            "cli": "AUTHMSG",
-            "message": "TFOS 168425 - phone number confirmation code"
-        },
-        {
-            "datetime": "2026-10-04 06:22:20",
-            "number": "77472734922",
-            "cli": "Kulikov",
-            "message": "Ð ÐµÐ³Ð¸ÑÑÑÐ°ÑÐ¸Ð¾Ð½Ð½ÑÐ¹ ÐºÐ¾Ð´ 7938"
-        },
-        {
-            "datetime": "2026-10-04 06:22:17",
-            "number": "77472562434",
-            "cli": "olimpbet",
-            "message": "ÐÐ¾Ð´ 283079"
-        },
-        {
-            "datetime": "2026-10-04 06:22:02",
-            "number": "79205922802",
-            "cli": "Samsung",
-            "message": "# Account 667398 is your account verification code\\nbP2ROrn3fZQ"
+            "datetime": "2026-10-04 12:40:45",
+            "number": "79295583938",
+            "cli": "NOTICE",
+            "message": "# 7130 - Ð²Ð°Ñ ÐºÐ¾Ð´ Ð°Ð²ÑÐ¾ÑÐ¸Ð·Ð°ÑÐ¸Ð¸ Ð´Ð»Ñ Solovo M961mm6xNdF"
         }
     ]
 }
