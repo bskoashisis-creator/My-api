@@ -1,66 +1,12 @@
 {
     "status": "Success",
-    "records": 10,
+    "records": 1,
     "data": [
         {
-            "datetime": "2026-10-10 21:40:35",
-            "number": "79324075523",
-            "cli": "HoYoverse",
-            "message": "[HoYoverse]ÐÐ°Ñ ÐºÐ¾Ð´ 168629"
-        },
-        {
-            "datetime": "2026-10-10 21:39:56",
-            "number": "79313292972",
-            "cli": "HoYoverse",
-            "message": "[HoYoverse]ÐÐ°Ñ ÐºÐ¾Ð´ 481598"
-        },
-        {
-            "datetime": "2026-10-10 21:39:37",
-            "number": "79320225202",
-            "cli": "HoYoverse",
-            "message": "[HoYoverse]ÐÐ°Ñ ÐºÐ¾Ð´ 361127"
-        },
-        {
-            "datetime": "2026-10-10 21:39:09",
-            "number": "79324075523",
-            "cli": "HoYoverse",
-            "message": "[HoYoverse]ÐÐ°Ñ ÐºÐ¾Ð´ 964601"
-        },
-        {
-            "datetime": "2026-10-10 21:38:46",
-            "number": "79313930677",
-            "cli": "HoYoverse",
-            "message": "[HoYoverse]ÐÐ°Ñ ÐºÐ¾Ð´ 166437"
-        },
-        {
-            "datetime": "2026-10-10 21:38:27",
-            "number": "79320225202",
-            "cli": "HoYoverse",
-            "message": "[HoYoverse]ÐÐ°Ñ ÐºÐ¾Ð´ 526798"
-        },
-        {
-            "datetime": "2026-10-10 21:37:59",
-            "number": "79324075523",
-            "cli": "HoYoverse",
-            "message": "[HoYoverse]ÐÐ°Ñ ÐºÐ¾Ð´ 719762"
-        },
-        {
-            "datetime": "2026-10-10 21:37:18",
-            "number": "79320225202",
-            "cli": "HoYoverse",
-            "message": "[HoYoverse]ÐÐ°Ñ ÐºÐ¾Ð´ 794679"
-        },
-        {
-            "datetime": "2026-10-10 21:36:49",
-            "number": "79313930677",
-            "cli": "HoYoverse",
-            "message": "[HoYoverse]ÐÐ°Ñ ÐºÐ¾Ð´ 488497"
-        },
-        {
-            "datetime": "2026-10-10 21:36:16",
-            "number": "79313292972",
-            "cli": "HoYoverse",
-            "message": "[HoYoverse]ÐÐ°Ñ ÐºÐ¾Ð´ 140148"
+            "datetime": "2026-10-11 00:02:54",
+            "number": "79292636902",
+            "cli": "Pinco",
+            "message": "Ð¢Ð²Ð¾Ð¹ ÐºÐ¾Ð´ 2247\\n ÐÐ¸ÐºÐ¾Ð¼Ñ Ð½Ðµ Ð¿ÐµÑÐµÐ´Ð°Ð²Ð°Ð¹ ÐµÐ³Ð¾ Ð´Ð°Ð¶Ðµ Ð¿ÑÐµÐ´ÑÑÐ°Ð²Ð¸ÑÐµÐ»ÑÐ¼ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸"
         }
     ]
 }
