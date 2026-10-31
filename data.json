@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-10-31 06:17:35",
-            "number": "79961084844",
+            "datetime": "2026-10-31 12:47:55",
+            "number": "79105934330",
             "cli": "AUTHMSG",
-            "message": "TFOS 883877 - phone number confirmation code"
+            "message": "TFOS 229773 - phone number confirmation code"
         },
         {
-            "datetime": "2026-10-31 06:17:11",
-            "number": "79962672425",
-            "cli": "AUTHMSG",
-            "message": "TFOS 029258 - phone number confirmation code"
+            "datetime": "2026-10-31 12:46:39",
+            "number": "79999866951",
+            "cli": "TWLOVERIFY",
+            "message": "Your Cue verification code is 443807 Dont share this code with anyone; our employees will never ask for the code"
         },
         {
-            "datetime": "2026-10-31 06:15:43",
-            "number": "79961260646",
-            "cli": "AUTHMSG",
-            "message": "TFOS 234870 - phone number confirmation code"
+            "datetime": "2026-10-31 12:46:23",
+            "number": "79229053979",
+            "cli": "NOTICE",
+            "message": "Fr DBS DO NOT share this OTP with anyone Youre accessing DBS services If unauthorised call DBS hotline Enter 028109 OTP to proceed 3110 2046"
         },
         {
-            "datetime": "2026-10-31 06:15:32",
-            "number": "79963118267",
-            "cli": "AUTHMSG",
-            "message": "TFOS 812447 - phone number confirmation code"
+            "datetime": "2026-10-31 12:45:36",
+            "number": "79999866951",
+            "cli": "TWLOVERIFY",
+            "message": "Your Cue verification code is 443807 Dont share this code with anyone; our employees will never ask for the code"
         },
         {
-            "datetime": "2026-10-31 06:14:20",
-            "number": "79962706266",
-            "cli": "AUTHMSG",
-            "message": "TFOS 736648 - phone number confirmation code"
+            "datetime": "2026-10-31 12:45:21",
+            "number": "79229053979",
+            "cli": "NOTICE",
+            "message": "Fr DBS DO NOT share this OTP with anyone Youre accessing DBS services If unauthorised call DBS hotline Enter 948831 OTP to proceed 3110 2045"
         },
         {
-            "datetime": "2026-10-31 06:14:09",
-            "number": "79961131080",
-            "cli": "AUTHMSG",
-            "message": "TFOS 649482 - phone number confirmation code"
+            "datetime": "2026-10-31 12:44:51",
+            "number": "79229053979",
+            "cli": "NOTICE",
+            "message": "Fr DBS DO NOT share this OTP with anyone Youre accessing DBS services If unauthorised call DBS hotline Enter 558033 OTP to proceed 3110 2044"
         },
         {
-            "datetime": "2026-10-31 06:14:04",
-            "number": "79963348001",
-            "cli": "AUTHMSG",
-            "message": "TFOS 613614 - phone number confirmation code"
+            "datetime": "2026-10-31 12:44:49",
+            "number": "79229053979",
+            "cli": "NOTICE",
+            "message": "Fr DBS DO NOT share this OTP with anyone Youre accessing DBS services If unauthorised call DBS hotline Enter 043624 OTP to proceed 3110 2044"
         },
         {
-            "datetime": "2026-10-31 06:13:34",
-            "number": "79917926755",
-            "cli": "Apple",
-            "message": "REG-RESPv=3;r=167105066;n=79917926755;s=026AE58706FFFFFFFF3E3F44F57477757FE1EA26997CB00FAFE06D37F7"
+            "datetime": "2026-10-31 12:44:18",
+            "number": "79229053979",
+            "cli": "NOTICE",
+            "message": "Fr DBS DO NOT share this OTP with anyone Youre accessing DBS services If unauthorised call DBS hotline Enter 453198 OTP to proceed 3110 2044"
         },
         {
-            "datetime": "2026-10-31 06:12:51",
-            "number": "79962926693",
-            "cli": "AUTHMSG",
-            "message": "TFOS 825018 - phone number confirmation code"
+            "datetime": "2026-10-31 12:43:38",
+            "number": "79229053979",
+            "cli": "NOTICE",
+            "message": "Fr DBS DO NOT share this OTP with anyone Youre accessing DBS services If unauthorised call DBS hotline Enter 912060 OTP to proceed 3110 2043"
         },
         {
-            "datetime": "2026-10-31 06:12:39",
-            "number": "79992533177",
-            "cli": "AUTHMSG",
-            "message": "TFOS 583776 - phone number confirmation code"
+            "datetime": "2026-10-31 12:43:17",
+            "number": "79207251607",
+            "cli": "HoYoverse",
+            "message": "[HoYoverse]ÐÐ°Ñ ÐºÐ¾Ð´ 847988"
         }
     ]
 }
