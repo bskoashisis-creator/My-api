@@ -3,64 +3,64 @@
     "records": 10,
     "data": [
         {
-            "datetime": "2026-11-21 19:39:06",
-            "number": "79991337793",
-            "cli": "AUTHMSG",
-            "message": "TFOS 318074 - phone number confirmation code"
+            "datetime": "2026-11-21 23:53:40",
+            "number": "79288954460",
+            "cli": "Facebook",
+            "message": "# 940423 is your Instagram code Dont share it"
         },
         {
-            "datetime": "2026-11-21 19:38:57",
-            "number": "79965689756",
-            "cli": "AUTHMSG",
-            "message": "TFOS 301682 - phone number confirmation code"
+            "datetime": "2026-11-21 23:50:30",
+            "number": "79213473298",
+            "cli": "TWLOVERIFY",
+            "message": "Your Cue verification code is 759811 Dont share this code with anyone; our employees will never ask for the code"
         },
         {
-            "datetime": "2026-11-21 19:38:48",
-            "number": "79965962368",
-            "cli": "AUTHMSG",
-            "message": "TFOS 546542 - phone number confirmation code"
+            "datetime": "2026-11-21 23:48:18",
+            "number": "79213416020",
+            "cli": "TWLOVERIFY",
+            "message": "Your Cue verification code is 692875 Dont share this code with anyone; our employees will never ask for the code"
         },
         {
-            "datetime": "2026-11-21 19:38:39",
-            "number": "79992380062",
-            "cli": "AUTHMSG",
-            "message": "TFOS 833508 - phone number confirmation code"
+            "datetime": "2026-11-21 23:44:37",
+            "number": "79213473298",
+            "cli": "TWLOVERIFY",
+            "message": "Your Cue verification code is 759811 Dont share this code with anyone; our employees will never ask for the code"
         },
         {
-            "datetime": "2026-11-21 19:38:27",
-            "number": "79913147834",
-            "cli": "Apple",
-            "message": "REG-RESPv=5;r=570228988;n=79913147834;s=026B01F32DFFFFFFFFF691B7EA4D8B52AC981EE38AA3B5C3210676BFE4"
+            "datetime": "2026-11-21 23:42:22",
+            "number": "79213416020",
+            "cli": "TWLOVERIFY",
+            "message": "Your Cue verification code is 692875 Dont share this code with anyone; our employees will never ask for the code"
         },
         {
-            "datetime": "2026-11-21 19:38:21",
-            "number": "79523051313",
-            "cli": "AUTHMSG",
-            "message": "TFOS 068207 - phone number confirmation code"
+            "datetime": "2026-11-21 23:36:15",
+            "number": "77752511783",
+            "cli": "PlNCO",
+            "message": "ÐÐ¾Ð³Ð¸Ð½ 77752511783\\n ÐÐ°ÑÐ¾Ð»Ñ M#xuavAlF1fUEjH\\n ÐÐµ ÑÐ¾Ð¾Ð±ÑÐ°Ð¹ Ð¸Ñ Ð½Ð¸ÐºÐ¾Ð¼Ñ"
         },
         {
-            "datetime": "2026-11-21 19:37:48",
-            "number": "79539590079",
-            "cli": "AUTHMSG",
-            "message": "TFOS 003190 - phone number confirmation code"
+            "datetime": "2026-11-21 23:31:22",
+            "number": "79231400014",
+            "cli": "NOTICE",
+            "message": "304492 is your Emirates one-time passcode"
         },
         {
-            "datetime": "2026-11-21 19:37:34",
-            "number": "79992152700",
-            "cli": "AUTHMSG",
-            "message": "TFOS 629489 - phone number confirmation code"
+            "datetime": "2026-11-21 23:30:08",
+            "number": "79398085302",
+            "cli": "TWILIO",
+            "message": "Your Twilio verification code is 345663"
         },
         {
-            "datetime": "2026-11-21 19:37:16",
-            "number": "79966810976",
-            "cli": "AUTHMSG",
-            "message": "TFOS 117642 - phone number confirmation code"
+            "datetime": "2026-11-21 23:29:13",
+            "number": "79231400014",
+            "cli": "NOTICE",
+            "message": "364930 is your Emirates one-time passcode"
         },
         {
-            "datetime": "2026-11-21 19:37:05",
-            "number": "79965969695",
-            "cli": "AUTHMSG",
-            "message": "TFOS 421608 - phone number confirmation code"
+            "datetime": "2026-11-21 23:27:16",
+            "number": "79231400014",
+            "cli": "OKTA",
+            "message": "500868 is your Emirates one-time passcode"
         }
     ]
 }
